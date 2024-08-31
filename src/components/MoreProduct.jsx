@@ -1,5 +1,5 @@
 import React from 'react'
-import { products } from '../../data/productData'
+import { products } from '../data/productData'
 
 
 const MoreProduct = ({indexNum, index}) => {

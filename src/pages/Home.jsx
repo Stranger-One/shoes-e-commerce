@@ -1,4 +1,4 @@
-import React, { useMemo, useRef } from 'react';
+import React, { useEffect, useMemo, useRef } from 'react';
 import { Link } from 'react-router-dom';
 import { IoIosArrowForward } from "react-icons/io";
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -11,16 +11,12 @@ import { products } from '../data/productData';
 import { TbTruckDelivery } from "react-icons/tb";
 import { BiSupport } from "react-icons/bi";
 import { IoShieldCheckmarkOutline } from "react-icons/io5";
+import { useDispatch, useSelector } from 'react-redux';
+import { loginUser } from '../store/authSlice';
 
 const Home = () => {
-  // const inputRef = useRef();
-
-  // const handleClick = async () => {
-  //   const query = inputRef.current.value;
-  //   if (query) {
-  //     const data = await getProduct(query);
-  //   }
-  // };
+  // const userDetails = useSelector(state => state.auth.userDetails)
+  
 
   const brands = [
     "Nike ",

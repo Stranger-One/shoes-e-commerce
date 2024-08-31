@@ -1,5 +1,6 @@
 import About from "./About";
 import Cart from "./Cart";
+import Checkout from "./Checkout";
 import Contact from "./Contact";
 import EditProfile from "./EditProfile ";
 import Footer from "./Footer";
@@ -16,6 +17,7 @@ import Signup from "./Signup";
 import Wishlist from "./Wishlist";
 
 export {
+    Checkout,
     ProductDetails,
     Product,
     OrderStatus,

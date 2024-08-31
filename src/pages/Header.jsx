@@ -90,7 +90,7 @@ const Header = () => {
             <NavLink key={index} to={item.url} className={({ isActive }) =>
               `flex items-center text-2xl gap-2 hover:bg-surface px-2 rounded-md ${isActive ? "bg-surface" : ""} `
             } >
-              <div className="lg:hidden">
+              <div className="md:hidden">
                 <React.Fragment >
                   {item.icon}
                 </React.Fragment>
@@ -100,25 +100,27 @@ const Header = () => {
           ))}
         </ul>
 
-        <form onSubmit={handleSearch} className='grid grid-cols-[auto_20px] gap-1 rounded-lg border-secondary border-[1px] px-2 py-[2px] '>
-          <input type="text" placeholder='Search Your Products..' className='bg-transparent outline-none text-[16px]' />
+        <form onSubmit={handleSearch} className='grid lg:grid-cols-[auto_20px] gap-1 rounded-lg border-secondary border-[1px] px-2 py-[2px] '>
+          <input type="text" placeholder='Search Your Products..' className='bg-transparent outline-none text-[16px] md:hidden lg:block' />
           <button type='submit' className=' '><IoIosSearch className='text-2xl' /></button>
         </form>
       </div>
       {userStatus ? (
         <div className=" relative   flex items-center ">
 
-          <Link to="" className='px-2 py-2 rounded-full hover:bg-surface'>
+          <Link to="/account/wishlist" className='px-2 py-2 rounded-full hover:bg-surface'>
             {/* <HiMenuAlt3 className='text-3xl' /> */}
             <IoMdHeartEmpty className='text-2xl' />
           </Link>
-          <Link to="" className='px-2 py-2 rounded-full hover:bg-surface'>
+          <Link to="/account/cart" className='px-2 py-2 rounded-full hover:bg-surface'>
             {/* <HiMenuAlt3 className='text-3xl' /> */}
             <BsCart2 className='text-2xl' />
           </Link>
         </div>
       ) : (
-        <GblBtn className={'bg-primary px-6 py-1 text-background text-xl w-fit '}>Login</GblBtn>
+        <Link to='/login' className='bg-primary px-6 py-1 text-background rounded-lg text-xl w-fit ' >
+          Login
+        </Link>
       )}
 
       {/* <div className="px-1 py-1 relative hover:bg-surface rounded-full">

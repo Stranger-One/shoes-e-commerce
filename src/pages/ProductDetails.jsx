@@ -9,7 +9,7 @@ import { products } from '../data/productData.js'
 import { MoreProduct, Reviews, SimilarProduct, SwiperComp } from '../components/index.js';
 import { IoIosShareAlt } from "react-icons/io";
 import { IoMdHeart } from "react-icons/io";
-import { Link } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import { IoMdArrowForward } from "react-icons/io";
 
 
@@ -19,11 +19,16 @@ const ProductDetails = () => {
   const [screenSize, setScreenSize] = useState(window.innerWidth)
   const [similarSlides, setSimilarSlides] = useState(2.3)
   const [arrow, setArrow] = useState(true)
+  const {productId} = useParams()
+  const [product, setproduct] = useState()
 
-  const productId = '1391487434023925615'
-  const productArr = products.filter(product => product.id == productId)
-  const product = productArr[0]
+  // const productId = '1391487434023925615'
   // console.log(product)
+  console.log(productId);
+  useEffect(()=>{
+    const productArr = products.filter(product => product.id == productId)
+    setproduct(productArr[0])
+  },[productId])
 
   const generateRandomNumArr = (prodNum) => {
     let randomNum = []; // Reset the array
@@ -99,7 +104,7 @@ const ProductDetails = () => {
                 <IoMdStar className='text-3xl' />
                 <IoMdStar className='text-3xl' />
                 {product.rating} ({product.num_reviews}) </div>
-              <div className='text-3xl flex gap-2 items-center'>{product.offer.price || product.typical_price_range}  </div>
+              <div className='text-3xl flex gap-2 items-center'>${product.offer.price || product.typical_price_range}  </div>
 
               {/* sizes */}
               <div className="sizes">

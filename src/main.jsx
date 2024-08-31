@@ -2,7 +2,7 @@ import { createRoot } from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
-import { Login, Home, Signup, Contact, About, MyAccount, Profile, EditProfile, Wishlist, Cart, Orders, OrderStatus, Product, ProductDetails } from './pages/index.js'
+import { Login, Home, Signup, Contact, About, MyAccount, Profile, EditProfile, Wishlist, Cart, Orders, OrderStatus, Product, ProductDetails, Checkout } from './pages/index.js'
 import { Provider } from 'react-redux'
 import store from './store/store.js'
 
@@ -30,6 +30,10 @@ const router = createBrowserRouter([
           {
             path: "cart",
             element: <Cart />,
+          },
+          {
+            path: "cart/checkout",
+            element: <Checkout />,
           },
           {
             path: "orders",

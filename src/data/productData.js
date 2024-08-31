@@ -23,14 +23,13 @@ export const products = [
             "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcShMLR8D7D7YCa8QbB3UIYvKHPPy2Uz2OFWvJwHcCTl307Oj0sX0mL2ll2CORFr7GELarGG-WhQ6eE5YdQWaUMWay8vjYRuIDsEW97kmmJQmij-tQmdh6SILltm"
         ],
         rating: 4.6,
-        sizes: [6, 7, 8, 9, 10, 11],
-        
+        sizes: [6, 7, 8, 10, 11],
         specification: {
             material: "Synthetic leather",
             color: "blue",
             weight: "800 gm",
             type: "sport",
-            ideal: "men's"
+            ideal: "male"
 
         },
         num_reviews: 1242,
@@ -39,16 +38,6 @@ export const products = [
             "$50",
             "$95"
         ],
-        offer: {
-            store_name: "Nike",
-            store_rating: "4.6/5",
-            price: "$70.00",
-            shipping: "$8 delivery Sep 2-7",
-            original_price: null,
-            condition: "NEW",
-            payment_methods: "PayPal, Google Pay accepted"
-        },
-        // add
         similarProduct: [
             "8358019140023150986",
             "7197776916411858838",
@@ -104,6 +93,17 @@ export const products = [
                 date: '20 Aug 2024'
             }
         ],
+        offer: {
+            store_name: "Nike",
+            store_rating: "4.6/5",
+            price: "70.00",
+            shipping: "$8 delivery Sep 2-7",
+            original_price: null,
+            new_arrival: true,
+            payment_methods: "PayPal, Google Pay accepted"
+        },
+        // add
+        
         
     },
     {
@@ -134,10 +134,65 @@ export const products = [
         num_reviews: 155,
         num_offers: 39,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$285.00",
+            price: "285.00",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -165,10 +220,65 @@ export const products = [
         num_reviews: 624,
         num_offers: 63,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$70.00",
+            price: "70.00",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -195,10 +305,65 @@ export const products = [
         num_reviews: 2417,
         num_offers: 276,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "DICK'S Sporting Goods",
             store_rating: "4.6/5",
-            price: "$104.99",
+            price: "104.99",
             shipping: "Free delivery by Sep 2",
             original_price: null,
             condition: "NEW",
@@ -231,10 +396,65 @@ export const products = [
         num_reviews: 11189,
         num_offers: 183,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$115.00",
+            price: "115.00",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -267,10 +487,65 @@ export const products = [
             "$113",
             "$115"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$115.00",
+            price: "115.00",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -308,10 +583,65 @@ export const products = [
         num_reviews: 85741,
         num_offers: 426,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$115.00",
+            price: "115.00",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -342,10 +672,65 @@ export const products = [
         num_reviews: 6488,
         num_offers: 162,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$115.00",
+            price: "115.00",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -382,10 +767,65 @@ export const products = [
         num_reviews: 9,
         num_offers: 3,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "StockX",
             store_rating: "4.1/5",
-            price: "$35,000.00",
+            price: "35,000.00",
             shipping: "$14.95 delivery",
             original_price: null,
             condition: "NEW",
@@ -424,10 +864,65 @@ export const products = [
             "$68",
             "$99"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$90.00",
+            price: "90.00",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -459,10 +954,65 @@ export const products = [
         num_reviews: 645,
         num_offers: 9,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$80.00",
+            price: "80.00",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -500,10 +1050,65 @@ export const products = [
         num_reviews: 1832,
         num_offers: 105,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$77.97",
+            price: "77.97",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -542,10 +1147,65 @@ export const products = [
         num_reviews: 2453,
         num_offers: 83,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$70.00",
+            price: "70.00",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -579,10 +1239,65 @@ export const products = [
         num_reviews: 65,
         num_offers: 35,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$78.97",
+            price: "78.97",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -621,10 +1336,65 @@ export const products = [
         num_reviews: 1832,
         num_offers: 105,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Academy Sports + Outdoors",
             store_rating: "4.0/5",
-            price: "$45.47",
+            price: "45.47",
             shipping: "Free delivery Sep 2-5",
             original_price: null,
             condition: "NEW",
@@ -663,10 +1433,65 @@ export const products = [
             "$72",
             "$103"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Macy's",
             store_rating: "4.4/5",
-            price: "$60.00",
+            price: "60.00",
             shipping: "Free delivery Aug 30-Sep 10",
             original_price: null,
             condition: "NEW",
@@ -700,10 +1525,65 @@ export const products = [
         num_reviews: 232,
         num_offers: 54,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$59.97",
+            price: "59.97",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -738,10 +1618,65 @@ export const products = [
             "$60",
             "$129"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$58.97",
+            price: "58.97",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -774,10 +1709,65 @@ export const products = [
             "$95",
             "$167"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$160.00",
+            price: "160.00",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -807,7 +1797,7 @@ export const products = [
         rating: 4.7,
         sizes: [6, 7, 8, 9, 10, 11],
         specification: {
-            color: "blue",
+            color: "red",
             weight: "800 gm"
         },
         num_reviews: 240,
@@ -816,10 +1806,65 @@ export const products = [
             "$56",
             "$120"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$75.00",
+            price: "75.00",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -857,10 +1902,65 @@ export const products = [
         num_reviews: 2142,
         num_offers: 70,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$75.00",
+            price: "75.00",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -898,10 +1998,65 @@ export const products = [
         num_reviews: 11723,
         num_offers: 338,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$160.00",
+            price: "160.00",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -937,10 +2092,65 @@ export const products = [
         num_reviews: 398,
         num_offers: 103,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$90.00",
+            price: "90.00",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -976,10 +2186,65 @@ export const products = [
         num_reviews: 926,
         num_offers: 45,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$100.00",
+            price: "100.00",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -1013,10 +2278,65 @@ export const products = [
         num_reviews: 423,
         num_offers: 84,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Nike",
             store_rating: "4.6/5",
-            price: "$59.97",
+            price: "59.97",
             shipping: "$8 delivery Sep 2-7",
             original_price: null,
             condition: "NEW",
@@ -1030,7 +2350,7 @@ export const products = [
     {
         id: "272923856497525428",
         title: "Clarks Women's Cora Harbor Casual Slip-On",
-        brand: "nike",
+        brand: "Clarks",
         description: "Here to elevate your everyday look, the Cora Harbor dark tan casual shoe from Clarks blends classic design with premium materials. Crafted from classic leather, it features a molded footbed with shock-absorbing cushioning and a handy side zip, making it easy to pop on and off when you're in a rush. Set on a lightweight sole with a grippy tread, stay light on your toes day in, day out.",
         photos: [
             "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXmHRdYSqSvZYa_5lSzoshG0qabbVtd-O2xv6zCuRT4zlYbUInd3ne0Pe82jBXYBS5buqQwTHnBY1Ruf9HBdenLJOg4BhM6JyAVcm20Bw9UsZemzflo-pE7a02Qw",
@@ -1052,10 +2372,65 @@ export const products = [
             "$45",
             "$90"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Amazon.com",
             store_rating: "4.5/5",
-            price: "$44.98",
+            price: "44.98",
             shipping: "Free delivery",
             original_price: null,
             condition: "NEW",
@@ -1065,7 +2440,7 @@ export const products = [
     {
         id: "8958489991943727873",
         title: "Clarks Women's Carleigh Ray",
-        brand: "nike",
+        brand: "Clarks",
         description: "Keeping comfort at its core, our trusty everyday shoe Carleigh Ray is crafted for back-to-work and busy weekend wear. Durable nubuck uppers in rich dark brown wrap the foot perfectly, while our signature underfoot cushioning and a super-grippy sole keep every step grounded.",
         photos: [
             "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRIgj8ZX8Q2yH92T442Tu0wwdDHLIXkdmYUxSG3OWKfs4_s4ZKrWGL0uZHwgrWPftqbF5O0zHwJwipJjb6WSZ2pQj7CaSJuDDfaR2Sy5RiqFfGq7bITldCq7gZ1",
@@ -1091,10 +2466,65 @@ export const products = [
             "$42",
             "$90"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Amazon.com",
             store_rating: "4.5/5",
-            price: "$54.00",
+            price: "54.00",
             shipping: "Free delivery",
             original_price: null,
             condition: "NEW",
@@ -1104,7 +2534,7 @@ export const products = [
     {
         id: "4702820692568700345",
         title: "Clarks Women's Merliah Karli",
-        brand: "nike",
+        brand: "Clarks",
         description: "Founded by the British Clark Bros. in the early 1820's, Clarks footwear has been a step ahead of the game with their international renowned footwear. Manufactured in England, their casual shoes, outdoor boots, sandals and dress shoes are preferred by both men and woman that want a pair of shoes that are timeless, durable, stylish and most of all comfortable. The broad selection of Clarks women's shoes includes clogs, leather wedges, trendy heels, embellished mary jane dress shoes, comfortable flat leather sandals, trendy ankle boots and fashionable athletic sneakers. For men, Clarks footwear offers leather oxfords, dress shoes, slip-ons and moccasins. Leather outdoor boots and sandals for every occasion. Clarks shoes also has an array of shoes for both boys and girls that are comfortable for the growing kid.",
         photos: [
             "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSJZIKaIMbIT9bQKOObJule2ME2VkIZ8wDquf3nb2O_hdQgxs-fIjw8euzjWFwcvavcWQyKZtEkSx60QslkhK2VhNuZVeaqJpE8ln97yp32PWSGiAcoT2eHVtYU6w",
@@ -1130,10 +2560,65 @@ export const products = [
             "$35",
             "$85"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Amazon.com",
             store_rating: "4.5/5",
-            price: "$56.18",
+            price: "56.18",
             shipping: "Free delivery",
             original_price: null,
             condition: "NEW",
@@ -1143,7 +2628,7 @@ export const products = [
     {
         id: "3463760567858087580",
         title: "Clarks Laurieann Ayla Women's",
-        brand: "nike",
+        brand: "Clarks",
         description: "Clarks Laurieann Ayla - Women's Shoes : White Leather : Walk every step with sheer comfort and style wearing the Clarks Laurieann Ayla Footwear. Leather upper. Textile lining. Cushion Soft technology with OrthoLite textile footbed ensures comfort with every step. Slip-on style with hook-and-loop straps. Round open toe. Showcases 3 stitch detailed foot straps. Synthetic outsole. Imported. Weight of footwear is based on a single item, not a pair.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJacHyYhZ2B_Li9KxSgkGDvxve9-kpJVcPMUl_JeYmCve_UhU8ZWZjll1bZg05D5iiYzgCVm5G3O4kAKvIu8C7PYlRfnKjprvf1xNFBbHdIHgsHK1P0W7_3rcooA",
@@ -1167,10 +2652,65 @@ export const products = [
             "$50",
             "$85"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Amazon.com",
             store_rating: "4.5/5",
-            price: "$56.40",
+            price: "56.40",
             shipping: "Free delivery",
             original_price: null,
             condition: "NEW",
@@ -1180,7 +2720,7 @@ export const products = [
     {
         id: "15232481490198285825",
         title: "Clarks Women's Laurieann Bay",
-        brand: "nike",
+        brand: "Clarks",
         description: "A mule crafted to move naturally with the foot, Laurieann Bay is our of-the-moment profile that offers 24/7 comfort and versatility. Premium dark brown leather uppers enhanced by ruched detailing complement the foot perfectly, while our contoured Ultimate Comfort footbeds support your every step. A sculpted, transitional silhouette.",
         photos: [
             "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSfjMYnNXfyAbk7k6L92MqCPsp3IPW7yEZia0VaNimI5y46PGoT4wag7Kwo7P3F4T9JOEgMLlRpcXOSBUOajfMY1AyLF7wrIG_dJjQBPttTus30_To3AI1nSTqmtQ",
@@ -1200,10 +2740,65 @@ export const products = [
             "$35",
             "$59"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Clarks Shoes",
             store_rating: 0,
-            price: "$44.99",
+            price: "44.99",
             shipping: "$7.95 delivery by Sep 3",
             original_price: null,
             condition: "NEW",
@@ -1214,7 +2809,7 @@ export const products = [
     {
         id: "5184415894052295379",
         title: "Clarks Womens Brinkley Flora",
-        brand: "nike",
+        brand: "Clarks",
         description: "Summer is for adventures, right? Trips to the beach, the park, and the lake. Days by the pool and nights spent on the back patio. Wherever you go this summer, make sure you're getting your steps in with these sporty CLOUDSTEPPERSTM sandals for ultimate levels of comfort. From Clarks Footwear.",
         photos: [
             "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRu2li718FIaPFux6yvfxwyYdRyOJJNEWAsuE3EL6I4bLAzvNq8muwmGyYYVgAQeHjT_eX3sJXFFcqIsmcapPyRqJdfmtO-dYLqlyKRTRVPpNqfCv2gK54dhV9x",
@@ -1238,12 +2833,67 @@ export const products = [
             "$27",
             "$55"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Clarks Shoes",
             store_rating: 0,
-            price: "$55.00",
+            price: "55.00",
             shipping: "$7.95 delivery by Sep 3",
-            original_price: "$55",
+            original_price: "55",
             condition: "NEW",
             coupon_code: "HURRY60",
             coupon_discount: "- $22.00",
@@ -1254,7 +2904,7 @@ export const products = [
     {
         id: "5921713180397437884",
         title: "Clarks Women's Leisa Cacti",
-        brand: "nike",
+        brand: "Clarks",
         description: "Update your summer wardrobe with the Leisa Cacti Q sandal from Clarks. This slip-on features a pure leather construction highlighted with contrast stitching details to make it the perfect match for any outfit. Its three hook & loop closures and the lightweight EVA outsole enhance the comfort and let you take confident strides without feeling fatigued.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT4c-3wweB7GrcnZiYaiRv23OQzJ8hmjhcmE5CjEyEvXyWpPLk5WxwPAr6QwNTAW07_hLKM5uaEfM9aqYXNBjuT0CRnd7n6-bdiI-vPj3blmtM8rSUN5EgS3Wr3kg",
@@ -1278,10 +2928,65 @@ export const products = [
             "$47",
             "$81"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Amazon.com",
             store_rating: "4.5/5",
-            price: "$56.56",
+            price: "56.56",
             shipping: "Free delivery",
             original_price: null,
             condition: "NEW",
@@ -1291,7 +2996,7 @@ export const products = [
     {
         id: "13685171866040039216",
         title: "Clarks Women's Mira Bay",
-        brand: "nike",
+        brand: "Clarks",
         description: "The Clarks MIRA BAY shoes are the perfect choice for modern women seeking style and comfort. With their elegant sophisticated design, these add a touch of refinement to any outfit. cushioned insole rubber outsole ensure all-day comfort excellent grip. Whether day at work or an evening out, MIRA BAY adapts all occasions. versatile stylish your collection chic comfortable look.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRLYomCD2UwIbIlD179u-lzl8UhH_0oOZQA1_25Fcx5pRGrEji7vivCaIMWD7u064YAOu2Y1QC5X0yyE5RUVvmBbLEJyZb20NJJUX-KTGOxB4u9k5ntcvtxK8Fw",
@@ -1316,10 +3021,65 @@ export const products = [
             "$35",
             "$75"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Amazon.com",
             store_rating: "4.5/5",
-            price: "$61.09",
+            price: "61.09",
             shipping: "Free delivery",
             original_price: null,
             condition: "NEW",
@@ -1329,7 +3089,7 @@ export const products = [
     {
         id: "14542646005656755063",
         title: "Clarks Women's Emily Rae Sandal",
-        brand: "nike",
+        brand: "Clarks",
         description: "Strut in confidence with a side of pure comfort in these leather, heeled Mary Janes. The textured leather exterior stamps a fresh twist on a classic style while the adjustable closure allows for a personalized fit. From Clarks Footwear.",
         photos: [
             "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRcGGjaVLNY4KSl_YEX71AXamrYo43DBDnjyn0TMrILkx4ke6sLaAryIlmsy5HsQ9m9FL_ZQap899UrVEHFwTg0Y8H9QEbJYbuz1MZ1_75aerTBWqSAkVoHfGxV",
@@ -1359,10 +3119,65 @@ export const products = [
             "$47",
             "$95"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Amazon.com",
             store_rating: "4.5/5",
-            price: "$65.80",
+            price: "65.80",
             shipping: "Free delivery",
             original_price: null,
             condition: "NEW",
@@ -1372,7 +3187,7 @@ export const products = [
     {
         id: "1633153101967622072",
         title: "Clarks Women's Elizabelle Rio Slip-On Strappy Sandal",
-        brand: "nike",
+        brand: "Clarks",
         description: "Prepping busy feet for city streets and pebbled beaches, our Elizabelle Rio sandal is stacked with comfort features. Crafted from premium off-white leathers, this strappy silhouette wraps the foot perfectly, while our Ultimate Comfort foam footbed and a lightweight, flexible sole make every step feel just as good as the last.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrgnznm6k0XMqa_Z1pcnWlsXRbNxnaNctFjfYUTmWJqlLpkoqRPHrSrG3jhn8OsTR3zTxth6zwvClNjYLR4tg5CVK2-BKa2UcFe0NpNKwp23s0y5BM7kMSj42p",
@@ -1400,12 +3215,67 @@ export const products = [
             "$36",
             "$58"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Clarks Shoes",
             store_rating: 0,
-            price: "$59.99",
+            price: "59.99",
             shipping: "$7.95 delivery by Sep 3",
-            original_price: "$75",
+            original_price: "75",
             condition: "NEW",
             coupon_code: "HURRY60",
             coupon_discount: "- $24.00",
@@ -1416,7 +3286,7 @@ export const products = [
     {
         id: "1749260105849021765",
         title: "Clarks Women's Coast Shine",
-        brand: "nike",
+        brand: "Clarks",
         description: "These gladiator sandals provide your shoe collection with a secure-fitting, oh-so-stylish go-to for all your sunny-season adventures. From Clarks Footwear.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS9lM2qFfqKUMN3f45ZTUZYNYm3Vak5FVG3iER9748NLjKyKbPmglFpTsgbRAZBkDZEIbGzdmm0OAO2qsiUtZyI_2R_3k8yzWvOqYylOXNgmAi7oZ36InnQ2KkO",
@@ -1439,10 +3309,65 @@ export const products = [
             "$47",
             "$62"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "HSN",
             store_rating: "4.4/5",
-            price: "$29.99",
+            price: "29.99",
             shipping: "$5.50 delivery est. by Sep 10",
             original_price: null,
             condition: "NEW",
@@ -1453,7 +3378,7 @@ export const products = [
     {
         id: "13855029424731236509",
         title: "Clarks Men's Weaver Derbys",
-        brand: "nike",
+        brand: "Clarks",
         description: "An iconic casual shoe/trainer hybrid, our classic Weaver channels on-trend 70s Americana nostalgia. Buttery suede in a soft maple hue and a crafted construction create a vintage look, while a natural pebble sole and Clarks Originals fobs act as a marker of our quality craftsmanship.",
         photos: [
             "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ9CFqg_re2189UX_6gkLl6BZIIMekLUA7SLSs1HCz3gWP_p2sk4Wvxf5EqZW6P3MgXqs_I4AvTzbg4PGdZ7VuA5p-0P2EkyJ-tFMKc7nGy1QIEUP-6QJEMdRp0OA",
@@ -1474,12 +3399,67 @@ export const products = [
             "$60",
             "$170"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Clarks Shoes",
             store_rating: 0,
-            price: "$99.99",
+            price: "99.99",
             shipping: "Free delivery by Sep 3",
-            original_price: "$170",
+            original_price: "170",
             condition: "NEW",
             coupon_code: "HURRY60",
             coupon_discount: "- $40.00",
@@ -1490,7 +3470,7 @@ export const products = [
     {
         id: "10942724206964770795",
         title: "Clarks Women's Padmora",
-        brand: "nike",
+        brand: "Clarks",
         description: "The Women's Padmora Chukka Boot is a classic Clarks Wallabee shoe. Leather upper in a chukka boot style with a moc toe. Slip-on entry. Moc stitching and dual laces. Textile lining with OrthoLite comfort footbed. Thermoplastic rubber outsole.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS2lIxg0bwc7tvHmA9hF5NcFjOBb9kY9uinM3lAmJSb6b47424_jxHvVj-lxtPKBhw2WOVwPSFiLDFh_nakF9P8n5-C0eoqflD8GCPzIx1y4i0B3OeLyZnez3Sb",
@@ -1517,10 +3497,65 @@ export const products = [
             "$53",
             "$105"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Amazon.com",
             store_rating: "4.5/5",
-            price: "$64.99",
+            price: "64.99",
             shipping: "Free delivery",
             original_price: null,
             condition: "NEW",
@@ -1530,7 +3565,7 @@ export const products = [
     {
         id: "1742023629496660758",
         title: "Clarks Men's Malwood Lace Oxford",
-        brand: "nike",
+        brand: "Clarks",
         description: "A smart casual shoe with a crafted feel, meet Malwood Lace - our new everyday classic. With heritage brown leather uppers and authentic lacing, its flexible construction and breathable footbed keep busy feet comfy and fresh. Set on an airy EVA sole, stay light on your toes as you step from work to weekend.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQPOSQBoNzR2CuFXRDxYtIO4xhPLX9IxtUshXurRk4qOBXDjocaA324hvzdGkSbQPJxHMbdPGFBm6kYoSfMdHlbmWvXKkFRMI3WmTLXhu57QCzotonYiRdvTodX",
@@ -1555,12 +3590,67 @@ export const products = [
             "$42",
             "$110"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Clarks Shoes",
             store_rating: 0,
-            price: "$64.99",
+            price: "64.99",
             shipping: "$7.95 delivery by Sep 3",
-            original_price: "$100",
+            original_price: "100",
             condition: "NEW",
             coupon_code: "HURRY60",
             coupon_discount: "- $26.00",
@@ -1571,7 +3661,7 @@ export const products = [
     {
         id: "7935196351663585388",
         title: "Clarks Womens Clarks Pro Sky Shoes",
-        brand: "nike",
+        brand: "Clarks",
         description: "Find your work life balance with the Clarks PRO, a collection of styles ready to work shifts and see you through long hours on your feet! A professional pair built for busy working life; performance-focused style Clarks Pro Sky features stretch goring to the side for ultimate comfort. Arriving in durable leather, it combines premium materials with superior comfort tech to enhance every moment you spend on the go. Its specialized soles have been tested and certified through SATRA - a leading technical authority for footwear and leather - to maximise slip-resistant performance.",
         photos: [
             "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRdsIFiTxZEiNlS1PKcXKLW4WqlD4XyRSEXxlxUQdYQGCBhibXnL3ItR7iidqaHfDMIYQVFRlyPYHtI6aK-uzo5DhlMRkI7y9AY1gPFMjF4oTZxn8LuNUiF04yl",
@@ -1592,12 +3682,67 @@ export const products = [
             "$42",
             "$120"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Clarks Shoes",
             store_rating: 0,
-            price: "$69.99",
+            price: "69.99",
             shipping: "$7.95 delivery by Sep 3",
-            original_price: "$120",
+            original_price: "120",
             condition: "NEW",
             coupon_code: "HURRY60",
             coupon_discount: "- $28.00",
@@ -1608,7 +3753,7 @@ export const products = [
     {
         id: "7542573395318638738",
         title: "Clarks Women's Wave Range AP",
-        brand: "nike",
+        brand: "Clarks",
         description: "These hiking shoes are the tough yet stylish kicks you need for all your outdoor adventures. Their weatherproof exterior eliminates any worries about rain or puddles, too! From Clarks Footwear.",
         photos: [
             "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSlvuuGzQFJIzZYBUL4faO9IGtHnm2vHHfl2s7Ic5Rmaf0jjhkpkKWTHa75M2vHNHwXsWnlrylixGarLYS1xdByh9zqG4inATSdjljy4VkO_OxBYdufF-hij51m",
@@ -1629,12 +3774,67 @@ export const products = [
             "$60",
             "$174"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Clarks Shoes",
             store_rating: 0,
-            price: "$99.99",
+            price: "99.99",
             shipping: "Free delivery by Sep 3",
-            original_price: "$140",
+            original_price: "140",
             condition: "NEW",
             coupon_code: "HURRY60",
             coupon_discount: "- $40.00",
@@ -1645,7 +3845,7 @@ export const products = [
     {
         id: "12998662876521249253",
         title: "Clarks Men's Un Hugh Lace",
-        brand: "nike",
+        brand: "Clarks",
         description: "Fusing a lightweight feel with smart styling, our Un Hugh Lace shoe rises to the occasion every time. Classic black leather creates a premium finish, while its light flexible sole uses innovative technology for extra ventilation. Complete with targeting cushioning and leather lining, step into comfort that lasts.",
         photos: [
             "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLURoNjuipUpQC_nzlmD2ssuygQOy8Tp8H3hhckcqJ8a1vrJTrYk9aSDLLjF36wYMkMg2dcdbeKx_i-0Rv51qxN5O4zhMb6SvaZLqTx7rwtFp6pLx2VoC2knmudQ",
@@ -1668,12 +3868,67 @@ export const products = [
         num_reviews: 20,
         num_offers: 17,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Clarks Shoes",
             store_rating: 0,
-            price: "$79.99",
+            price: "79.99",
             shipping: "$7.95 delivery by Sep 3",
-            original_price: "$140",
+            original_price: "140",
             condition: "NEW",
             coupon_code: "HURRY60",
             coupon_discount: "- $32.00",
@@ -1684,7 +3939,7 @@ export const products = [
     {
         id: "13078777034095850165",
         title: "Clarks Mens Un Hugh Step",
-        brand: "nike",
+        brand: "Clarks",
         description: "Fusing a lightweight feel with smart styling, our slip-on Un Hugh Step shoe rises to the occasion every time. With classic brown leather uppers for a polished aesthetic, its light flexible sole uses innovative technology for extra ventilation. Complete with targeting cushioning and leather lining, step into comfort you can always count on.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTe_Sqe0HllPo3k6vsgTHhV5L-g-EsPt-UuGZtgbMDJsHxvhQLdTJVM2rzLlgZQsHJji3mrWpFmeyQmmtwoDFygKtA5Oofhv9sXZWdDFZZVX1u0i0ffGPZjqsK_",
@@ -1714,12 +3969,67 @@ export const products = [
             "$51",
             "$90"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Clarks Shoes",
             store_rating: 0,
-            price: "$79.99",
+            price: "79.99",
             shipping: "$7.95 delivery by Sep 3",
-            original_price: "$140",
+            original_price: "140",
             condition: "NEW",
             coupon_code: "HURRY60",
             coupon_discount: "- $32.00",
@@ -1730,7 +4040,7 @@ export const products = [
     {
         id: "806726763120109573",
         title: "Clarks Women's Ashland Spin",
-        brand: "nike",
+        brand: "Clarks",
         description: "The only way to go for comfort! The beauty of these shoes starts with customer-favorite Bendables technology from Clarks, which employs internal and external grooves for an ultra-flexible fit. Here, it's been combined with the popular Ashland bottom--lightweight and grooved to provide superior traction and durability--for incredible, all-day comfort. These slip-ons look as good as they feel, thanks to the rich leather vamp. Its woven, cutout design is adorned with perforation and stitched details at the top as a finishing touch. The stylish look is a perfect partner for dresses, skirts, and pants throughout your workweek. And they're equally at home when the weekend arrives, keeping a T-shirt and jeans or shorts looking cute, casual, and completely pulled together. Find your perfect fit and hue. Offered in medium, wide, and narrow widths, these shoes make it easy to find a fit that can't be beat. A hook-and-loop closure provides additional adjustability and keeps you feeling your best throughout long days and nights. With shades that range from basic to beautiful and a price to knock your socks off, you're sure to find the perfect one--or two--for you. From Clarks Bendables.",
         photos: [
             "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyZ647o-qW1sWSw35fWQV5sH4OqvYUulcbsPYwpp6MSM6ja36RN1Bu227cTLZV_eQ_I2B6hXq-ABswhviXNWry11SM-tTV63rOaCTSuJ20cpy1JWbWSy5ggqS22Q",
@@ -1759,10 +4069,65 @@ export const products = [
             "$40",
             "$90"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Amazon.com",
             store_rating: "4.5/5",
-            price: "$50.59",
+            price: "50.59",
             shipping: "Free delivery",
             original_price: null,
             condition: "NEW",
@@ -1772,7 +4137,7 @@ export const products = [
     {
         id: "8268788246910336246",
         title: "Clarks Women's Sillian Paz Slip On",
-        brand: "nike",
+        brand: "Clarks",
         description: "A light, flexible fit makes this pair a must-wear for warmer weather – especially for those times you want to be active and still have a bit of style. Adding to that comfort are Clarks' Ortholite and Cloudsteppers features, such as a breathable feel, moisture wicking, and antimicrobial properties. Synthetic nubuck upper. With textile lining. Slip-on style. Cloudsteppers features add a light, flexible, and soft feel and athletic details. Cushion Soft technology improves comfort. EVA midsole adds to overall cushioned feel. Removable Ortholite molded footbed enhances long-term comfort through breathable materials, antimicrobial treatment, and moisture management. Rubber outsole. 1.35 in. heel with a 1⁄4 in. platform. Weighs 6 oz. Imported.",
         photos: [
             "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPKBCob1bTjVdaxdJ3qBvvlNrEE2odgjoEMVtL5y438x7Pv6qH-r7XsOk6g0-_IUNxMp9v_eTAEz0q_JjVAHbu1hAtjHUHz3ShlJBmZhCZKVe-6KnZW1nFmRcX",
@@ -1800,10 +4165,65 @@ export const products = [
         num_reviews: 1455,
         num_offers: 64,
         typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Amazon.com",
             store_rating: "4.5/5",
-            price: "$47.50",
+            price: "47.50",
             shipping: "Free delivery",
             original_price: null,
             condition: "NEW",
@@ -1813,7 +4233,7 @@ export const products = [
     {
         id: "1168805559125733662",
         title: "Clarks Artisan Sarafyna Iris Leather Chain Loafers",
-        brand: "nike",
+        brand: "Clarks",
         description: "Dress-casual looks need the footwear to match – enter loafer Sarafyna Iris, a buttery leather silhouette complete with on-trend chain embellishment to team with tailoring, denim and everything in between. Inspired by the feeling of being barefoot, this streamlined pair paves the way for weightless movement with unlined uppers and a Contour Cushion footbed that keeps you light on your feet.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRE9r_Sc9gjixBtZbLCZAcPvHZaSLq2AtXw-kQyoUVjm1LBCSmo800DazfgIoAi633TS97DWiJYqD-8Yjg4wmXADehktcHaSzQlbceEJB_az5UB_Ety6wzd9-sSEg",
@@ -1833,10 +4253,65 @@ export const products = [
             "$110",
             "$110"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Clarks Shoes",
             store_rating: 0,
-            price: "$110.00",
+            price: "110.00",
             shipping: "Free delivery by Sep 3",
             original_price: null,
             condition: "NEW",
@@ -1846,7 +4321,7 @@ export const products = [
     {
         id: "16641695186486216074",
         title: "Clarks Men's Cotrell Walk",
-        brand: "nike",
+        brand: "Clarks",
         description: "The men's Clarks Cotrell Walk is sure to become a seasonal staple! The leather upper features a lace up closure to ensure a secure and custom fit. The Ortholite footbed delivers ultimate cushion for all-day comfort, while the durable outsole provides stability and traction. Pair the Cotrell Walk with all of your casual outfits! Leather upper. Lace up closure to ensure a secure and custom fit. Contrasting stitch detail for added interest. Textile lining for breathable comfort. Ortholite footbed delivers ultimate cushion. Durable outsole provides stability and traction.",
         photos: [
             "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSFDZ0Engo-wjrYH-nOCXA95TDrdxWncuZ1ZV3u0nc6WWMGeBgVG85f56Sx_uatxDAmZvoOJa7DcgZZM2nSkELrjxmce49V21-Nmbr1pDs-TApfDHrhoLWHV22W1Q",
@@ -1874,10 +4349,65 @@ export const products = [
             "$60",
             "$70"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Amazon.com",
             store_rating: "4.5/5",
-            price: "$69.99",
+            price: "69.99",
             shipping: "Free delivery",
             original_price: null,
             condition: "NEW",
@@ -1887,7 +4417,7 @@ export const products = [
     {
         id: "7969458723703462012",
         title: "Clarks Mens Flexway Easy",
-        brand: "nike",
+        brand: "Clarks",
         description: "The clues in the name, our new casual shoes flexaway easy is all about living freely. Crafted in classic suede, a tread down heel makes for easy on off and our flexible, lightweight soles work with your natural walking motion- from weekends at the beach to navigating a new city. Whats more, its packable design collapses too so you can always have them on hand- minus the extra baggage.",
         photos: [
             "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSw19yaMdInYVwCyyvd9eaWd1le7n4NYVL_5uE57QKzscEIegjY8-7uwJz1FQcw9fTnswuOan-LAZuF0QDbiV9SG3-PED37zwygeluQTxLxkNw9XXEFpE1YkVH0",
@@ -1909,10 +4439,65 @@ export const products = [
             "$45",
             "$100"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Amazon.com",
             store_rating: "4.5/5",
-            price: "$65.47",
+            price: "65.47",
             shipping: "Free delivery",
             original_price: null,
             condition: "NEW",
@@ -1922,7 +4507,7 @@ export const products = [
     {
         id: "16037100061457338933",
         title: "Clarks Womens Emily 2 Ruby",
-        brand: "nike",
+        brand: "Clarks",
         description: "Look perfectly polished in this pair. The Emily2 pump from Clarks features a comfortable padded insole and a sturdy block heel for all-day support. Complete with a classic silhouette and a neutral color that seamlessly blends with any formal look.",
         photos: [
             "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTnLBs1xh-GFrDzBViy9h0ovvBAD9AQ-DM-BinIGjurLQCqEuJhgmuNeVbwo-t1QPZHotgmx7jaI4RT-_IZtL5GrlovQU2AP4TWWdbSSGx1W_HC6sO_DMVkPlilRw",
@@ -1951,10 +4536,65 @@ export const products = [
             "$60",
             "$95"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Clarks Shoes",
             store_rating: 0,
-            price: "$95.00",
+            price: "95.00",
             shipping: "Free delivery by Sep 3",
             original_price: null,
             condition: "NEW",
@@ -1964,7 +4604,7 @@ export const products = [
     {
         id: "15063106241553055136",
         title: "Clarks Men's Gessler Lace Shoes",
-        brand: "nike",
+        brand: "Clarks",
         description: "Step into the season with the Gessler, a lace-up shoe that blends classic design with modern comfort. Its rich leather upper and heritage stitching showcase its upscale craftsmanship, while the lightweight sole and padded footbed promise ease and freedom with every step. From Clarks.",
         photos: [
             "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSH32H4hzXAE5I5J9UcVgEYFqfJPiqqBuqyr8FPEL9s58GnqPxrOiJu2YuKQjvCLJbHOePEGreAbBzNCqrpHyF3SjO6gX2I14nFVHzNse4K8_ipgB5_jOMZ-0bu",
@@ -1990,10 +4630,65 @@ export const products = [
             "$55",
             "$95"
         ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
         offer: {
             store_name: "Clarks Shoes",
             store_rating: 0,
-            price: "$95.00",
+            price: "95.00",
             shipping: "Free delivery by Sep 3",
             original_price: null,
             condition: "NEW",

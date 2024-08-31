@@ -4,7 +4,7 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 import { Pagination, Navigation } from 'swiper/modules';
-import SimilarProduct from './product/SimilarProduct';
+import SimilarProduct from './SimilarProduct';
 
 const SwiperComp = ({ productArray }) => {
     const [screenSize, setScreenSize] = useState(window.innerWidth)
