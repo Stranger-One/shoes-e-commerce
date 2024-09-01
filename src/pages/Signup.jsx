@@ -1,8 +1,9 @@
 import { BiUser } from "react-icons/bi";
-import {AiOutlineUnlock} from 'react-icons/ai';
+import { AiOutlineUnlock } from 'react-icons/ai';
 import { Link, useNavigate } from "react-router-dom";
 import { MdOutlineEmail } from "react-icons/md";
 import { useEffect, useState } from "react";
+import toast from "react-hot-toast";
 
 
 const Signup = () => {
@@ -15,27 +16,49 @@ const Signup = () => {
   const navigate = useNavigate()
 
 
-  useEffect(()=>{
+  useEffect(() => {
     let userAccounts = JSON.parse(localStorage.getItem('UserAccounts')) || []
     setUserAccounts(userAccounts)
-    console.log("userAccounts", userAccounts);
+    // console.log("userAccounts", userAccounts);
   }, [])
 
 
   const handleSubmit = (e) => {
     e.preventDefault()
 
+    if(userAccounts.filter(account => account.email === email).length > 0){
+      toast.error('Email already exists')
+      return
+    }
+
+    if(!email.includes("@gmail.com")){
+      toast.error('Email must be a valid email')
+    }
+
+    if(!password.includes('@')){
+      toast.error("Password must includes '@' ")
+      return
+    }
+
     const userData = {
       name,
       email,
       password,
-      confPass
+      confPass,
+      phone: '',
+      address: '',
+      pin: '',
+      city: '',
+      state: '',
+      wishlist: [],
+      cart: [],
+      orderHistory: [],
     }
-    if(name === '' || email === '' || password === '' || confPass === ''){
+    if (name === '' || email === '' || password === '' || confPass === '') {
       alert('Please fill all the fields')
       return
     }
-    if(password !== confPass){
+    if (password !== confPass) {
       alert('Passwords do not match')
       return
     }
@@ -43,8 +66,8 @@ const Signup = () => {
 
     setUserAccounts([...userAccounts, userData])
     localStorage.setItem('UserAccounts', JSON.stringify([...userAccounts, userData]))
-      
-    alert('Account created successfully')
+
+    toast.success('Account created successfully')
     navigate('/login')
   };
 
@@ -58,7 +81,7 @@ const Signup = () => {
         <form onSubmit={handleSubmit}>
           <div className="relative my-8">
             <input
-              onChange={(e)=>setname(e.target.value)}
+              onChange={(e) => setname(e.target.value)}
               value={name}
               type="username"
               className="block w-72 py-2,3 px-0 text-white text-md bg-transparent border-0 border-b-2 border-gray-300 appearance-none focus:outline-none focus:ring-0 focus:text-white focus:border-primary peer "
@@ -75,7 +98,7 @@ const Signup = () => {
           </div>
           <div className="relative my-8">
             <input
-              onChange={(e)=>setEmail(e.target.value)}
+              onChange={(e) => setEmail(e.target.value)}
               value={email}
               type="email"
               className="block w-72 py-2,3 px-0 text-white text-md bg-transparent border-0 border-b-2 border-gray-300 appearance-none focus:outline-none focus:ring-0 focus:text-white focus:border-primary peer "
@@ -92,7 +115,7 @@ const Signup = () => {
           </div>
           <div className="relative my-8">
             <input
-              onChange={(e)=>setPassword(e.target.value)}
+              onChange={(e) => setPassword(e.target.value)}
               value={password}
               type="password"
               className="block w-72 py-2,3 px-0 text-white text-md bg-transparent border-0 border-b-2 border-gray-300 appearance-none focus:outline-none focus:ring-0 focus:text-white focus:border-primary peer "
@@ -109,8 +132,8 @@ const Signup = () => {
           </div>
           <div className="relative my-8">
             <input
-            onChange={(e)=>setConfPass(e.target.value)}
-            value={confPass}
+              onChange={(e) => setConfPass(e.target.value)}
+              value={confPass}
               type="password"
               className="block w-72 py-2,3 px-0 text-white text-md bg-transparent border-0 border-b-2 border-gray-300 appearance-none focus:outline-none focus:ring-0 focus:text-white focus:border-primary peer "
               placeholder=""

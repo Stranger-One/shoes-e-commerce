@@ -59,13 +59,13 @@ const Product = () => {
         const matchesPrice = filters.price ? product.offer.price <= filters.price : true;
 
         const matchesSize = filters.size !== 'all' ? product.sizes.includes(Number(filters.size)) : true;
-        const matchesGender = filters.gender !== 'all' ? product.specification.ideal === filters.gender : true;
+        // const matchesGender = filters.gender !== 'all' ? product.specification.ideal === filters.gender : true;
         const matchesBrand = filters.brand !== 'all' ? product.brand === filters.brand.toLowerCase() : true;
         // const matchesMaterial = filters.material !== 'all' ? product.specification.material === filters.material : true;
-        const matchesColor = filters.color !== 'all' ? product.specification.color === filters.color : true;
-        const matchesNewArrivals = filters.newArrivals !== undefined ? product.offer.new_arrival === filters.newArrivals : true;
+        // const matchesColor = filters.color !== 'all' ? product.specification.color === filters.color : true;
+        // const matchesNewArrivals = filters.newArrivals !== undefined ? product.offer.new_arrival === filters.newArrivals : true;
 
-        if (matchesPrice && matchesSize && matchesGender && matchesBrand && matchesColor && matchesNewArrivals) {
+        if ( matchesPrice && matchesSize  && matchesBrand ) {
           return product
         }
       })
@@ -75,17 +75,17 @@ const Product = () => {
     }
 
     // console.log(tempArr);
-    console.log(tempIdArr);
+    // console.log(tempIdArr);
 
-    console.log(filters);
-
-    // setOpenFilter(false)
+    // console.log(filters);
+    setProductIds(tempIdArr)
+    setOpenFilter(false)
   };
 
   return (
     <section className='w-full relative'>
       {/* filter */}
-      <div className=" w-full h-10 sticky top-14 px-10 left-0 bg-ground z-10 flex items-center justify-between border-b-[1px] border-surface">
+      <div className=" w-full h-10 sticky top-14 px-4 lg:px-10 left-0 bg-ground z-10 flex items-center justify-between border-b-[1px] border-surface">
         <h2 className='text-xl'>All Products</h2>
         <div className="">
           <button type='button' onClick={() => setOpenFilter(!openFilter)} className='flex items-center gap-2  py-[2px] px-2 rounded-lg boxShadow '><IoFilter /> Filter</button>
@@ -98,10 +98,10 @@ const Product = () => {
 
             {[
               { label: "Size", id: "size", options: ["All", "5", "6", "7", "8", "9", "10", "11"], value: size, onChange: setSize },
-              { label: "Gender", id: "gender", options: ["All", "Male", "Female"], value: gender, onChange: setGender },
-              { label: "Brand", id: "brand", options: ["All", "Nike", "Adidas"], value: brand, onChange: setBrand },
+              // { label: "Gender", id: "gender", options: ["All", "Male", "Female"], value: gender, onChange: setGender },
+              { label: "Brand", id: "brand", options: ["All", "Nike", "Adidas", 'Clarks', 'Puma', 'Skecher', 'Sparx', 'Paragon', 'Metro'], value: brand, onChange: setBrand },
               // { label: "Material", id: "material", options: ["All", "Cotton", "Polyester"], value: material, onChange: setMaterial },
-              { label: "Color", id: "color", options: ["All", "Blue", "Green"], value: color, onChange: setColor },
+              // { label: "Color", id: "color", options: ["All", "Blue", "Green"], value: color, onChange: setColor },
             ].map(({ label, id, options, value, onChange }) => (
               <div key={id} className="flex gap-1 items-center">
                 <label htmlFor={id}>{label}:</label>
@@ -113,13 +113,13 @@ const Product = () => {
               </div>
             ))}
 
-            <div className="flex gap-1 items-center">
+            {/* <div className="flex gap-1 items-center">
               <label htmlFor="newArrivals">New Arrivals:</label>
               <input onChange={() => setNewArrivals(!newArrivals)} type="checkbox" checked={newArrivals} id="newArrivals" className="h-4 w-4" />
-            </div>
+            </div> */}
 
             <div className="w-full grid grid-cols-2 mt-2">
-              <button onClick={() => setOpenFilter(false)} className="py-1 bg-ground">Cancel</button>
+              <button type='button' onClick={() => setOpenFilter(false)} className="py-1 bg-ground">Cancel</button>
               <button type="submit" className="py-1 bg-primary">Apply</button>
             </div>
           </form>
@@ -128,7 +128,7 @@ const Product = () => {
       </div>
 
       {/* products */}
-      <div className=' w-full grid grid-cols-2 lg:grid-cols-5 gap-1 p-10 relative '>
+      <div className=' w-full grid grid-cols-2 lg:grid-cols-5 gap-2 p-4 lg:p-10 relative '>
         {productIds.map((id, index) => (
           <ProductCard productId={id} key={index} />
         ))}

@@ -22,13 +22,13 @@ const MyAccount = () => {
 
 
   return (
-    <section className="w-full pt-16 px-10 relative">
-      <div className="col-span-2 h-fit  flex items-center px-10 bg-ground w-full py-2 fixed top-14 left-0 z-10">
+    <section className="w-full pt-16 px-4 lg:px-10 relative">
+      <div className="col-span-2 h-fit  flex items-center px-4 lg:px-10 bg-ground w-full py-2 fixed top-14 left-0 z-10">
         <p className="text-zinc-700 font-semibold capitalize leading-tight ">{location.pathname} </p>
       </div>
       {userStatus ? (
-        <div className=" grid grid-cols-[250px_auto] gap-2 pb-10">
-          <div className="h-[80vh] sticky top-24 flex flex-col justify-between  border-r-2 border-surface pr-2 ">
+        <div className=" grid lg:grid-cols-[250px_auto] gap-2 pb-10 relative">
+          <div className="h-[80vh] hidden lg:sticky lg:top-24 lg:flex flex-col justify-between  border-r-2 border-surface pr-2 ">
             <div className="  ">
               <Link to='/account/profile' className="w-full flex items-center justify-between h-10 px-2 text-[16px] bg-surface rounded-lg mt-1 ">
                 <span>My Profile</span> <IoIosArrowForward />

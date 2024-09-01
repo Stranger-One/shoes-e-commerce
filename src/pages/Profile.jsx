@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { updateUserDetails } from '../store/authSlice'
+import toast from 'react-hot-toast'
 
 const Profile = () => {
   const userDetails = useSelector(state => state.auth.userDetails)
@@ -15,11 +16,15 @@ const Profile = () => {
   const [pin, setPin] = useState(userDetails.pin)
   
   const [userAccounts, setUserAccounts] = useState([])
+  const [currentUserDetails, setcurrentUserDetails] = useState({})
 
   useEffect(()=>{
     let userAccounts = JSON.parse(localStorage.getItem('UserAccounts')) || []
     setUserAccounts(userAccounts)
-    console.log("userAccounts", userAccounts);
+    const user = userAccounts.filter((acc) => acc.email === userDetails.email)
+    setcurrentUserDetails(user[0])
+    // console.log(user);
+    // console.log("userAccounts", userAccounts);
   }, [])
 
   const list = [
@@ -47,6 +52,7 @@ const Profile = () => {
     e.preventDefault()
 
     const inputDetails = {
+      ...currentUserDetails,
       name,
       email,
       phone,
@@ -56,7 +62,7 @@ const Profile = () => {
       pin
     }
 
-    console.log(inputDetails);
+    // console.log(inputDetails);
     localStorage.setItem('currentUser', JSON.stringify(inputDetails))
 
     let updatedAccounts = userAccounts.map(acc => {
@@ -72,7 +78,7 @@ const Profile = () => {
 
     dispatch(updateUserDetails({...userDetails, ...inputDetails}))
 
-    alert("Profile updated successfully")
+    toast.success("Profile updated successfully")
   };
 
 
@@ -80,14 +86,14 @@ const Profile = () => {
     <div className=' mb-10'>
       <form onSubmit={handleSubmit}>
 
-        <div className=" grid grid-cols-2 gap-6 pl-10  mb-10">
+        <div className=" grid grid-cols-1 lg:grid-cols-2 gap-6 lg:pl-10  mb-10">
           {list.map((item, index) => (
             <div key={index} className='flex flex-col'>
               <label htmlFor={item.index}>{item.label} </label>
               <input onChange={(e) => item.onchange(e.target.value)} placeholder={item.placeholder} type="text" id={item.index} value={item.value} className='py-2 outline-none rounded-lg px-3' />
             </div>
           ))}
-          <div className="col-span-2 flex flex-col">
+          <div className="lg:col-span-2 flex flex-col">
             <label htmlFor="address">Address </label>
             <textarea  name="" id="address" placeholder='Address..' onChange={e => setAddress(e.target.value)} value={address} className='p-4 outline-none rounded-lg'></textarea>
           </div>

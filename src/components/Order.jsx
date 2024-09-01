@@ -12,11 +12,11 @@ const Order = ({ productId, orderId = '12765794' }) => {
 
     return (
         <Link to={`${orderId}`} >
-            <div className='w-full grid grid-cols-[200px_auto] border-[1px] border-surface p-2 rounded-lg '>
+            <div className='w-full grid gap-4 lg:grid-cols-[200px_auto] border-[1px] border-surface p-2 rounded-lg '>
                 <div className="h-[200px] grid content-center p-4 bg-white rounded-lg ">
                     <img src={product.photos[0]} alt="" />
                 </div>
-                <div className=" grid grid-cols-[auto_40px] ">
+                <div className=" grid lg:grid-cols-[auto_40px] ">
                     <div className="px-6 flex flex-col gap-1">
                         <h2 className="text-lg font-semibold ">{product.title}</h2>
                         <div className='flex items-center '>

@@ -9,26 +9,50 @@ import { products } from '../data/productData.js'
 import { MoreProduct, Reviews, SimilarProduct, SwiperComp } from '../components/index.js';
 import { IoIosShareAlt } from "react-icons/io";
 import { IoMdHeart } from "react-icons/io";
-import { Link, useParams } from 'react-router-dom';
+import { Link, useNavigate, useParams } from 'react-router-dom';
 import { IoMdArrowForward } from "react-icons/io";
+import { useDispatch, useSelector } from 'react-redux';
+import { updateUserDetails } from '../store/authSlice.js';
+import { FaMinus, FaPlus } from 'react-icons/fa';
+import toast from 'react-hot-toast';
 
 
 
 
 const ProductDetails = () => {
+  const [quantity, setQuantity] = useState(1)
+  const navigate = useNavigate()
+
   const [screenSize, setScreenSize] = useState(window.innerWidth)
   const [similarSlides, setSimilarSlides] = useState(2.3)
   const [arrow, setArrow] = useState(true)
-  const {productId} = useParams()
+  const { productId } = useParams()
   const [product, setproduct] = useState()
+  const [isInWishlist, setIsInWishlist] = useState(false)
+  const [userAccounts, setUserAccounts] = useState()
+
+  const userDetails = useSelector(state => state.auth.userDetails)
+  const userStatus = useSelector(state => state.auth.userStatus)
+  const dispatch = useDispatch()
+
 
   // const productId = '1391487434023925615'
-  // console.log(product)
-  console.log(productId);
-  useEffect(()=>{
+  useEffect(() => {
     const productArr = products.filter(product => product.id == productId)
     setproduct(productArr[0])
-  },[productId])
+    // console.log(productArr[0])
+    if (userStatus) {
+      let currentUser = JSON.parse(localStorage.getItem('currentUser'))
+      if (currentUser.wishlist.includes(productId)) {
+        setIsInWishlist(true)
+      }
+
+      let users = JSON.parse(localStorage.getItem('UserAccounts'))
+      if (users) {
+        setUserAccounts(users)
+      }
+    }
+  }, [productId])
 
   const generateRandomNumArr = (prodNum) => {
     let randomNum = []; // Reset the array
@@ -39,10 +63,7 @@ const ProductDetails = () => {
     }
     return randomNum; // Return the array
   };
-
   const randomNum = useMemo(() => generateRandomNumArr(15), [products.length]);
-
-
 
   useEffect(() => {
     if (screenSize < 640) {
@@ -61,6 +82,140 @@ const ProductDetails = () => {
   })
 
 
+  const toggleWish = () => {
+    if (!userStatus) {
+      toast.error('Please login first..')
+      return
+    }
+
+    setIsInWishlist(toggle => !toggle)
+
+    // add to wishlist
+    if (!isInWishlist) {
+      let updatedDetails = {
+        ...userDetails,
+        wishlist: [...userDetails.wishlist, productId],
+      }
+      // userDetails.wishlist.push(productId)
+      dispatch(updateUserDetails(updatedDetails))
+      localStorage.setItem('currentUser', JSON.stringify(updatedDetails))
+
+      const updatedAccounts = userAccounts.map((accounts) => {
+        if (accounts.email === userDetails.email) {
+          return updatedDetails
+        } else {
+          return accounts
+        }
+      })
+      localStorage.setItem('UserAccounts', JSON.stringify(updatedAccounts))
+
+      toast.success("Item added to your wishlist")
+
+    } else {
+
+      let wishlist = userDetails.wishlist.filter(id => id !== productId)
+      let updatedDetails = {
+        ...userDetails,
+        wishlist: wishlist
+      }
+      dispatch(updateUserDetails(updatedDetails))
+      localStorage.setItem('currentUser', JSON.stringify(updatedDetails))
+
+      const updatedAccounts = userAccounts.map((accounts) => {
+        if (accounts.email === userDetails.email) {
+          return updatedDetails
+        } else {
+          return accounts
+        }
+      })
+      localStorage.setItem('UserAccounts', JSON.stringify(updatedAccounts))
+      toast.success("Item removed to your wishlist")
+
+    }
+    // console.log(userDetails);
+
+  };
+
+  const addToCart = () => {
+    if (!userStatus) {
+      toast.error('Please login first..')
+      return
+    }
+    // console.log(userDetails.cart.filter(prod => prod.productId === productId));
+    if (userDetails.cart.filter(prod => prod.productId === productId).length < 1) {
+      let updatedDetails = {
+        ...userDetails,
+        cart: [...userDetails.cart, { productId, quantity }],
+      }
+
+      // userDetails.wishlist.push(productId)
+      dispatch(updateUserDetails(updatedDetails))
+      localStorage.setItem('currentUser', JSON.stringify(updatedDetails))
+
+      const updatedAccounts = userAccounts.map((accounts) => {
+        if (accounts.email === userDetails.email) {
+          return updatedDetails
+        } else {
+          return accounts
+        }
+      })
+      localStorage.setItem('UserAccounts', JSON.stringify(updatedAccounts))
+      toast.success("Item added to your cart")
+
+    } else {
+
+      toast.error("Item already in your cart")
+    }
+  };
+
+  const buyNow = () => {
+
+    if (!userStatus) {
+      toast.error('Please login first..')
+      return
+    }
+
+    if (userDetails.cart.filter(prod => prod.productId === productId).length < 1) {
+      let updatedDetails = {
+        ...userDetails,
+        cart: [...userDetails.cart, { productId, quantity }],
+      }
+
+      // userDetails.wishlist.push(productId)
+      dispatch(updateUserDetails(updatedDetails))
+      localStorage.setItem('currentUser', JSON.stringify(updatedDetails))
+
+      const updatedAccounts = userAccounts.map((accounts) => {
+        if (accounts.email === userDetails.email) {
+          return updatedDetails
+        } else {
+          return accounts
+        }
+      })
+      localStorage.setItem('UserAccounts', JSON.stringify(updatedAccounts))
+
+    }
+
+    navigate('/account/cart')
+
+  };
+
+  const minusBtn = () => {
+    if (!userStatus) {
+      toast.error('Please login first..')
+      return
+    }
+    if (quantity === 1) return
+    setQuantity(quantity => quantity - 1)
+  };
+  const plusBtn = () => {
+    if (!userStatus) {
+      toast.error('Please login first..')
+      return
+    }
+    if (quantity === 10) return
+    setQuantity(quantity => quantity + 1)
+  };
 
   return (
     // <div className="productDetailsContainer"></div>
@@ -83,13 +238,13 @@ const ProductDetails = () => {
                 {product.photos.map((image, index) => (
                   <SwiperSlide key={index} className='p-8 w-full h-[500px] overflow-hidden relative'>
                     <img src={image} alt="" className='object-cover' />
-                    <div className="flex-col flex gap-4 absolute top-5 right-3">
-                      <IoMdHeart className='text-4xl' />
-                      <IoIosShareAlt className='text-4xl' />
-                    </div>
                   </SwiperSlide>
                 ))}
               </Swiper>
+              <div className="flex-col flex gap-4 absolute top-5 right-3 z-10">
+                <IoMdHeart onClick={toggleWish} className={`text-4xl cursor-pointer ${isInWishlist ? 'text-primary' : 'text-black'} `} />
+                <IoIosShareAlt className='text-4xl' />
+              </div>
               {product.discount && (
                 <span className='absolute top-4 right-2 z-10 text-xl px-2 py-0 bg-primary rounded-sm'>{product.discount} </span>
               )}
@@ -130,11 +285,21 @@ const ProductDetails = () => {
                 </div>
               </div>
 
+              {/* Quantity */}
+              <div className=" flex items-center mt-4">
+                <span className='mr-4'>Quantity:</span>
+                <button onClick={minusBtn} className='text-lg hover:bg-surface p-1 rounded-full'><FaMinus />
+                </button>
+                <span className='px-10'>{product.quantity || quantity}</span>
+                <button onClick={plusBtn} className='text-lg hover:bg-surface p-1 rounded-full'><FaPlus />
+                </button>
+              </div>
+
 
               {/* buttons */}
               <div className="w-full mt-10 grid grid-cols-2 gap-2 h-12">
-                <button className='text-xl px-6 py-1 border-secondary border-[1px] '>Add to cart</button>
-                <button className='text-xl px-6 py-1 bg-primary'>Buy now</button>
+                <button onClick={addToCart} className='text-xl px-6 py-1 hover:-translate-y-[1px] border-secondary border-[1px] '>Add to cart</button>
+                <button onClick={buyNow} className='text-xl px-6 py-1 bg-primary'>Buy now</button>
               </div>
             </div>
           </div>
@@ -154,7 +319,6 @@ const ProductDetails = () => {
               <h2 className='capitalize'>123, mahulpali, sambalpur, odisha</h2>
             </div>
             <Link className='px-2 py-1 text-lg rounded-lg border-[1px] border-secondary leading-tight h-fit'>Change</Link>
-
           </div>
 
           {/* product details */}
@@ -175,7 +339,7 @@ const ProductDetails = () => {
             </div>
           </div>
 
-          
+
 
           {/* similar product */}
           <div className="w-full p-4 ">
@@ -202,7 +366,7 @@ const ProductDetails = () => {
               ))}
             </Swiper> */}
 
-            <SwiperComp productArray={product.similarProduct} /> 
+            <SwiperComp productArray={product.similarProduct} />
             {/* send array of ids */}
 
           </div>

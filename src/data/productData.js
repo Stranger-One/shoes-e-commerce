@@ -2350,7 +2350,7 @@ export const products = [
     {
         id: "272923856497525428",
         title: "Clarks Women's Cora Harbor Casual Slip-On",
-        brand: "Clarks",
+        brand: "clarks",
         description: "Here to elevate your everyday look, the Cora Harbor dark tan casual shoe from Clarks blends classic design with premium materials. Crafted from classic leather, it features a molded footbed with shock-absorbing cushioning and a handy side zip, making it easy to pop on and off when you're in a rush. Set on a lightweight sole with a grippy tread, stay light on your toes day in, day out.",
         photos: [
             "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXmHRdYSqSvZYa_5lSzoshG0qabbVtd-O2xv6zCuRT4zlYbUInd3ne0Pe82jBXYBS5buqQwTHnBY1Ruf9HBdenLJOg4BhM6JyAVcm20Bw9UsZemzflo-pE7a02Qw",
@@ -2440,7 +2440,7 @@ export const products = [
     {
         id: "8958489991943727873",
         title: "Clarks Women's Carleigh Ray",
-        brand: "Clarks",
+        brand: "clarks",
         description: "Keeping comfort at its core, our trusty everyday shoe Carleigh Ray is crafted for back-to-work and busy weekend wear. Durable nubuck uppers in rich dark brown wrap the foot perfectly, while our signature underfoot cushioning and a super-grippy sole keep every step grounded.",
         photos: [
             "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRIgj8ZX8Q2yH92T442Tu0wwdDHLIXkdmYUxSG3OWKfs4_s4ZKrWGL0uZHwgrWPftqbF5O0zHwJwipJjb6WSZ2pQj7CaSJuDDfaR2Sy5RiqFfGq7bITldCq7gZ1",
@@ -2534,7 +2534,7 @@ export const products = [
     {
         id: "4702820692568700345",
         title: "Clarks Women's Merliah Karli",
-        brand: "Clarks",
+        brand: "clarks",
         description: "Founded by the British Clark Bros. in the early 1820's, Clarks footwear has been a step ahead of the game with their international renowned footwear. Manufactured in England, their casual shoes, outdoor boots, sandals and dress shoes are preferred by both men and woman that want a pair of shoes that are timeless, durable, stylish and most of all comfortable. The broad selection of Clarks women's shoes includes clogs, leather wedges, trendy heels, embellished mary jane dress shoes, comfortable flat leather sandals, trendy ankle boots and fashionable athletic sneakers. For men, Clarks footwear offers leather oxfords, dress shoes, slip-ons and moccasins. Leather outdoor boots and sandals for every occasion. Clarks shoes also has an array of shoes for both boys and girls that are comfortable for the growing kid.",
         photos: [
             "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSJZIKaIMbIT9bQKOObJule2ME2VkIZ8wDquf3nb2O_hdQgxs-fIjw8euzjWFwcvavcWQyKZtEkSx60QslkhK2VhNuZVeaqJpE8ln97yp32PWSGiAcoT2eHVtYU6w",
@@ -2628,7 +2628,7 @@ export const products = [
     {
         id: "3463760567858087580",
         title: "Clarks Laurieann Ayla Women's",
-        brand: "Clarks",
+        brand: "clarks",
         description: "Clarks Laurieann Ayla - Women's Shoes : White Leather : Walk every step with sheer comfort and style wearing the Clarks Laurieann Ayla Footwear. Leather upper. Textile lining. Cushion Soft technology with OrthoLite textile footbed ensures comfort with every step. Slip-on style with hook-and-loop straps. Round open toe. Showcases 3 stitch detailed foot straps. Synthetic outsole. Imported. Weight of footwear is based on a single item, not a pair.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJacHyYhZ2B_Li9KxSgkGDvxve9-kpJVcPMUl_JeYmCve_UhU8ZWZjll1bZg05D5iiYzgCVm5G3O4kAKvIu8C7PYlRfnKjprvf1xNFBbHdIHgsHK1P0W7_3rcooA",
@@ -2720,7 +2720,7 @@ export const products = [
     {
         id: "15232481490198285825",
         title: "Clarks Women's Laurieann Bay",
-        brand: "Clarks",
+        brand: "clarks",
         description: "A mule crafted to move naturally with the foot, Laurieann Bay is our of-the-moment profile that offers 24/7 comfort and versatility. Premium dark brown leather uppers enhanced by ruched detailing complement the foot perfectly, while our contoured Ultimate Comfort footbeds support your every step. A sculpted, transitional silhouette.",
         photos: [
             "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSfjMYnNXfyAbk7k6L92MqCPsp3IPW7yEZia0VaNimI5y46PGoT4wag7Kwo7P3F4T9JOEgMLlRpcXOSBUOajfMY1AyLF7wrIG_dJjQBPttTus30_To3AI1nSTqmtQ",
@@ -2809,7 +2809,7 @@ export const products = [
     {
         id: "5184415894052295379",
         title: "Clarks Womens Brinkley Flora",
-        brand: "Clarks",
+        brand: "clarks",
         description: "Summer is for adventures, right? Trips to the beach, the park, and the lake. Days by the pool and nights spent on the back patio. Wherever you go this summer, make sure you're getting your steps in with these sporty CLOUDSTEPPERSTM sandals for ultimate levels of comfort. From Clarks Footwear.",
         photos: [
             "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRu2li718FIaPFux6yvfxwyYdRyOJJNEWAsuE3EL6I4bLAzvNq8muwmGyYYVgAQeHjT_eX3sJXFFcqIsmcapPyRqJdfmtO-dYLqlyKRTRVPpNqfCv2gK54dhV9x",
@@ -2904,7 +2904,7 @@ export const products = [
     {
         id: "5921713180397437884",
         title: "Clarks Women's Leisa Cacti",
-        brand: "Clarks",
+        brand: "clarks",
         description: "Update your summer wardrobe with the Leisa Cacti Q sandal from Clarks. This slip-on features a pure leather construction highlighted with contrast stitching details to make it the perfect match for any outfit. Its three hook & loop closures and the lightweight EVA outsole enhance the comfort and let you take confident strides without feeling fatigued.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT4c-3wweB7GrcnZiYaiRv23OQzJ8hmjhcmE5CjEyEvXyWpPLk5WxwPAr6QwNTAW07_hLKM5uaEfM9aqYXNBjuT0CRnd7n6-bdiI-vPj3blmtM8rSUN5EgS3Wr3kg",
@@ -2996,7 +2996,7 @@ export const products = [
     {
         id: "13685171866040039216",
         title: "Clarks Women's Mira Bay",
-        brand: "Clarks",
+        brand: "clarks",
         description: "The Clarks MIRA BAY shoes are the perfect choice for modern women seeking style and comfort. With their elegant sophisticated design, these add a touch of refinement to any outfit. cushioned insole rubber outsole ensure all-day comfort excellent grip. Whether day at work or an evening out, MIRA BAY adapts all occasions. versatile stylish your collection chic comfortable look.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRLYomCD2UwIbIlD179u-lzl8UhH_0oOZQA1_25Fcx5pRGrEji7vivCaIMWD7u064YAOu2Y1QC5X0yyE5RUVvmBbLEJyZb20NJJUX-KTGOxB4u9k5ntcvtxK8Fw",
@@ -3089,7 +3089,7 @@ export const products = [
     {
         id: "14542646005656755063",
         title: "Clarks Women's Emily Rae Sandal",
-        brand: "Clarks",
+        brand: "clarks",
         description: "Strut in confidence with a side of pure comfort in these leather, heeled Mary Janes. The textured leather exterior stamps a fresh twist on a classic style while the adjustable closure allows for a personalized fit. From Clarks Footwear.",
         photos: [
             "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRcGGjaVLNY4KSl_YEX71AXamrYo43DBDnjyn0TMrILkx4ke6sLaAryIlmsy5HsQ9m9FL_ZQap899UrVEHFwTg0Y8H9QEbJYbuz1MZ1_75aerTBWqSAkVoHfGxV",
@@ -3187,7 +3187,7 @@ export const products = [
     {
         id: "1633153101967622072",
         title: "Clarks Women's Elizabelle Rio Slip-On Strappy Sandal",
-        brand: "Clarks",
+        brand: "clarks",
         description: "Prepping busy feet for city streets and pebbled beaches, our Elizabelle Rio sandal is stacked with comfort features. Crafted from premium off-white leathers, this strappy silhouette wraps the foot perfectly, while our Ultimate Comfort foam footbed and a lightweight, flexible sole make every step feel just as good as the last.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQrgnznm6k0XMqa_Z1pcnWlsXRbNxnaNctFjfYUTmWJqlLpkoqRPHrSrG3jhn8OsTR3zTxth6zwvClNjYLR4tg5CVK2-BKa2UcFe0NpNKwp23s0y5BM7kMSj42p",
@@ -3286,7 +3286,7 @@ export const products = [
     {
         id: "1749260105849021765",
         title: "Clarks Women's Coast Shine",
-        brand: "Clarks",
+        brand: "clarks",
         description: "These gladiator sandals provide your shoe collection with a secure-fitting, oh-so-stylish go-to for all your sunny-season adventures. From Clarks Footwear.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS9lM2qFfqKUMN3f45ZTUZYNYm3Vak5FVG3iER9748NLjKyKbPmglFpTsgbRAZBkDZEIbGzdmm0OAO2qsiUtZyI_2R_3k8yzWvOqYylOXNgmAi7oZ36InnQ2KkO",
@@ -3378,7 +3378,7 @@ export const products = [
     {
         id: "13855029424731236509",
         title: "Clarks Men's Weaver Derbys",
-        brand: "Clarks",
+        brand: "clarks",
         description: "An iconic casual shoe/trainer hybrid, our classic Weaver channels on-trend 70s Americana nostalgia. Buttery suede in a soft maple hue and a crafted construction create a vintage look, while a natural pebble sole and Clarks Originals fobs act as a marker of our quality craftsmanship.",
         photos: [
             "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ9CFqg_re2189UX_6gkLl6BZIIMekLUA7SLSs1HCz3gWP_p2sk4Wvxf5EqZW6P3MgXqs_I4AvTzbg4PGdZ7VuA5p-0P2EkyJ-tFMKc7nGy1QIEUP-6QJEMdRp0OA",
@@ -3470,7 +3470,7 @@ export const products = [
     {
         id: "10942724206964770795",
         title: "Clarks Women's Padmora",
-        brand: "Clarks",
+        brand: "clarks",
         description: "The Women's Padmora Chukka Boot is a classic Clarks Wallabee shoe. Leather upper in a chukka boot style with a moc toe. Slip-on entry. Moc stitching and dual laces. Textile lining with OrthoLite comfort footbed. Thermoplastic rubber outsole.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS2lIxg0bwc7tvHmA9hF5NcFjOBb9kY9uinM3lAmJSb6b47424_jxHvVj-lxtPKBhw2WOVwPSFiLDFh_nakF9P8n5-C0eoqflD8GCPzIx1y4i0B3OeLyZnez3Sb",
@@ -3565,7 +3565,7 @@ export const products = [
     {
         id: "1742023629496660758",
         title: "Clarks Men's Malwood Lace Oxford",
-        brand: "Clarks",
+        brand: "clarks",
         description: "A smart casual shoe with a crafted feel, meet Malwood Lace - our new everyday classic. With heritage brown leather uppers and authentic lacing, its flexible construction and breathable footbed keep busy feet comfy and fresh. Set on an airy EVA sole, stay light on your toes as you step from work to weekend.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQPOSQBoNzR2CuFXRDxYtIO4xhPLX9IxtUshXurRk4qOBXDjocaA324hvzdGkSbQPJxHMbdPGFBm6kYoSfMdHlbmWvXKkFRMI3WmTLXhu57QCzotonYiRdvTodX",
@@ -3661,7 +3661,7 @@ export const products = [
     {
         id: "7935196351663585388",
         title: "Clarks Womens Clarks Pro Sky Shoes",
-        brand: "Clarks",
+        brand: "clarks",
         description: "Find your work life balance with the Clarks PRO, a collection of styles ready to work shifts and see you through long hours on your feet! A professional pair built for busy working life; performance-focused style Clarks Pro Sky features stretch goring to the side for ultimate comfort. Arriving in durable leather, it combines premium materials with superior comfort tech to enhance every moment you spend on the go. Its specialized soles have been tested and certified through SATRA - a leading technical authority for footwear and leather - to maximise slip-resistant performance.",
         photos: [
             "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRdsIFiTxZEiNlS1PKcXKLW4WqlD4XyRSEXxlxUQdYQGCBhibXnL3ItR7iidqaHfDMIYQVFRlyPYHtI6aK-uzo5DhlMRkI7y9AY1gPFMjF4oTZxn8LuNUiF04yl",
@@ -3753,7 +3753,7 @@ export const products = [
     {
         id: "7542573395318638738",
         title: "Clarks Women's Wave Range AP",
-        brand: "Clarks",
+        brand: "clarks",
         description: "These hiking shoes are the tough yet stylish kicks you need for all your outdoor adventures. Their weatherproof exterior eliminates any worries about rain or puddles, too! From Clarks Footwear.",
         photos: [
             "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSlvuuGzQFJIzZYBUL4faO9IGtHnm2vHHfl2s7Ic5Rmaf0jjhkpkKWTHa75M2vHNHwXsWnlrylixGarLYS1xdByh9zqG4inATSdjljy4VkO_OxBYdufF-hij51m",
@@ -3845,7 +3845,7 @@ export const products = [
     {
         id: "12998662876521249253",
         title: "Clarks Men's Un Hugh Lace",
-        brand: "Clarks",
+        brand: "clarks",
         description: "Fusing a lightweight feel with smart styling, our Un Hugh Lace shoe rises to the occasion every time. Classic black leather creates a premium finish, while its light flexible sole uses innovative technology for extra ventilation. Complete with targeting cushioning and leather lining, step into comfort that lasts.",
         photos: [
             "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLURoNjuipUpQC_nzlmD2ssuygQOy8Tp8H3hhckcqJ8a1vrJTrYk9aSDLLjF36wYMkMg2dcdbeKx_i-0Rv51qxN5O4zhMb6SvaZLqTx7rwtFp6pLx2VoC2knmudQ",
@@ -3939,7 +3939,7 @@ export const products = [
     {
         id: "13078777034095850165",
         title: "Clarks Mens Un Hugh Step",
-        brand: "Clarks",
+        brand: "clarks",
         description: "Fusing a lightweight feel with smart styling, our slip-on Un Hugh Step shoe rises to the occasion every time. With classic brown leather uppers for a polished aesthetic, its light flexible sole uses innovative technology for extra ventilation. Complete with targeting cushioning and leather lining, step into comfort you can always count on.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTe_Sqe0HllPo3k6vsgTHhV5L-g-EsPt-UuGZtgbMDJsHxvhQLdTJVM2rzLlgZQsHJji3mrWpFmeyQmmtwoDFygKtA5Oofhv9sXZWdDFZZVX1u0i0ffGPZjqsK_",
@@ -4040,7 +4040,7 @@ export const products = [
     {
         id: "806726763120109573",
         title: "Clarks Women's Ashland Spin",
-        brand: "Clarks",
+        brand: "clarks",
         description: "The only way to go for comfort! The beauty of these shoes starts with customer-favorite Bendables technology from Clarks, which employs internal and external grooves for an ultra-flexible fit. Here, it's been combined with the popular Ashland bottom--lightweight and grooved to provide superior traction and durability--for incredible, all-day comfort. These slip-ons look as good as they feel, thanks to the rich leather vamp. Its woven, cutout design is adorned with perforation and stitched details at the top as a finishing touch. The stylish look is a perfect partner for dresses, skirts, and pants throughout your workweek. And they're equally at home when the weekend arrives, keeping a T-shirt and jeans or shorts looking cute, casual, and completely pulled together. Find your perfect fit and hue. Offered in medium, wide, and narrow widths, these shoes make it easy to find a fit that can't be beat. A hook-and-loop closure provides additional adjustability and keeps you feeling your best throughout long days and nights. With shades that range from basic to beautiful and a price to knock your socks off, you're sure to find the perfect one--or two--for you. From Clarks Bendables.",
         photos: [
             "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQyZ647o-qW1sWSw35fWQV5sH4OqvYUulcbsPYwpp6MSM6ja36RN1Bu227cTLZV_eQ_I2B6hXq-ABswhviXNWry11SM-tTV63rOaCTSuJ20cpy1JWbWSy5ggqS22Q",
@@ -4137,7 +4137,7 @@ export const products = [
     {
         id: "8268788246910336246",
         title: "Clarks Women's Sillian Paz Slip On",
-        brand: "Clarks",
+        brand: "clarks",
         description: "A light, flexible fit makes this pair a must-wear for warmer weather – especially for those times you want to be active and still have a bit of style. Adding to that comfort are Clarks' Ortholite and Cloudsteppers features, such as a breathable feel, moisture wicking, and antimicrobial properties. Synthetic nubuck upper. With textile lining. Slip-on style. Cloudsteppers features add a light, flexible, and soft feel and athletic details. Cushion Soft technology improves comfort. EVA midsole adds to overall cushioned feel. Removable Ortholite molded footbed enhances long-term comfort through breathable materials, antimicrobial treatment, and moisture management. Rubber outsole. 1.35 in. heel with a 1⁄4 in. platform. Weighs 6 oz. Imported.",
         photos: [
             "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSPKBCob1bTjVdaxdJ3qBvvlNrEE2odgjoEMVtL5y438x7Pv6qH-r7XsOk6g0-_IUNxMp9v_eTAEz0q_JjVAHbu1hAtjHUHz3ShlJBmZhCZKVe-6KnZW1nFmRcX",
@@ -4233,7 +4233,7 @@ export const products = [
     {
         id: "1168805559125733662",
         title: "Clarks Artisan Sarafyna Iris Leather Chain Loafers",
-        brand: "Clarks",
+        brand: "clarks",
         description: "Dress-casual looks need the footwear to match – enter loafer Sarafyna Iris, a buttery leather silhouette complete with on-trend chain embellishment to team with tailoring, denim and everything in between. Inspired by the feeling of being barefoot, this streamlined pair paves the way for weightless movement with unlined uppers and a Contour Cushion footbed that keeps you light on your feet.",
         photos: [
             "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRE9r_Sc9gjixBtZbLCZAcPvHZaSLq2AtXw-kQyoUVjm1LBCSmo800DazfgIoAi633TS97DWiJYqD-8Yjg4wmXADehktcHaSzQlbceEJB_az5UB_Ety6wzd9-sSEg",
@@ -4321,7 +4321,7 @@ export const products = [
     {
         id: "16641695186486216074",
         title: "Clarks Men's Cotrell Walk",
-        brand: "Clarks",
+        brand: "clarks",
         description: "The men's Clarks Cotrell Walk is sure to become a seasonal staple! The leather upper features a lace up closure to ensure a secure and custom fit. The Ortholite footbed delivers ultimate cushion for all-day comfort, while the durable outsole provides stability and traction. Pair the Cotrell Walk with all of your casual outfits! Leather upper. Lace up closure to ensure a secure and custom fit. Contrasting stitch detail for added interest. Textile lining for breathable comfort. Ortholite footbed delivers ultimate cushion. Durable outsole provides stability and traction.",
         photos: [
             "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSFDZ0Engo-wjrYH-nOCXA95TDrdxWncuZ1ZV3u0nc6WWMGeBgVG85f56Sx_uatxDAmZvoOJa7DcgZZM2nSkELrjxmce49V21-Nmbr1pDs-TApfDHrhoLWHV22W1Q",
@@ -4417,7 +4417,7 @@ export const products = [
     {
         id: "7969458723703462012",
         title: "Clarks Mens Flexway Easy",
-        brand: "Clarks",
+        brand: "clarks",
         description: "The clues in the name, our new casual shoes flexaway easy is all about living freely. Crafted in classic suede, a tread down heel makes for easy on off and our flexible, lightweight soles work with your natural walking motion- from weekends at the beach to navigating a new city. Whats more, its packable design collapses too so you can always have them on hand- minus the extra baggage.",
         photos: [
             "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSw19yaMdInYVwCyyvd9eaWd1le7n4NYVL_5uE57QKzscEIegjY8-7uwJz1FQcw9fTnswuOan-LAZuF0QDbiV9SG3-PED37zwygeluQTxLxkNw9XXEFpE1YkVH0",
@@ -4507,7 +4507,7 @@ export const products = [
     {
         id: "16037100061457338933",
         title: "Clarks Womens Emily 2 Ruby",
-        brand: "Clarks",
+        brand: "clarks",
         description: "Look perfectly polished in this pair. The Emily2 pump from Clarks features a comfortable padded insole and a sturdy block heel for all-day support. Complete with a classic silhouette and a neutral color that seamlessly blends with any formal look.",
         photos: [
             "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTnLBs1xh-GFrDzBViy9h0ovvBAD9AQ-DM-BinIGjurLQCqEuJhgmuNeVbwo-t1QPZHotgmx7jaI4RT-_IZtL5GrlovQU2AP4TWWdbSSGx1W_HC6sO_DMVkPlilRw",
@@ -4604,7 +4604,7 @@ export const products = [
     {
         id: "15063106241553055136",
         title: "Clarks Men's Gessler Lace Shoes",
-        brand: "Clarks",
+        brand: "clarks",
         description: "Step into the season with the Gessler, a lace-up shoe that blends classic design with modern comfort. Its rich leather upper and heritage stitching showcase its upscale craftsmanship, while the lightweight sole and padded footbed promise ease and freedom with every step. From Clarks.",
         photos: [
             "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSH32H4hzXAE5I5J9UcVgEYFqfJPiqqBuqyr8FPEL9s58GnqPxrOiJu2YuKQjvCLJbHOePEGreAbBzNCqrpHyF3SjO6gX2I14nFVHzNse4K8_ipgB5_jOMZ-0bu",
@@ -4697,7 +4697,2657 @@ export const products = [
     },
 
     // Puma Shoes
-    
+    {
+        id: "9313872880581239741",
+        title: "Puma Men's MB.01 Inverse Toxic Basketball Shoes",
+        brand: "puma",
+        description: "Dare to be more! Show off your out-of-the-world skills with the PUMA MB.01 Inverse Toxic. LaMelo's first signature shoe MB.01 comes with Melo-branded Not From Here accents, like his signature wings and “1 of 1” motto, to inspire you to be better than you were yesterday. Powered by space-age PUMA Hoops tech and a galactic sole, the PUMA MB.01 Inverse Toxic is all you need for a one-of-a-kind performance. PUMA MB.01 Inverse Toxic features: Breathable monomesh offers a snug, breathable fit. NITRO foam throughout the midsole ensures superior responsiveness and comfort. Outsole featuring a full-coverage engineered non-slip rubber compound delivers exceptional traction and durability.",
+        photos: [
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTWg9NzP7rxwfQ0HkH7T4a0auPtxAY3VeQDM4205I6KjKx7133rOz2XKn1v-bEBRBWUxNXfGVfa71SsDN0HyMvTLmE4i5J2DwBGPPcLTX5oP9Q1aOqZHELe6I0",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS60xnmWzhQarOg0t6l5xHtQnQi0dO-RW0UMHLrA2P0ejJflDftIVqWFsyNN7x-oDDwJClKNYPQrg5gz_c2qzDk5xZxawznBN7bPiXYu3U2v8w",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJGoqZTpQCkmID95yQ6xoJK4IIT4CT3w96eGz_42ZG9j5ZIkz_WrCDqaoWsx0P3SVo0IM0ZzgYjalO9gLUu_wDwljZ8FxGyhE94FQNtAabxw",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRTyr116E6R5O5NQ6_bPp3HVx25fzAS0csG24vo6ZOddIgklmv2_oIPzMoiE6aCqew_TGOckywfXyE3-mokIgFQhaTX0WypKUZ2V0hFB_g6drtTa1USlOJRyUPu",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSlpiZR5O-7SLcRlFV8td2Jjpt7S5piLnUxmioo_qHiudaEi561hvlhLxLEiTKIC2H8GZoGbMxW_TmKo0qhPTk5l2lawCJ-KBGVBXQ0nPYhIG64BiyqhTqeDOA",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTNVJxTjfDhzUF9JLAXPa2mpC14ck-xBHAI5aWKziQsZuNQN1y9J0b2RhAeZyG8kNb3mh_WKvJPPgk1Ufg3H7Ri2qj9gqOp5fpJNT8T8ww_AA",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQlNO7ugNyolGsBlLfC6IkzTlG1CfB1c3isMBMVv3755tXOhTvaESCFzYyCUrX0-Iyy5Tv5P_0gzxcqnopb7-y7Ull3v3upvwWOL7xbxdkJjxkeQ38357jBDatD7A"
+        ],
+        rating: 4.3,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 172,
+        num_offers: 21,
+        typical_price_range: [
+            "$88",
+            "$146"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "Foot Locker",
+            store_rating: "4.5/5",
+            price: "109.99",
+            shipping: "Free delivery",
+            original_price: null,
+            condition: "NEW",
+            coupon_discount_percent: "21% off",
+            payment_methods: "PayPal, Google Pay accepted"
+        }
+    },
+    {
+        id: "782583842524872436",
+        title: "Puma MB.03 'Spark Men's",
+        brand: "puma",
+        description: "Cosmic crossovers and stellar slam dunks! A true beast from LaMelo Ball's otherworldly PUMA Hoops lineup, the PUMA MB.03 Spark lets you turn every dribble and shot into a highlight reel moment. Powered by slime-inspired rubber wrap-ups, this iteration gives Melo's third signature shoe a cosmic twist, so you can show off your out-of-the-world moves with confidence. The space-age PUMA Hoops tech keeps you tournament-ready and gives you all the comfort you need to shoot for the stars. Plus, the slime sole allows you to slam and slay through the four quarters and beyond. Futuristic, gravity-defying, and explosive, the PUMA MB.03 Spark makes sure you rise above the rim in no time. PUMA MB.03 Spark features: Engineered knit upper with scratch cutouts offers a premium feel. NITRO foam in the midsole provides maximum cushioning and responsiveness. Rubber outsole delivers enhanced traction and support.",
+        photos: [
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSrwzpsgLwsaqMSAVNsjNOfGnLL5ilkZcmoErHNKmFu7yXqsggr0dIEMZsgq20swrV7dM-oAXpmjhxQ2EMO25bm5OUjMzvHDDMfd6aLFLK_7_1xyAJp4NMNfD6v",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRLCz9QwMlt_59CRgF_bVZHHPk9VD0ct9f5j2p-8b7gAdRN14EhikBc-nWmKTl5lcmJopOovW4JUksAaZcbGPvNsauCgTNgCgd6nnW3022Zb_g",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR2V3uoHgKVUC9Q6TiY7Lyyt3pYJ04No6nZaNm3MwmveZMWq3CUpDl74DowYsehrSk9Ju4Nm39ILdra0FFofwGr_wTvyApQXWyUf47SkUH_ntgkjPtyUmN1stgj",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRD5-BxfzArZ-4WelYIXLzbnsY-8r8u73BO-UJVCtk17I9hFSms1lH6iB8_zZTLDCoPN7HLx90L7y9iy6kIJw7qVZyHBppOGrIRMgbiOI4JxKi_TSSgmHs8Lk0",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTQtAud-oXBWgZgrWrUrlUmXKph1mBcq43gl-IirOizh8cNVZZwjjAizh9kBT9QLCk3bc2ez2vOz4ApvkePorKTwSPyfhFHLAivp5AAmQADu90p5yJ0FvzinZcz",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQbaLOiiGWoDoTvuNsnLM1vnrK9v4tc20DCGSFMx3FBLhGQROkuGChmaeufi8Xb1ZQNEAypj8bLExbXqqyZCTfO2tfn28h6bCdFjTA4Lho7ke9xaYEMaRqIwFY2",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQZQkplHIzrURluI3WQdVV7Ctc2R7TKtqe_zB-IsJzlQHm6Tp9AK_xFubUdqOdw96buJo7bmZ0b93l-yF1f515MgsDGBBnZQ_KmEFq2RqZBQaLln2zNi0nPfQnuiA"
+        ],
+        rating: 4.7,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 30,
+        num_offers: 25,
+        typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "PUMA",
+            store_rating: "4.8/5",
+            price: "125.00",
+            shipping: "Free delivery Sep 4-10",
+            original_price: null,
+            condition: "NEW",
+            payment_methods: "PayPal, Google Pay accepted"
+        }
+    },
+    {
+        id: "3314892692791486793",
+        title: "Puma Men's Axelion Refresh Wide Running Shoes",
+        brand: "puma",
+        description: "Crafted as a running shoe tailored for individuals who prefer wider sizes, the PUMA Axelion presents a supportive and comfortable option for men. Suitable for various activities that keep you on your feet, this men's sneaker combines a sleek design with impressive aesthetics, ensuring you not only look great but also run with greater ease in this comfort-focused footwear line. Mesh upper construction adds breathability. SoftFoam insole and padded collar for extra comfort. Durable rubber outsole. Wide-Width support. Color: Black/Cool Dk Gray.",
+        photos: [
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSpLAT18SERbZihNccw8zL_aBzY3nynG-FD3dzNDkjQCYjuHdC1J5jAoRIFqFwK46h7yyAxcSl0YK0eTHzN9hSVsi79HcAGze-8BbSgIfFWH3dkttyENE-nD-r7",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS0BMt7pJi-4GtrZA8JEMAkSdL-8KPje-Xfkarq3r9zB_jENKGo2wuZ122I_xZQZdyMxS0VEwg9llRmlA9WHEy2zuracv2ToSgOKXtpKPbAHXI",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbRyOjlKOGRXWxyBmoRBuLgAXF0MNyncuKIgZo7YNhdKHUlz3461VcTbga9nMzAQaZilPfjDbQub5x7fw88FIrMM1L1nQUB8Jnevg2mmfQIA",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTWTalj6M6e5ATJe9dgU6q1Z-dONU0xvk4fmI4LD82sUw_5pDuQ3S5Fo1lZWAjqqlXEGDrf0p3FJXWtb_DhfST2qY67Mwb2_BEHBVGo2mZdVS8",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTrMoyKC4A25hkjeGOySdxtDoavCW9T8M6ZgCWT8mGl25nDKkahThCXExnV2HXv6pQCJn2VwOqCrNyplB5xJcgxTR_fsxQEOk2YSudC6xO0IHOpLb5J6hlZBi2seA",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSS1LiFb8f_dLKMdYBoKMnr_iWC0lKhd_4ouZK7VI_CZE_kMSPdH3a2Vdim1sZxihmGC_PgqmRttIz36zoR3WiUayIeZDi8OV22QHB9sbNOcioSbuPoN0c1lKlYWQ",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ7_Gb5Bnq4NpEXjU0KK-Llafm6ZtVvHUGZOBwSbwMJmhEsxT4LBUb_ShIi6Lr460vPMb_ZJNN7xDRtYqpD4Ky9biDKaewmHIZFm3gLsm0bX_XfXqJlSgNZpMBJ",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSto39tdHFBRRMu6o7ZkkkTZ6wxa5LzuxNGk1fWyDRFN1YtrYTlxWFSAY-gDHPVMVNF1KVuvV48RJOAYam0KGuYfe4Vq2DsXHzIK6X1TKLb7JPpakCAxlpYWbmw",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQnWf8RW72F6T8HlkBzzILdHEUsnid7ELNebHRQ6Q9VmUZe7WOSIvB1KcGLLvXe2mxp9Ibw2FzwUmJOLfyjCIEKSy0dWTb8atnqM8FLAfj19a3TCLZaD4pCM0eS"
+        ],
+        rating: 4.5,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 220,
+        num_offers: 6,
+        typical_price_range: [
+            "$43",
+            "$70"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "PUMA",
+            store_rating: "4.8/5",
+            price: "40.00",
+            shipping: "$30 3-day delivery",
+            original_price: null,
+            condition: "NEW",
+            coupon_discount_percent: "50% off",
+            payment_methods: "PayPal, Google Pay accepted"
+        }
+    },
+    {
+        id: "11457204080579775868",
+        title: "Puma Men's Club II Era Sneakers",
+        brand: "puma",
+        description: "Enjoy a modern take on a retro style. The Club II Era sneaker from Puma features a sporty silhouette, complete with detailed stitching and layered accents.",
+        photos: [
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSU0NqPG9ps5OqIGUiFHCwlnCSyGLe4tUTbcfT9_BlyzERcJ44EguNc7zvjXrujYGLfMCrWIBOJ0s1-41LE3X0lsrzlmmNBZA1LlH6LF89m4i-8UqOts0GAWszutA",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRwnHj9ttBx0TumE6xHvF8UwGyawlT5fuBXTx831tUQSjPW5ULmBrwlOCkWP_xesjJJhP2GwHTeQwCSWyQmE6sU6zr1mXByaYelRSsq_jhADZAUJU_jizzuJKz7",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSlRul5kABmGuaABk-MmuciyJCBIIlA73OtTJ1ZY-K7ciWLBywYMW32JdZ6AJZgq5YXi02zqEYxzv07Vz2_4wtgr9J4bQoE7otzTHTqY1qDuTYOOxvu7nTIMHOo",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTBQ_goGsbnxoAU8Do6MVAKotyVA6odNbwW-nYybgwafBRfrAL5ZxbKrVnuX-isKkHyO5oiv1WgyRCbBH55XLLFln0kcYGR-PqdP7UOCXsa2vm9lmQvGvMeYuTF",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTFV-15_R3w-mcX9TNEHc4Sq7JnDECiJ4oK34XptM8J8WJf6l1GvgQu7MJ_LiRxh1H_lugJdOY1amn70Ca1Nc9sOqzZTVmFkXIVZcSDICqJce9SFlASwrj0rEV-",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRe6yqAarqC1YkcKvT9EKMZyGf16dD8t7N3DSQKCuNyV6XM8u1GM7aUbfcnVrmy3Jm0cbRr2nAJ7WIoUstg1_PPMz7Zp7M2M1s7rNOm9xXEE6Wmx6scw-df6CaY",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTNnMQ-b06TrxRDVs74k2hNVgRLj4B1PP2c4EEgDGB3a3ZrHNgAbDs82mzC7lOWjhRG629iGvMIAA-VQ0OYk0Lj37dn1pfXxIktx730Ovtm_XoiTG20hQ5gpIQm",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSm9ZmMhoSTKewL1pDyfwc9AssVP-ldOWoHgczQjgy8YKxbYQ0woMLFqynU_pk4dROyDFB5Cmsg-av0I5BG19naXIn7YuCwOHnWYrqMAm73BYy55vrKTusqEXhb",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQXoFhojx3MqRWT7u1l4zrIEzDRWgl92yUkPbG_QnsnPT9r1GWj9FBj3OO3vKEAjBoVVOBtNybX1AzcmQP0laKYPcghcv7uFcAx3uoukGtOBKs5JKAk8wwqky2AtQ",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSWLvcOhRFC3UHLtisqqaFZEuSUaPVkVtxU_OoEl7mAOX9bSRPvmYcZMdVBtUBn-olD_uBO2MXTyxjrpG3VyuNmzouA1ewuGjE1_YylOD35S3ASTaXYfmfqgctqRg",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRkstdR1f8jInEi8tPWWqJvoQRoy_x9xin0bZ3VtJ3KYcyBaNQ8x-bawsNYJ8Su9xBbY3VXtlDA0gopwTWr0vWMYGLjxdORvUq3m2dHK1Llb73IrZV3init3vla"
+        ],
+        rating: 4.5,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 4,
+        num_offers: 21,
+        typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "DSW",
+            store_rating: "4.6/5",
+            price: "55.99",
+            shipping: "$19.95 3-day delivery",
+            original_price: null,
+            condition: "NEW",
+            coupon_discount_percent: "Was $70",
+            payment_methods: "PayPal, Google Pay accepted"
+        }
+    },
+    {
+        id: "4394412546062808808",
+        title: "Puma GS-ONE Spikeless Golf Shoes",
+        brand: "puma",
+        description: "The Puma Men's Gs.One Golf Shoes are the perfect choice for golfers who want style and performance both on and off the course. These shoes are designed to provide you with maximum comfort and support, so you can focus on your game without any distractions. With a sleek design that transitions seamlessly from the course to the street, these shoes are sure to become your go-to footwear.",
+        photos: [
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQvMrFg7sN4jJ7KeM4VcWJxHtcBD88l2a9rDDnGS3cuXB8sGafxjf6ToWc-666lCFxcMkhnSHkPm32FzEpvmKHpt8mKKXQuntf9W0xWb2VZo8xUPeMXPvdEIqpC",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRUgek7hzjpsXULt6cVhWVEJBlNUIk9K-xJGKW6QAaYySYibqkroakJ-0TqmX2bNERF7XVND6WrvM_8W2HzDxiYQtsfe32kDspjYlXRxv28ymEZidbFox1mueWj",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS903jjkhIu4QlKVPx1S5QC3h0er2Wvx3sDar_Ulvn8eEWn18up2jEQR1kmQYOmi1FH2F1hY1QCFguumVLHHYv1aatc7M6GWrjfDchdVUE39BzgRqS00fSK9mvDfQ",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQU0AT3sbmipRdgblKEBn0J9sw3crrCoHXqOxh8-0jyjFyWpgeRqmGeChS4Z1bpdLlw9pTM8TC82FhTrqo5VqaB25hcN77gDpDW_88AjhJEnugrxPj-eK7oZo1Crg",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTAvWLKYmlFwkqW5FvlJAYYdmrYdQQrED5_-NaRe2mR22zBraYdf8QB6IKkX2uicIIh4IwVHIHM3-izpccKWx7qqtYkDOSpjeXFWy0ZsqncdY_DW68fJAGCcMtl",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQuXOTDoF1Thy_0O4-18cT3mZfU14PGjTyI6NMbbZ7oBMYQIOM31IVgmrTauVZS8i242J7c39aCmieOTrlyh64rhnoP9yz2SUFmt1p-kd__DApwwCtx2r3zj257Lg",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSZ_fHfkIcX3EISVhCpppPdmVDplT7gHimcOtN0AliUFr0gSQiOAjpVPuX1C9Fq-GPr7QOpUyH7-YPQFt_3btOA9oVhLo6allnD5B-fm4bskVEoxArP7PDhrGMf",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1BHbZnuXbnRy-FH38ZuylNBqfx9buRX_DNj08zdWgGG-rOH7Bq5ppb0YwdneIRisU8c8Xtpz0vFGqCAhM39NCDakUrB5Z3X6ZtU__Bpy2M2MZTNOM-hbyMJBn",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQsLjVEgKdd_2GOSIejWNrviZxBFEJKWXT_9_WReVC8QdIFyh1oOttsFcSLJsrPbfh74RIN70hhSUIo79y76nv1JqiU3IaZKaMn4e9a5SrzpAe1zuA2ywBUv6gA",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSCSx6Vg7IKPeZITOrng-aLmsuVowlQSNzyQWvfqaNEbtaaS0e-3Js62ycypkDCmgz_uxuPq5H0e9PUOH8okPvYILNsTBehLYtEb2lUbR66HGrigcxJc6cjTAr-rw",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR77gZNcs6tGi0fOeJOJXLf6n7je40cNWVOmShZvWfGIoCrbU7ee1QScQEXe22GNs9GA4UUU6ZIb98RmkvjmTQxkFAVYLsq3m8qhY0rtS4kFqxfQ0ENe-4mCzOR",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRixk15BR4T7-CE6hwZjUHC3aA2fjJnRr4WVeWTNHd_-Uv6uRmHqxrk9lGRrw1noGxcuzjwaHIqNd4Magjtn8hDN1qjwL5Uc5aKI70sLc43UG45dHU7tex9VAEl1Q",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTw4eViBCJp575lR4NCapwZ_Dxl0tonKuGc9ave8Ju8SCdKNYQnG4ypgsRQwZylGPfxav-dPV_ghaCfOrUhCy8CT7MTSlrTga64v-y6y-1Rcz_p4t2vNbQs1r5xPQ",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRqmwIZtMTU4tvpJ1kylZtQGp1DIk8J8mZU43MackzojagK9Nd5DYj0coJAXadJxvIWBD4FVLKtDl7w79qOVcNN-NOQqWLuLUwRXQId_sGfDZfNTicut7_C0rxppg"
+        ],
+        rating: 4.6,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 11,
+        num_offers: 17,
+        typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "Carls Golfland",
+            store_rating: "4.8/5",
+            price: "49.99",
+            shipping: "$7.99 3-day delivery",
+            original_price: null,
+            condition: "NEW",
+            coupon_discount_percent: "61% off",
+            payment_methods: "PayPal accepted"
+        }
+    },
+    {
+        id: "17791765200795360287",
+        title: "Puma CA Pro Mid Sneakers",
+        brand: "puma",
+        description: "PUMA California Pro Mid - Men's Shoes : Puma White/Puma Team Gold : Amp up the style game most effortlessly by pairing the PUMA California Pro Mid Sneakers with versatile outfits. These feature a round toe shape and lace-up closure. The high-top ankle sneakers come with a leather, textile, or synthetic upper, textile lining, and a comfortable footbed. Contrasting branding on the side panles and heel cap. Rubber midsole and outsole. Imported.",
+        photos: [
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ7XvQIlZlM-_IIxYbHjmH6kGJDEITAkQlJW4RtMS9L_5R01612DK8zOvq-Jmcsf7saQJ8AzpOQnjwUf-TRX9z0DtVpqL_yCqn8V75YuN6-kGYvOrgmU1siF1c",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRlXMtimG4PMPB6-rsfwGrI0gRrmfS9Mfre8X6imiIS43-ia41eyU47GjwZ09sshQJOp27DpMKdNaiwIT8XoSGx-UsPHHbf1UrrpDdorarG-ok",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVorhVIQBMyDY96t4MVWmm3pESPEiLxe00xloQMTjj1PYBkt667DiWtDZjl0p-rLYSor5NhTRJuQ9KRhqML6viXxg6c9TID4d4I2SW0CoQRg",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQhNanNqKzWAVkUdRtyzNDHgrnHJaHNJ9-cOvnHJ1NOwSrgg0JMtmcPu4GNJWkbyGaY0pVmTCRkq9tZ96fLNrk0WbNFXv0114adM3v71mRYuvY",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTyOShy3sBBjFgoVIiXAZFRazcwMh2N6QY0anZVryT3nm9RQ71oaqhFZGNfkROgJpshtUEveQvLmMKH8uupvdX1NZDvQnjiPsXL0PhaJTRFV6VlrKT-yamROTfk",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRfvpXI2n7FElaMfCjtPzMIQDy8-ry9Q2UD73WBnYST9KxEwJQa9KBLugoNXyfp11VB0Xb46gqBkO8S2YDv3HWYYCGzaFM4cDwG1Lw8ttXMSvnVY8hm5ZyO6FIj",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS-uHJucCWdlkQd4gnaKfqU3MovpIMifbfkeWZWTACcOQq0O3eIGc_RZQmVwWZEKQNrsTyAL9y1RMN6rRlfH35-OzWjYqJfj_fkxAAJBgxI22XKBuOFCiDq-00Ipw",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQhQRtnzHuKY9bfVZGoFLzVuwtQFPRfGIU1jtHcAqUD7AucGuRthEMeo9pYx8NGNwXrkVVoZiHNoTAuSvRcrDXszfkuj4xh3oBKA_bwzve7MCx-hFa-fzNyubcm5Q",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR2I2p5gPdSwletw_BqkX8cJ9isGLYfk8VZluAnSB5FC3uhR26b0YC8yusOsFs19v875hHi7hzRYtTraNo4h2FvMd01XMoHtpagzkmhzSYenTMP70ZutW5lgDJG",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyL35B_JvrtslKCPKqNnzBLpjryLJjaz50qwHk6gm34Upi-9-aWjjdW1kfmnbXag5bP6SwqphKfe22--TwKVLaNudA7hfTM-YTAWzq74IMA0qDpoeC3p-0Cs0n"
+        ],
+        rating: 4.3,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 38,
+        num_offers: 7,
+        typical_price_range: [
+            "$70",
+            "$110"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "6pm.com",
+            store_rating: "4.7/5",
+            price: "75.00",
+            shipping: "$14.99 3-day delivery",
+            original_price: null,
+            condition: "NEW",
+            coupon_discount_percent: "25% off",
+            payment_methods: null
+        }
+    },
+    {
+        id: "2713982889673703751",
+        title: "PUMA Men's Attacanto It Soccer Shoes",
+        brand: "puma",
+        description: "Keep things simple with this low-maintenance, budget-savvy cleat. When the playing surface gets harder, so, too, does the competition. Get ready to own the hard-court game without breaking the bank in these bold, stylish soccer shoes.",
+        photos: [
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTezvRqgsKPwoHalrykkOUK3UbmBb_eG6TcPlz3Xa1_9W6Do6vZkDsRhaevXMZ1-gIMJ0iE2w9ekz--gmcKwC3048BbUe6osudNhUvm4l0ix7meXuFawUakuMjL",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS0863gbpQpQelj1XXg11A4SEolfuQZAsLXQZS7a-B-RrJYTTcHFklP0w5qI4FCKOj2AZidsOVHCbmklVdG4WNGrtKuSg6aU4HXyyFl5-8GIdRRF45AdZKKUnc",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRvgy0PQrBn2DX-LhOCJxuhaVejAZDUXeeHb7Vdpc83XGROfSrin1HyOdwhIz_yb2IcbwMN-IPmuPg3NRAb-Npeaxyi_90IdYrMJaYo-GdSvaWNgG1nUhn4-L0",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRO7DXhdfXm6YK14XBKj4Fh07wQkazZrljyn-6nfuhCiwGWwxl8vFDmuLAZLWCYyoaupL3_xisaYSrpjjHpGqmCJCvAYjycl3PfuuN89RTPMxJMLfEUh1oEMkyz",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSisWl2gktMLBar53fsJFXifJpaqlbcQSmHOkuJoOpH20PvFg8xiOJgWmzCAEWYHAT-Rfn446qCLe0m2DqJNGk4o2FBEiBXgI-K1pNc6fYmuuCve_6sOiZH0PI",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSo-Go1Q5bAbVzYBXM-ri95DPfJtSHHIs7NKHB2hzT3qs4pQ9iubbzInO3pZ_Ub96azn730-ykr9pon8SlaG359456xxjLfk17XKU90394i9pY5NBIDkfVGJuQ",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTNQOWh25Fdc8tHHaGJc8ANWxvexCYHsS9e0BkiBSvqlEcAGvvFyuNgIr5MiMkcu3x2gqI5dTSJpwxSc1C4MNVWBu8ty4WDoOSCP5m_6n9PgTxh6E94OKrHTy0E",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQZ_PnmbBuFY4jcznglm2gz15qiu5P4nAWRh3degYOuLeKr_NZc3rzWkz6SSOkj6-CZuX8BTiUBByh9-VxHxSd2ZKit4i2RCZ01oyjIxm3XKqqsFz2ZIPO82i0",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTK8oKbOz3MkPf7dl7bRyErOEIre052yArAnVRW21mi9f9d8PBnwLPI4aiFO-CTi9ezGRRrcopQ3r_ahpU5lgFtDdZHave3PH93bYBExUaLlrQE6TrxlpekY8XNeA",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQuM0yRDwu_wKtTGj-TeO90rNVyQwt2FQtSfROlPxDf2_pnUXsGREMYbXowVOs_Gcd-onUM7QXiS_0R1XpiHhxJMMdV739EuEonuvducfu8O4N240u7WB4YbZM",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSFCEsPm_iBIUavS_f7n1ccrjnW3bVPRpaynyywTdnAww-BFMkWZ9ToJD6EvitdNh8TcQlds3ZHeSG1crKsc6p_gCjYqsbIRv3_57Zf-W6Y7YI7op0N1dpPZ6ok"
+        ],
+        rating: 4.1,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 20,
+        num_offers: 14,
+        typical_price_range: [
+            "$26",
+            "$45"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "Soccer.com",
+            store_rating: "4.7/5",
+            price: "44.99",
+            shipping: "$29.49 2-day delivery",
+            original_price: null,
+            condition: "NEW",
+            payment_methods: "PayPal accepted"
+        }
+    },
+    {
+        id: "3522690484842089479",
+        title: "Puma Men's Axelion",
+        brand: "puma",
+        description: "Take it to the max in the Axelion Training Shoe from Puma. Breathable knit fabric upper in a training shoe style with a round toe. Lace up entry for a secure fit. Cushioned collar and tongue for increased comfort. Locked down feel with midfoot support. Logo band across heel. Fabric lining with SoftFoam cushioned comfort footbed. Foam midsole for all day support. Durable carbon rubber traction outsole.",
+        photos: [
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQmkisiAyr4OrpALWGc3JTN6RZ3Bo0ohGEgXvSJgw1e7rvClcvewA4wCyH122eNcl4tnqbSHs6mswTJcXv_BBdmJyhnpT_a9eUtGtpaN0grWz1iOHz3gCa5RCY",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQe1Cdc82IW__Nu18EAnns6AH_wd2nTqpPTrzscWSTqTNAqm0Qfu1iSUS5tHmFAz1f8v9EMIUhJ2BC0qJmikZ-gs9c-OZdnf0Nh396EN1zqjw",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQhKGy2FhbzZZ8751sn6dJPZQ23ATWwrvuaSohrLtYAJHODGb4zWz2-JFUXCxvkvtKSYs-yiNnxdRjRv_TrjamprFQS28LANG8vurZR1brTVA",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTLZsQxru50-pkIP7MNdUSz6RG-XSlk5-OKU6v_t7lbsGxBksrNmyCJkWL_aPx1mtP50CXMkTnelA9Iy2Jpjjku0wDriaYh4mgVm0u_vIbUr44",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRBe73Ry43sMsmntu-qR_zHrQZ67pmPufEwJ5iJ37PsgSx4tZvLaiEdcG-lIh7kWqsj4myOuA-2vRY4WkaLVLUtoqn29tapF4pkYs7I6rGZmQ",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRHdp5rrbrCQiJ8Z0duMWip9x86T47eyKKdNMPfDJj65Yj16bsCWqgoFmdbQxewezBoDEt7tpmv_7KE81QuxIB7cHtsjG_iET-Aen3Guirc1nEdhfA94Ikg9aLF",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT2Gjlh4_rDbk3HbxDkNfx5IMe1yE1Q_7qQ3agMIJSKN_rnZXtrRC6vZxa_A98gs4wJoFt4W1cE_I47PR1sPgxw0bs0LvdCbO8qSMzWcma9PELjvVcucz4aky-0uw",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSUQ7D88IqPY8vZcIQxPe-WbrV7tNzrOYNKN_Ib3Z8bb1btASHqIg-5iVq3vG9YmyXvBrRBHcLaaOGd2krB4xyn3UYyOTjV2WV6CMXtbmqUbw",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQtiKljWKal0dPOT59c1GTY7gY2g1ez5DqrZK3rWPbTW-lNsKAQ1buVLVePkJLwl5RIb8LWbtPYj3WvVn68Dr0UhZrt4aVXnGrtoy-z3rgTIpQ",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSxcQLb7S0AWbkYiugXzbcIRM1uqyX9wSHn_vcurCaS6baGvafrWBVaqC2ciLfAFgMsMS6KyGNe_V-eMIRX1qTDM-KTcc8N_VfP",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRtSO-69Ob-rv0NjDOi7g7KZ6yml2gIofgOniMLo4oksjgwm8UtySfb3gxoqBjbPiYF4sjF6kT3YqAmcyoTTiPOPgq5-C3XlskPdUVmXTTeYgL1YxTfmYDWrc79PQk",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTmKR6JnHKvPsHQcxczeLfDqMN4glDxyaBRmrl9_nX3PHFUc043iIGUPFMrVHxFuwdr72Ubq2CiHyGB7EHOF6MVEx7ybBfR9pvPiqyMctBkl8UnuAxmRrvc-z7dGA",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRbghIhhyaa-GGcrV8aokcZCpa1Mm9EP4-9RS4JHsw1XCRYyXiYIeKalB3xgsGw6q22Hcd51DV65lXle-AXrbb2yZlD0tt_JRZn-HbvY7rSJfDDrO0_Q6kn9gmehw"
+        ],
+        rating: 4.6,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 168,
+        num_offers: 10,
+        typical_price_range: [
+            "$51",
+            "$90"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "PUMA",
+            store_rating: "4.8/5",
+            price: "40.00",
+            shipping: "$30 3-day delivery",
+            original_price: null,
+            condition: "NEW",
+            coupon_discount_percent: "50% off",
+            payment_methods: "PayPal, Google Pay accepted"
+        }
+    },
+    {
+        id: "5731723312036150683",
+        title: "Men's Puma CA Pro Classic",
+        brand: "puma",
+        description: "Elevate your casual sneaker game with the PUMA CA Pro Classic sneakers. These sleek and stylish sneakers are the perfect addition to any outfit, whether you're hitting the city streets or just chilling with friends. With PUMA's signature comfort and quality, these sneakers offer a supportive fit and durable construction that will keep you stepping out in style for years to come. Upgrade your footwear collection with the PUMA CA Pro Classic sneakers and experience the perfect blend of fashion and function. Leather upper with perforated vamp. Full lace closure. Stacked rubber midsole design. Rubber outsole for durable grip and traction. PUMA Formstrip overlay at side. Gold foil debossed PUMA No.2 Logo at quarter. PUMA label at tongue.",
+        photos: [
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQGN4eqcxoFCv1eu6EoQ5FTKnqbxbOFdHC689p-AU8FLg4y8MVHh3CGiWlhvaNLVkrDwU2aWH084Zd-SPXZ01KJgpgYMfskbUtyep8yRwerlnR8VUU3VIZbQ0GA",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTBMxpgzRbs6Pa-okAKeElOe3HxF07Crlz32jJfe7yYsth_-kaiQbWO73sM9uqFHxkUQuKdKueQFasrRYSel8IIrh9Z7DUDxzs2lVgktlRFeVo",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQd2sfI_YA7B9-PQyM9QLPd1uDADFv9NHzfJ_oBdQBaEuD1jC9bVIkLxCltFmRzwIaN-i33iwPL7DZep4odqtQ4LwRh71ppLQuJnc2TAYBCbRQ",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQimoYST2nIr5MLKoX9I5tXo9teauXsTRNs3Ql4UCqgH_C4eP18fq8js47ALd156ue_RfxDclibyaFCcgMVvjFYWIbepXByoHEelmn2K8amCIU",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSnDa1fXAaPCRXtdfndaGeG02mmUT9a-qTFo5DYRR3qdx3esAgo2MJ9OM_HFFgBJRnnl5KZFUKPCYkoeNnc9a9XdUtVl7KiffA_mu0UmXzg925wXVmJbenaK3OU",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQjH8qdnXDFTRL6MCGzeMy94kP2JwI2nGFcL3_YaVwYmqkOaaQU4x16OzYPlIYsjCMu9RnmtZwOKF6cZZeWtehRU8AeFzQBL2b8MkDncacQnKLz7SOQGJi8ph9Y8g",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSIyCOoJBZkS-uabEKLKL75wR246IAhLCPz4WAHObth-1GPfChCNkYMejYRtRWoBwUd-yclcDATj8P7qHaBq6O5qQ3shDr9OYF9W07dFah2Aw9YUfZZrSaq6_7p6g",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTBqjtFS8BURGDL9rKa6GYJBrHfY8zsCdIjzfx-fHMCmyH9fH3PVxyAUMgapzfApway9i6p6syO6Rc1OcdQPIdEVdx83PmjdvuHTfsZVYtFSxU"
+        ],
+        rating: 4.4,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 993,
+        num_offers: 53,
+        typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "DSW",
+            store_rating: "4.6/5",
+            price: "49.98",
+            shipping: "$19.95 3-day delivery",
+            original_price: null,
+            condition: "NEW",
+            payment_methods: "PayPal, Google Pay accepted"
+        }
+    },
+    {
+        id: "12358383616535187680",
+        title: "Puma ForeverRun Nitro Men's Running Shoes",
+        brand: "puma",
+        description: "The ForeverRUN NITRO dawns a new era of support and guidance for all runners, providing the softness of a full NITRO midsole without compromising stability. It features a newly developed NITRO midsole with two different densities – a softer core with a firmer rim – and an asymmetrical heel counter to hold the foot in place through every stride. The theme also continues on the outsole, thanks to a wider medial rubber segment stabilising late-stage pronation. In short, it's the perfect blend of support and cushion.",
+        photos: [
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQvvQ0VbNOcQPznpv3Ctl1jFg2A9kmRFjfi_yjsKk4kM-KiJbaiCSCJ4IZ2sHF5Mbjsv_vOWZ9Dt-1vXGtTYno265UxRHTz6TbA7D-ZsILZZgl5TyK_akSIBr6UOQ",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOxR3T6V3SRXicGPhcoJc0xye3zZprrHD6_g7_0VPFfe6P9AmPfAnZLqbU0Pw5vfIkxAjUOZK--JXF3XJH_PuvJOSSt8OvQDb0XPrtNupUPGEx6IYaEjbL7Kj7",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTxdO1U7tiFYuu0hTR57I9p5i_wD12W9ogzCT96BDKdlQeHxL_3yFdyngpcPhZfAmcZqhSAmnjM0O1zBKEyXSZPnqf4nDXr6aZSSvStpj74qg921PwkKRmLnj7GHA",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSmFCtpDKGUvDhsqnNVwKZvE1Qhi9Lk5_2T178YvN5dE6BbmyjjMCCSzCzDBVtZ1m8QfiuXwqbnd1SPs5LoqoZTr-QxtnheP4TYlHAnEj7hCnuHing-F-zr3VyNeg",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQvfK5SJP5Dxt7MQUzN8_PX3xQF0e25yw8EuK_S2fgQh6WBY15e1mjNMlMPHppsdGntFTN8I96Sy5mGsXJE6aqipfuigNFm-qEMKnGhFExPnFOoTkLwSjQ80rQzKw",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjLP7ThJ-8oavr299VI2EkW2oatf34V_NrXcIlTEP6VHi1zE0c8ukemi9CoufhOt0Zw3g7dFrefldPdfXdC6otKuJ01tP-mkWcyRFOXx9bpajj5pm7cgFyyv_G_Q",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7zEJB_duQJKrGAN463bc5TIVFV54qE3Y-Az19Um3tVm2BZYAq6jGyn9ldGAv3WPfj25-MVPZ1NHFUgqW81te_x86OEZvTxGO2F6s4Nba1tgGctnxKu32L7-kUsA",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRQcG3ntZYnpH6jpisQw4LsCE20QwDpqeu8hb8pEnNuq1SJSkr8IdZ6WByUF1XjkdDq_WCLpiv3fGGS-x_qV45OrGVxddBlaQUOGgJW8vCczz9sCqVFpm_7RtYy6A"
+        ],
+        rating: 4.5,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 74,
+        num_offers: 9,
+        typical_price_range: [
+            "$100",
+            "$150"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "The Shoe Collective",
+            store_rating: 0,
+            price: "150.00",
+            shipping: "$20.06 3-day delivery",
+            original_price: null,
+            condition: "NEW",
+            payment_methods: "PayPal, Google Pay, Shop Pay & more accepted"
+        }
+    },
+    {
+        id: "8714016784971351376",
+        title: "Puma Men's Genetics Sneaker",
+        brand: "puma",
+        description: "Puma is the leading maker of sport and lifestyle shoes. Founded in 1948, Puma is committed to comfort, creativity, and the environment. Padded insoles make this brand perfect for extended wear for everyone, from athletes running a marathon to moms walking their children home from school. Rest assured that with Puma you will get all the perks of a performance shoe with all the fashion of a lifestyle brand.",
+        photos: [
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMoRmSfBu-QbZkZHIMrJul3F6c6BNVmvWOL8YebqwhQrUJgHroS11aGqD4JHsP4LVqnkn52Gs9f06DZ7ViNUTHiPUmxA_wMC3N591-6wOxk8Zl80VRzCNdP9AN",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT9zK0jYnY4UCLeD-9RmkDHaJ3RGEYueKsWLDILwLyEo0lIifJ8KLafRvPbzDwEoepcuL1SyK3z4NYdRcWx3QDobjiVYyiwXgN0GvqwSy_3id2_XSe69uE30ko",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS-UE6iJRIyV66J4_f87CEdJOMtdaqDnhMIbAX3GgyGpAmelF3mHyr5uiwxuV_mkTL4isL3fq3e3rV3NKfV46xcJR6Gizo75V4WAd5zlm3W93zx-r2qMvJJmUg",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRkFmurKu_bDd6u4-NK0DQt0nPFv2YYIvO6hLUpcOLX7guIWyD6rvGv6J0z3GNK2XVjCd8HDwDVfp_prz6P-5tU8B4Hy5cnSYvxojgahhdIBQ9Wmwat-zAt7Ro",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTwZniVqjoDwZ60lC8cHLNivLF-tDkeacw_fMnFy9LJaOzTiCDuzDRsoBjlqSi2kYq6mdgthVh0knZ7zx3Ue3OQUBefS8bajQkSiJPkXAfvuKBdQfh239IqXY8",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ59RJ2_qh0Oy4j3W9k_IJWp0U5PedEk6pF6FNN_dlXdlcZsu9hykQrhDWjSWoAZnkfMA-sJqRvSVIKdFGD-WU7h4p3JV0ThBX9ONlHs3Jl2z4wtLS4HoqBBmdW",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSrSGjdkF2zAzWjwFGgyc9qjE85jekYYJIUZbK8knAjz0-70ZyNo2TYCWIMLqcWY5iwNN_FubQP0cYKkkcCCaSMcgTAMhV3SUzwne73pb3ic_SQrManzc13nfEC",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ9dWOu0nJZ_wQDnDKkcs_Y7-T7rvNs8RuaEByaXrOQSO6dulJTrG4dRSkXXChSzTAIIe11IZW4BTD2UxJr1FDSBoABpt-r6S5POC1obkzZSyvTKJMjMXRFfXmOYw",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ2Q98K2-nnAnM3yiCewgJ7OnHZqgo2cCkVyN_n21Apt7dEsEtAcvQh7l87ECs64Y-I5mD4W9pdOfuAljoqPxbSL-WwDz2xwxoISR9R8Su671pazPSTdwPX1bIi",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7CW7SV_oSF_z4CZGnMWBrg3MUAg7_lzeaCUkvnIRkafYIxuDVnTUHqcY0e8sk08suNWOIhIE_zfR5yuwSpw5DiqC3qo-qzreGiZEQobeAh1V1ykLaZKjfqDjb7g",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSYfbTOmRLXMim0Hnlv2I9mUxPUTE09PtAo5AlsjicB6bYLBKPip7Q7pEC9Gr33mljmfCA5RWaKXHDmkLN5NoxIRgxhcLc28CUQycMV_LEhgDzaTaAbKaAwAwkJ",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJN1mboQ2vyH5ydC7XtBMVXokcFrgmnp4WwWVn3VSjyEtdW7xx-ZdUJ4M7xn2t0cvcqpQ1lJNDnUV3o2cT-ZObTEz0fJMW5pd0791QKIO4REYo4vZ-TmSZuhH0Yw"
+        ],
+        rating: 3.6,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 7,
+        num_offers: 7,
+        typical_price_range: [
+            "$51",
+            "$80"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "6pm.com",
+            store_rating: "4.7/5",
+            price: "60.00",
+            shipping: "$14.99 3-day delivery",
+            original_price: null,
+            condition: "NEW",
+            coupon_discount_percent: "25% off",
+            payment_methods: null
+        }
+    },
+    {
+        id: "3703234609189115551",
+        title: "Puma Men's Fusion Grip Golf Shoes",
+        brand: "puma",
+        description: "The Fusion Grip is defined by its breathable upper and superior gripping technology. FUSIONFOAM technology provides unrivaled energy return and cushioning to keep you comfortable all day long. Fusion traction sole has strategic soles that grip any terrain.",
+        photos: [
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSJw1Y_t0RQwPtI3fWaKuYadvB-i4ROkaRByO1_teANWc0wK2l266n84jTR31C5FSXYxw_bH4DQTmENCUBpkX4DZuCp22h_EJoWl3Y0IXmSgLUH2H9p8n_mZk4t",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQFW_pcUkX56G2iD26QAz_zrnfzdA-kyzUv23c8WboQuuLGHlo9OtyfWz8MTEoMmX3496alSDiphhniPDdU2S-J2SbcgR_f-Lmeaj92h0dLMP-hymMh8fC2EJv8Tg",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTalVTVu6B-4dp0k_XoJ-E-tDiJb0JvwZkUBiKojsJywZqahh1x2zBRLkLuGhLlMW6ZPQFdboyVrkO1l88SJNrf6du4OL9ZQlNK6Kiy5vOCr0jql9V3h4ftSTvv",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTbS6zVdXpfvltMzWXf1J6s35pvD2plcA_HVOD_pB0tvFLeNr93eIos9TFGqObFWSZmbkueSEQAoMa04S-Y-rTdbhtpPNv2HcQAChNVE8LCd6IOaft0p-Un092r",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSNsZj7cu-zAdNgJNFRFMIrObcyhy_nd2kfd555YHE85BSxNH_8nMSNcuoHGgIc1igYi_Po3hoMpIg_SGnb4pHLHSNK7wtSQN9aFv7pa1JSxoiUPpe-YFRd-O1PNw",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSuTwz2DWaigMv-_7D9yKOYae9U1JmvqydRNnKNNSothzfzScBLqZLBU9fGW-lzB9sYArtIXrvgnpeATByT7mlsfTQTvNDiZlLbrCrfgK21-ZGJNE7bIa9yoEZK",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRVDxpYi8QQvVoifJaurVxnNbHqHoNkeCGprS7Q7PgMRj_5he33aXzpAIRkkxhXMCDx9F62fDdq-8x3uEANfy2DoxZ6Abo-x6a57adxFv3RXydKs2aUI8mDdS-qtA",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSNmVwvOSUUqz5AuXe7epTz4N6pyEjT7Q3n5q7lac9ZxvwYjpaZu8xFmT7fP8ENn7-R_BcrDdxEQlfq_Kn4thSKci_AOp_9YWmGxq91PLyJ-i2NJ1-uB1ZFUYZD",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRJQ3bGxn8hCl71kdgC3xOSX4kfRkDvVugX8cWNpWApW07Dh-gVXKUi55IGsABAugUwmSK8ayQlE8WDTrUWbXfAOsPLzj16lk5Me1p-gaCwHLR7-uBqR4w3gYH6",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGlFxCtxTnok2nV3jgf3Svx_2GXN5XYD5vfpNaIP9ngyamyGUtsVTzz0mQv4dsnLPIEa4SLTHy_VJWVMEgQiXa4jinrXBcfvaPIYfIFR-Xy3zFbUIQAfyGoHGP3g",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS2t10xbIY2gOaQwSWdD7L1dOaGFxftZVZ_Ovh8jFO00YpPCDepDtmZ2CYCHoJjxKZNRYLftc5b6uHXi8jf_YGVy5yqHOVB1RVaoOPGeRK8Zc7MJZbDbXhMjTJn",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSabPhE1H6broZ8jKKBqwniAOPqRlCdC2R5WB4wd72AgIOK_1_8MvDVD59M9DDuUVNqngzxf8CZAqI0MZmwUK0c31JXyeuyLWcIXfeSJsDW9agyZTgJvEOitZ1Q",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTTDYYTELCuDDyn1qPTJ8YO1nz_Ze2vBE2yXi-wqcpE1yRm8pSH576FbyoFMymx7oD_eWsROpYRIQ2q_7_60AGxAJF8UvvHBF7yojRFwyISiMPGWscHBcAiKxQ0Vw",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR4s1SdhNX6yhGl7z4bQgLi6PxM8-ikWLYB_zfrIY51sFZBMpTQ2zkk4NhQ2eoIFeS0gccWvFRgl49TAC0GMQH1SeyGKSjs4goidfdYiyytBbIu2sr87WmdOFRq",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQRm38VMhGsCU8xmPXsbHTXao24PuqzaQAiJqOTEjf34dT_uhPhhZgPFCL2ne0oOLzKazZ8_9PSxqDb4zI9InY4GuWoP_Tbyl3SF1bBEV6igjiMURTLm_FjwkyD"
+        ],
+        rating: 4.5,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 35,
+        num_offers: 14,
+        typical_price_range: [
+            "$60",
+            "$85"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "Carls Golfland",
+            store_rating: "4.8/5",
+            price: "59.99",
+            shipping: "$7.99 3-day delivery",
+            original_price: null,
+            condition: "NEW",
+            coupon_discount_percent: "20% off",
+            payment_methods: "PayPal accepted"
+        }
+    },
+    {
+        id: "11698261920474343906",
+        title: "Puma Men's MB.03 Lo Basketball Shoes",
+        brand: "puma",
+        description: "The third signature shoe from Puma x LaMelo Ball - the MB.03 - takes you on a journey into the unknown universe of the Melo world. The MB.03 features a knitted upper with cut-outs, a striking sole and the futuristic PUMA Hoops Tech.",
+        photos: [
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRIKdVR4MkfQkbr9Jn7WV4GRhQp0N2hsI2fcLVmmy3DS2lOhiZLWZoAmNwyHne9bG5sqHeF3HgOLoUD0VPHpwUxTre8ylN0uz4BECN9GrAoW_9JSbZB6s9I6Qo",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSALg2C-UXJlwVQyJQsl8wvq_KM3Ir1bybAckB8RZDFhcGXmPQX-93OAdt7kbtrkYjD5VOteQcy3M4ZrJCf-uA70XKSPKEQXXdfk6f73TX1bg",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTE_G06MO727KIehlEFedwLNSmrkl1oXDAQKeCO1RV5MFJHDcNoOUQd5l3AjF2RQy7d9NICOGEA45KGTE3K538sboyYu2KxilORK1KTkIVJRIqCxRrVYEbUhCE",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTaIj8QyD-EhGLA71cMB6x2Q7rDMiq52Q6PWAGI7bsvKLBFTY347IzIMXiDO_TKLGxeryczdntAjp01B725CJFtXVF5iT5ZS2PPtZ-wDejpuc7tlvvjE0657QU",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT2uCUhkxE8KREep21ge0HaR0QBdivWLhm898Wbpx1Em5rl-aLELLr1n4gC0Uj3G51SgXtWu0OjOy-rfOfFL_x4aPInW-ilyCC5Vq0eQQClflBbgEi85FLIP99E",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTf1neZhL_VTP5tGkDBeQ7EUZWTNIFyVbR3UhsUHsGFCMwvev1OSWhyKz664tlJOFZNY5a8cheUI0k1cRScgyDEv_Wxv5bcVbcr4M10ni1bNiHUP8sleNA9fzbs",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSC6ebKk0HMp84ATwjzKBVegufvnZWcAY64npfwc1Il_V0yIQwdAlpUkPhxmPd0Zvi2nQuhHcVHsXnJOI-v8Xi8BZSmiEvxEP56fwaSryNdJiTIL4drG8oha-L7",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQTluyeFrhlzV_qLiAS4VCx2no5sSK4ZjFpUqsC2b7uaxr1ENSGDmPxANDVCAMGDCyx3BY3OR1Na0ttxxbBNXW3Zcjjn3AlgUhMlU9S-axEBYtoQ69Yq1Ql2DKy",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQqikaU_-wVwnDjpBXG5DzYPuJwptwtVfYHQ5xbQoXGA6j-6xFI8Ui67TqmGDPv4dlgINk4gk3RWKId8wKLOkZEnekvVlBgI6O54MtHVNeXxH0sJGAAO7IKAT-g",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS3CWwiQhom_VcjW4zN2xyAPt5skGlnYOpIc9PueA8jOaWwjjFeQceufc6_Bi5bDgIOEuAQmwlTOlPWrzLykxWNxrKuraSmdREtkWlat7MZVDHxXGhXoDZZDZY",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTVz6YOvP41CZK-Znr99ciLoWAcdEZF3dk8qTdi2y7uTDz-wDtK-twNXhrKJYQazdAM04PHPbYu3KsaLnlYb8WjhVNTr1d5vK5IBtARwbqKrgVvxOk42cRzB6c",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRQquZhh1fFdtZgQfotZALsFRXjYyJDNjwHXdzUp2M8tkdKP8lAoSjQ70DlH8dPiV9bl54PUNXrxQFUso9o881vEC53lcZ11CuhGvd8A5_8Crnn_Mzc1h78m30",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRdvP6iPUISONczIpt4DheydV0MKWL5z6P7E2-0p2kLtIdbgTJqNBcsZ8Rxb6ATWCNiI9FbXfzzzu5Y5v_gF_TQqn0yOKAoyDBfYItZlcckDFiPyk039lb3ZDZp",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTuecnjI-4XDzRr06YIS5HK3xlbkUxHgUt835om0NIdrJfZncV7hClREng-7upAF-gC9ioDPNOPxtDJJ1wF9g3p8eBdRs4ZOwhnM05fOnICOg",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTxqNFrMRZP0UGytTANQNyNWrFnADBnOwwgsiJicrFPHD56dQXAZQmpEuI0nkAc6n86EjlsmBt0v7UXi4V1dOaOwytbPW1pVZqu_IzGW2wD6qE"
+        ],
+        rating: 5,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 7,
+        num_offers: 9,
+        typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "DICK'S Sporting Goods",
+            store_rating: "4.6/5",
+            price: "114.99",
+            shipping: "Free delivery",
+            original_price: null,
+            condition: "NEW",
+            payment_methods: "PayPal accepted"
+        }
+    },
+    {
+        id: "16265856632745952387",
+        title: "Puma Men's Fusion Pro Golf Shoes",
+        brand: "puma",
+        description: "Make a statement on the course with the Puma FUSION PRO Spikeless Golf Shoes. Endorsed by pro golfers, these golf shoes combine performance and style. Featuring FUSIONFOAM technology, they provide superior energy return and cushioning, while the SOFTFOAM midsole ensures a comfortable fit. The Fusion Traction sole offers optimal grip in every situation, so you can stay sure-footed even in the most challenging course conditions. With the Puma FUSION PRO Spikeless Golf Shoes, you can take your game to the next level in comfort and confidence.",
+        photos: [
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtb-aJhFmFmryPCrl9_U4JevZGfKze40bp0vzi1rocIvTagMMFKLUzrn8E_qEm1f3TRFUhgDlSEz4t3a8JZQT5UqT7kmr5xKPbiF0SEsnr1lskBUSdQvflYYUT2w",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTByH24lYOrPD6fXFilCRp5a8daou0QKg5kvS6Sm6kPRjzTdVyUAJ4ZGGeQhefW6WalpRTbZ3TQ7STOYQvBRm8MUdEYK7QwP9Icmk07EPmcC9tTowwlXHjcTtAO",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ4d3MeM0D09hmo4JvB8QRfsTnpotn9gx5lyEDB0Uqao0ZYQ7-kMWUBSjaoEuFtjZgZTVb3kbOlNxGnE7euiSeZdXVqjAsrl2HErusHMjknn559mEYgCSGFj8Xz",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT0xkuA9RJ7wmVH0Ey27WxGVTYQBnTgdGpOjO-E2GDGbv805HBFct-aTGfClkOqCW7l4bzK9REd-M5eC84Hx200fArqr1Bta3N8dU93a3luqLY0wDJDiCneyVm9",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQdNJOTV15nvmIZoAjeX2SskAYuI8qIT17rJTWK1GQQ6Ow9tfqMYuxTZvZlrlkpK977pLVqR_25t5itqc8jp2JZwlQh4NH2hhvVt941e1pgPrcGK4mkSsOpVOfk",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTVVonZS5ORny5H9lY1YsJZsy7_0vqDKwUqmjQ92upzz_XAp5vxjmCrJDGq2SulsNWBLTPDhqr3pITm2ODpiHCF-RLh0y3dSmAO3_RvertePL5B2kD9Iu4LVdI",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTBSfLY8ASlSV9ASlbwVsi5ITZKHqTo3_VNfDbYaXcjq9O37kwMQVI_Ad2jeBcfun5FtW6Fg1AOmldFeClO4An3iH4hz5iQoT2R4XH39gGNB5fGJaSbvDt_JTckkA",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0x6CBQ-EPnUBfLXPNzIgGod-alko4ieKdM6aZe9meKIgWKZSyPTJ_fqa6tPJXSJy94JyfgHjhydjNNWHrbtggBckSRfIhSqQjs-ZoOJ_D1WahsnX1X7vBvOw",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRWl-V8JxyKQ0rKThduFZfqYzyVem5Vcjc0fK0P7U731bjFH2v9HqmNE0v-2JHqsqK9laEIYeTGhMgIqYXwYEc22SCpo31dff8boFrRL7peofVgVW7VuZD2qNdj",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHFvxM6rm7b07r2-Xl_vDXi9QCcRArBOew373VktvW_vU10Sk6tzy7tHgtbY8h7ZZHK-CM0-FRcGs7pCOAblVpyNlJ5bmbtR4l0MVjPQe9Hr9uA4icmErOXbiX",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSlfIB_ZKPpRIBG6nR10xbAVT2kvYlZ3WQdKXAxNAJ_kOQqs5hQA7H_GT6PPebLH0NLwJtOKBAxoxOY9XgIBTo7b58ElvFpKgJQI1KsJoMwrM3SWyCuLEUCSoZb",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTeRR83mcykOqneL-uQrNuJtOdWoalD5bFoa9XX_xHIdxSv99IEbULmIFpilLdIg5AS6NnFuX3Ye55HC1pF8NXjdHCSjsorDOj87_rJWERJt8QV6fldKiB5Ct0",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSmbOGouwKUYfsrVCWOcFR7yuj8-7N3PM9ysbgxGIHVCYukbOMl_GwQEr8O2cxSISxJlHQpX-s_ZQyAPuql9lxTl68Ycl7Bgn8DXSYjZKNfhpWioHqBT0TyLTTwdg",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTeWx_Ev-Fby_elJEXaaxDI3aWog1_f6O9K_9U85UCASKM3Apx5KiOahz2yWPOFFwR0AwyN5uf5r7Z_swmglkxdNps0Pwq_oC5ob9ukVcn6uwaP9pR3UfcTXYq-"
+        ],
+        rating: 4.7,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 136,
+        num_offers: 18,
+        typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "Amazon.com",
+            store_rating: "4.5/5",
+            price: "62.77",
+            shipping: "Free delivery",
+            original_price: null,
+            condition: "NEW",
+            coupon_discount_percent: "Usually $67",
+            payment_methods: "PayPal, Amazon Pay accepted"
+        }
+    },
+    {
+        id: "1620202506148128302",
+        title: "Puma PHANTOMCAT Nitro Golf Shoes",
+        brand: "puma",
+        description: "Groundbreaking. Not ground-breaking. PUMA's PHANTOMCAT NITRO brings golf cleats into the future with FLEXSPIKE technology.",
+        photos: [
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQEUh-YCFWl0Ph6PAe0Yz3YQgcbhpAub4viBnTWvw7a3c3n3s4lYs0MvfIpOpsw9UPnnxeH-rXte2BddLV5suA-aWx4vekrHkF0bWTICY52oWjpw1p_WxLnzw3t5A",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcREdqeFM_yTVzmGkgeRgCVW-b3ElsV_LtW1SeCFBfmVvicXtNcDQx7M-fhXd96v5eJn7RXb1AWpw-ND8deYS6tIQYSKhz2toxCVF_890Bv4Ul2me26D8r_YXGWqgg",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRekfD33Xa7xkn4WZZ4aqGMjctNjMK1hOWaAobzDplxUkHSZIdBKDda20fkQKax4Scz4nptSN1mHcpvP-snPoXLrpaLOPx27INRgOzkwWilHWloHOAN7X8rEWE",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSKt5S_d0B1t5CPmYTcnrAbwzauEQ4KNuna2n6jEggZv5HQzDpiii2R58Ej0QwGDVUtSxlSA3R4kd_8WnaIGmN4sqovZ5c7npTrwmB0E4YoUYphph4nOsfptjA",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRa8uEZAmqUPm-WdTKUy3WYuJ6xk8Ju8v4ms-rfTPC03P79P7g-9GZs6OiUufSM5nN-Pok-_o_88GdcrTT-CTeXyvGfGGE4W2BT5jCsz7E2MnQYRzQvIsU5VZWf",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRnh5EkF1RWXhYJMDslnObEXtk2FBkb_RkmW81NgRDLxzlMp63zMsMEiZWWK5achku-cysVdyotAVc3IE51GiFqg0pUgREBmTHcma0lBvpG5m8t8MlaT3Ymmw7i",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS0mlsmjb504chk22xtIETne65p4RTon23lHK5isaCKmz751vXdI986Zxv_ZHPUF_LbC8nW_b7_mgm-oE6HhU7HloFBQQpBffxCOFWG_J5RG8RChdgsnEGLVCk",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSiUZLFeF36hMDHVBhcR_wNn3cIbRxZsEVYs9QfJymZG_1EZ_6u6HTgtcqeZtG3j58fEJvIEpBKbP0hgUHoCaP6byU1zX5N1oauOnq8C2yDq5tbHBuaJC4_jM0s",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTO9kNAahuT1abeSjdmUJgi1YgJuKhrsZbA9i6wn6qFMmQ63-GYSy_vSoTKXv2j85w7AOKkCMwOP21njtK3Zv8Lb_zP-ws2TwTQtsm9TUzO5izBUqoa7iicIFf3",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRrDGw6b-ZysLHTP79YIkh7LHEfktDXUaKycHQiaLgbYz-so6uqUk43kXA7JPkpEAU61R1Lv4pmnRKfx-_BAT63hQBwpX3tc8MYE6R4NM_gA4CN6zRLD63R0BPY",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTUrHnqbc3IyHD1wdWQSmSAJh82Oz_yg_o-hnRgfPQpd7r3Ii-9pDyKaEBSOApTWjD93jiCJWCFN6dxNUQ-hBHcj2OCtr_0yWKX6j9OqShEeesAr7hwrIWw-d4",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSY4KgaxFhtjRjPB0M9VlwMlTrN-tc2uaB1BZDKN43-Jph5Qa4SZsABw0qCo5iWxMxEe_pCQJ1Ng7HPENixUd1Q3AL3plXxCuJfi8kkVFpQAYUH-ewfaWwUoLDo",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTmnc6MuWohUnIAe9UZ6flhhgNvKpfRrg8-Z9zwTbnVOZOEEc5mGKgF-CUM77aBiGYo_vUuHruKKLLvYkV8Kh1l1Y7a9hgI4HthFnOSrZgPV3sJGlhCSzmOMfw",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTlC_CfwsNTmgUJCQXG3_yEL37qPwh7g4mU8FnNcMDPBjP_pgAHmvNQ5vHV1N0gWrFqhsIGMs2h1F6rHPuj_v018rHcG2dHehE4487Ie4uyIQPzHd1Dw8nwR-9E",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS6MdRa6uskEjulChKnsewPlHk6ZC2FqdaB_grVUbt7_7u36Fwyzlj9Bbgb33CD_Z2qb4F4dl87vR-_TyJtNZWUomy_XgOa2zUVaUJLwfZtqvIV85UIIb1_i6KK"
+        ],
+        rating: 4.7,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 109,
+        num_offers: 6,
+        typical_price_range: [
+            "$120",
+            "$180"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "PUMA Golf",
+            store_rating: "4.7/5",
+            price: "119.00",
+            shipping: "Free delivery Sep 5-6",
+            original_price: null,
+            condition: "NEW",
+            coupon_discount_percent: "33% off",
+            payment_methods: "PayPal, Google Pay, Shop Pay accepted"
+        }
+    },
+    {
+        id: "3032536499912307818",
+        title: "Puma Men's Ignite Elevate Golf Shoes",
+        brand: "puma",
+        description: "Get ready to elevate your golf game with the Puma IGNITE ELEVATE Spikeless Golf Shoes! These shoes are packed with advanced features that are designed to enhance your performance on the course. The IGNITE Foam provides unparalleled comfort, while the PWRCAGE technology delivers excellent stability and support. And with the EXOShell construction, you can be confident that your feet will stay dry and comfortable no matter what the weather conditions are like. But that's not all the Concentric Traction pattern on the outsole gives you excellent grip and traction, so you can swing with confidence. And with sizes ranging from 7-15, you can find the perfect fit for your feet. Plus, these shoes are waterproof for up to one year, so you can play in any weather without worrying about wet feet. The Puma IGNITE ELEVATE Spikeless Golf Shoes are not just functional, they're stylish too! The sleek design and modern look of these shoes will have you looking your best on the course. So why wait? Elevate your golf game today with the Puma IGNITE ELEVATE Spikeless Golf Shoes Style #: 376077.",
+        photos: [
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjNqF-3_mHt0C2em7Yr5thKSWW4p_Nz0mnEPIGw6DvkLJhnVi_RjCS0y-YoQr4UKapoS3sv-D3SBSBCQAxgnKrwJZ64EA9HwNyu59MIEYFyKvYDV0wX5XOdjthxQ",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcThmcxDBmi6cpqCN-loQwksmnx-cmZMxr3tRSJquXxLJJw_t-7-JqxCgKhCTlxN9pRgk35RB94c7a6I9xtafWYjvCQB5fW9iqhFzbNqpJUPng",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcREpu75b1PeyjK6cC8DDiBAZ1qnLZPi4RxCU5uC0ajF4MAQ8FNdcuY9ezJv7JMLX7az0x4BX_e8qGyI-ptmdCYTNN65yeLLCX7P9P1qs8hp-BdnGlAzcJJXe4JB",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQtdRVIdJz1pgLXXPw3byNh5uceQPWJm6UwNWPBXLGKfobaNROt3KR_aAgEB3CVHjO1rgEFJLPfDcesQBF0RHZFu4gSvADvCdMpLdkIIDL0ag8mpvfNMC--avyc",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTX0dhpjrFLpf_IGioG8wsGkA5qBsK29ICE-Ylv2abcYM5CZ6avlcSF2euqWkQr840q5xj_eV8pGy-bw2XbhZas0M4N_-LjabDSVYYsCvri1d0_Z-OlKKP7fX5z",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQbsZ_Yi_cZQJXSsRO-efzvCtt3at9BPcTROSDxY1Ow7dJVr2JDJO4L8vGOIRFZkpFgibbsKkn60baAS8sgZHdGVQB8spznHTmK32gqHY60HjNa2vdmX5gWBDTl",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSd4jAAydZHVlOPBFZcyR9BhvnY3Bz6CCh1w5JSNeFiEXOcrKg0fzpxjHVZ9YyJ32CItLOsLsyv8fmUQ14V-8l3f_zFEC42lUCetwyMNy4mk3VbbgNypAtxtpcw",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNdn-qCiw9wGiLB9xI8ujkN_471J03lOxbYWPgvDjGo6KRI8-zKC7rKtN5eOWFHpqupimPJ6ObqPMXgC0LHeRQ_LOobPhVxPZ7Uj6TPa1r-_6bTmOe1TmOExcy",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQCFvYhX4WvtT47AuOyGt9fcwmNiJhLuDi3Bd5XHbF0Sk8nF12xhsIk5fm-euoyWNVyDPlT64UQD8QJhI9CLdyGdzfU6uhcT9y0e7AbuqLE-IRCt96geFKpzKY",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTA92dK_SBuCz-DsXzlfHlapyZLEjWhLKWQSaEaL31Ho65aWi919BrGpnFR5iQNWYiugCTM5Zzo4bjZ5fq9cYbtQnbcXvV6cG7jq1lPbY7ZTg",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS7fVXxUC1qsRCEjEtF_QASlZEvzD4EZk19gMDfi3IdjiP9aeyt-WH3YEW10J0UINUWzYKjr3hAdu6sYGlTUoHdlajk35QXbJQ0aTR6Q-mlWA8WKv8_NByfYso",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRqqt2yTvDreYN2I-Fpc7RXQZRbIR72sbJl_qC7maVBEQkiharJFdiSXYNzSh53bBHvf0zylZd0ofMZ_30jp8WW5OiFH4r4Dou9wZM8hwiITSc",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRxcyPoDma6vN-lgfGmJxTWWOK-0GjGDeT9tdlEXq24wWTyKwwq6r3EVB8uQkg-QMnLQTuk4VtD0kzjbKDVJiQOo0Ig2_Gyp-mVjiu2O5yPNQtH5MHUsRlpcEA-",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRzN6Oo39cBnKLes-cFyPwQ5B-bnNzVqgdBzYA6jQgVWRpoGecIlBeIxqw0fSQ66yZeEJDGbApHC2j8WUs9Q5Osz682IuUZEPTp9BDNPXJB0BM",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRRpA1DDWlJiErTsYGdr4Ifl1FdXpcJa7Ajr915GnEV3EiW4i_WSEvKieiQ8qiYGzIqMcZmr1AN9J__KOY9COTvKDKR7OlvLRoAcpTy327OLcQ"
+        ],
+        rating: 4.5,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 72,
+        num_offers: 29,
+        typical_price_range: [
+            "$88",
+            "$130"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "Amazon.com",
+            store_rating: "4.5/5",
+            price: "81.97",
+            shipping: "Free delivery",
+            original_price: null,
+            condition: "NEW",
+            coupon_discount_percent: "Usually $110",
+            payment_methods: "PayPal, Amazon Pay accepted"
+        }
+    },
+    {
+        id: "9724765747613701137",
+        title: "Puma Men's PHANTOMCAT Nitro Golf Shoes",
+        brand: "puma",
+        description: "Groundbreaking. Not ground-breaking. PUMA's PHANTOMCAT NITRO brings golf cleats into the future with FLEXSPIKE technology.",
+        photos: [
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQYX5bCEl9YrXWVxwxZB_glJfOXnXHPRkBCRBYHxMho7U9Jh0a5__AkIYyyWlgIw8-nVHhZ4qmbI4GmjI4YTneUgmEP7IWo3fO3lmWrqP25Nj-rRcpK5xYVf8c",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTVvJ-Rb8Sy9CZ-Nj0K5e6daoibu5jkpR2WGVjCy_lbRfZLlD1vef87LUkUh0f7D-45IHiDJhqccSA85T2Tx4PGY7IA1yWsc22MM32e01OYnXjpOeqD8gIPP0Q4rQ",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRUb_DEiHFUYcDJ63AnSq7yu1ELOLIZjqBG35fStKSFMDvT9pblZHlXECyKik4t7dPV3Qe5leqOwJis4AGdP6t-aJeCg21AG81LxV1SFZEKByjAN4hHC9rfXi4",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRa8uEZAmqUPm-WdTKUy3WYuJ6xk8Ju8v4ms-rfTPC03P79P7g-9GZs6OiUufSM5nN-Pok-_o_88GdcrTT-CTeXyvGfGGE4W2BT5jCsz7E2MnQYRzQvIsU5VZWf",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRnh5EkF1RWXhYJMDslnObEXtk2FBkb_RkmW81NgRDLxzlMp63zMsMEiZWWK5achku-cysVdyotAVc3IE51GiFqg0pUgREBmTHcma0lBvpG5m8t8MlaT3Ymmw7i",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQSsvQMRjDJC6pf-JcfiZ-3r-ijAKbeTBrFa5YcmqBdzygVuLxDYUcifW_xRInWFKVTHL3e0I8BBK--InAXFxwu_bAVi8RE8hQxJywbQ29c0dNzlV3Imy98l61e",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRMX1nuhOnOMHp7nR8Qdrl5GiY9BcV6CjJWMGa965vuPEua983wFrMTUrKpVXqM6-bJUkjn0_Drb07ydBH5qsZymHIzJlLnjI8T8YI93No2MA7H8XmQyGUsjshU",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSAk16ywwa1w7v_OYzED0oydRgkPknC9R6Aqq--rwHemmvPY5s7YEt-7lAGxLpiIOCVR1Hfe6X530atY456DlU3wdMorjrIFB2HzMclHj46DNb0bM5TlMsZGYU",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRy4v-7ZSpyP0YXEkb6_015fSJhQgxfJ5VMrpVogv2P3Z2CxTNtvLVfsoQJsjOvJWVG3CZ_R9nJzhvEypMiisoe6Osc5Tk_pK_D58AsatY5DXvZOWlFcNue2QsU",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTmnc6MuWohUnIAe9UZ6flhhgNvKpfRrg8-Z9zwTbnVOZOEEc5mGKgF-CUM77aBiGYo_vUuHruKKLLvYkV8Kh1l1Y7a9hgI4HthFnOSrZgPV3sJGlhCSzmOMfw",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGopW1cABVwRX6h-kib5FNp75eTQ8siJ1Qd6Vg8Nmmmjw6rdTJFVAsYJV16rWkZFzFF1qmSDtdJ2DboHMvmc31NTg7EHns0TWZSIiFnKY2OnP3oC6GmWeBBVuE6A",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyxbAhYh0ZttBn4ySuD50ZbURsufFein_Lmm_Sc_NIFw1wKrDKH7hs2Ng7DBQQJpq9I2u_Iy1h88tTfwyOwdb2pZuQMQAuW8V-7Lsx_bjQL5xET-jOHSsMQ1_u",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQGa-kt3viLcc_rsPHgdZsi0FLMqrUeq_UG2MKhO5qbkp-WW4yDTs97FxvAKSwc9-5UXACnBQaV2ykuPbPWg1sOPKq4OIyTQMpaxHpjr9dvzTClT7-vXxTLPlLk",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTHSgISDfiCKjyWLwYEf5JUdJDVjq8ZlnZ6p4JqEfaAeNerbonwSwhTYOGfR-lrXuneNUzlvw5nCAcU_rXWrPZh3_ixWgCbmyEK4IilZb38oH5zAMvrZb3CA1F_CA",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR7pHtC44Xte-bMV4YSHFa_1JRyTvLybchKIZBC0kN9iz2fLgulsRFlcRQHDuqyEAnuJOVrRDNsICQQsBMejEARp7zKj7h1GL0"
+        ],
+        rating: 4.8,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 57,
+        num_offers: 9,
+        typical_price_range: [
+            "$99",
+            "$140"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "DICK'S Sporting Goods",
+            store_rating: "4.6/5",
+            price: "119.99",
+            shipping: "Free delivery",
+            original_price: null,
+            condition: "NEW",
+            coupon_discount_percent: "33% off",
+            payment_methods: "PayPal accepted"
+        }
+    },
+    {
+        id: "830358514785681778",
+        title: "Puma Men's Fusion Crush Sport Spikeless Golf Shoes",
+        brand: "puma",
+        description: "They feature 1 Year WP full-grain leather upper, textile lining, and textile + PU removable insole. A round toe, lace closure, and heel pull-tabs ensures easy on and off while signature cat on the back counter makes it stylish in look. EVA midsole. Rubber outsole. Imported.",
+        photos: [
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQrTbkqKrvs09lHpZf67nQs37PXcDvWGNBJi8MsAJwtiGZZttnwmpD6lFdVo62hXZSd9sbU_v_Y9GwS_ET7rV_BI8hxADEwYYEfE46098nJCYD9bWecBitJ4NPg",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR9zLogEzR_4daZb-j4lFmylF-vyhIaidWwJFtejsfVuvQGKclzKOsrUOjbxrFaCR3Ol5L8kf2QZpfk9xL7bT4utGjq9ah0-8o4FCGzvtNjN1PMR99fVOlNo94k",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1p2w_8xxqS2VLyCA6wGUkYUltYNbiWYYiiTaxqtUj2CkyZW6_gr5g5hqmEWsQJv7KGBIz4AGlD_ISUIqMAFxceKT_nUaKaGtpv8i7yWBw6y4",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRpsEEkLdEQQngROHB76qgSnDbRBjxgLve4-_y7fwNXZY2fDSMvmBtpKFlYpnkNbzuCs1vAZsmHVCGAk-LExB8I5raLg6WEyhA9ERmcocBMN2U",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQL9ZpQf7oJNpXLj_qwWoUydbNk3Xbqdzx5dHuYmquYLutKXyXYsy4orGEAPpvZh-ngzGJdWNDvn0EmrGzxhp3_fJBCulanHG4weLari1LpEm702xYBv6Fansp_",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRsDQ_V2obvFH4D_NLD4GLEL6wpgJc0VZbDrCt-D1mkBb3BfZVBOzw7cQ8SUqJRnXVgKxJ1Ou8Ulr_TP6VAOTIHqWDQIWD103iOhoGLyiHfBg",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTBZIBEemDB9VNqwWhv-AzWbIrGybryW0vMg8E1GQfdvvqgZAfpctfpre1myWGrvsRazwab-GabKW05_oBqB0hkNRgUqFBuQzCY7ZCl-cd_ECCynAD2bO4-OgA",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSxOfwUHlc4jl7mhCzg50LnoJafkkyAyl941ekgagL2LlaYJV6Bl1qbW1aWn8jkvddDOLZzyoRb1CLq05vBRxqgLs6UZn50lIBSQcGEBoLMWSWWABHyAEeVNsaYOw",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQxml_KS93HsjfmygLED-zAE6FnkPpsmI-Yaw7-BdP1MzqJ-sFjOkvYDNXAgXgDoKV4YAHFOP1ZuWFQphuZX5S1mJqGGe2sP7blNrIEufQ5ALc",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQTessjpJEG-Lp8PRVvBEYcvVZF7DrhIYb3BX3Kr0fuqlPW780F2Bh-F7SlLCaG0MR5ePwEcVenMEZtvKQ7vqQSDT7M3g8_Hx0FYXw9-yk2",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSsxJNrt320WD25kOFx3EcXwb9hHi2jM36R0xHQFaGg8w6lQlDnyiGqjHXi8Vlkk_231d71l_lgTTVjJAlX4O2JMSkR_Ay3mltYfYoaOnW-3nE",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSncUphlYObcMPtYWAeXtsrvePTGofgCny_s_q0ab_6guAFFaHmz30tpqGJHQNpDp3j0vPun0TQ0vEqMb7lxO6uKeIymuNuraQiv5SYhDexIpnP2chIom1NZBFB",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSSlJgIY6HrEwAA5tCxtP7yvob0xI_yqvv7NORBB0vn32LDkxuddiqsPkK4scGO2Tly8PKCoEdcFH_B5T1EBsdsBiLzHmabEytiPpV7bhyCtdZL1Ml6odF6UYs"
+        ],
+        rating: 4.6,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 69,
+        num_offers: 19,
+        typical_price_range: [
+            "$83",
+            "$100"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "DICK'S Sporting Goods",
+            store_rating: "4.6/5",
+            price: "99.99",
+            shipping: "Free delivery",
+            original_price: null,
+            condition: "NEW",
+            payment_methods: "PayPal accepted"
+        }
+    },
+    {
+        id: "8151158655776722616",
+        title: "Puma MB 03 Miami Men's",
+        brand: "puma",
+        description: "Cosmic crossovers and stellar slam dunks! A true beast from LaMelo Ball's otherworldly PUMA Hoops lineup, the PUMA MB.03 Miami lets you turn every dribble and shot into a highlight reel moment. Powered by slime-inspired rubber wrap-ups, this iteration gives Melo's third signature shoe a cosmic twist, so you can show off your out-of-the-world moves with confidence. The space-age PUMA Hoops tech keeps you tournament-ready and gives you all the comfort you need to shoot for the stars. Plus, the slime sole allows you to take it to the net in style. Futuristic, gravity-defying, and explosive, the PUMA MB.03 Miami makes sure you rise above the rim in no time. PUMA MB.03 Miami features: Engineered woven mesh upper with scratch cutouts offers a breathable feel and a premium look. Seamless construction with multi-zoned materials provides targeted support, breathability, and comfort. TPU heel counter delivers additional lateral stability. LaMelo branding offers an elevated look. Midsole with NITRO foam technology provides superior responsiveness and lightweight cushioning. Outsole with a high-abrasion tread pattern and non-slip rubber compounds enables a grippy ride.",
+        photos: [
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTBQW2Igh8k-sBWwNxtOlkSigaRDdg10uQrPORYaeHyveR84O0ZI2KtH1SUPq-pxjIDbCstlQY8IjzpYNRgMjvttpyfAo2FVubH647o6RW-8KKbdQ85FpDdz0vm",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjkz7wB09ul0KDDRtgcE-zkNQpLAA1CNEgzKClzxzyHNNeVGHdsDdXp4LT27KHoGVFbF8lp24P_Q7PBxzarF_GIop-r9NK8e2HoR0UvRVFcISSZzWaSwBYC14",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFQYqhl8wBf2K--ecvd9s0ObUiKHzeXcJyP2wJn25jwWOmVjKF0XtfSKA06WCXsNcWXM5N3zB16yvkZLO4n3ps7SioioPWoTqfvZfHViv4nCfreB6mYjbZNVsShw"
+        ],
+        rating: 4.3,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 30,
+        num_offers: 16,
+        typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "PUMA",
+            store_rating: "4.8/5",
+            price: "125.00",
+            shipping: "Free delivery Sep 4-10",
+            original_price: null,
+            condition: "NEW",
+            payment_methods: "PayPal, Google Pay accepted"
+        }
+    },
+    {
+        id: "11522151999387803236",
+        title: "PUMA x LAMELO Ball MB.03 Lo Team Men's Basketball Shoes",
+        brand: "puma",
+        description: "Cosmic crossovers and stellar slam dunks! A true beast from LaMelo Ball's otherworldly PUMA Hoops lineup, the PUMA MB.03 Lo Team lets you turn every dribble and shot into a highlight reel moment. Powered by slime-inspired rubber wrap-ups, this iteration gives Melo's third signature shoe a cosmic twist, so you can show off your out-of-the-world moves with confidence.The space-age PUMA Hoops tech keeps you tournament-ready and gives you all the comfort you need to shoot for the stars. Plus, the slime sole allows you to take it to the net in style. Futuristic, gravity-defying, and explosive, the PUMA MB.03 Lo Team makes sure you rise above the rim in no time. PUMA MB.03 Lo Team features: Engineered woven mesh upper with scratch cutouts offers a breathable feel and a premium look. Seamless construction with multi-zoned materials provides targeted support, breathability, and comfort. TPU heel counter delivers additional lateral stability. Midsole with NITRO foam technology provides superior responsiveness and lightweight cushioning. LaMelo branding offers an elevated look. Outsole with a high-abrasion tread pattern and non-slip rubber compounds enables a grippy ride.",
+        photos: [
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRpcR5bQ-lS3paJZud-KSH6Dft82e22Jj49MwG9fnCoDdFnQOs-ePrpzZHj_T_ZGw1yxnI2pI3Hh_5NaYzNmB3OWYspFxEKHzNA2-P-zewZ9MdRIOqHCm0V0wQo",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSALg2C-UXJlwVQyJQsl8wvq_KM3Ir1bybAckB8RZDFhcGXmPQX-93OAdt7kbtrkYjD5VOteQcy3M4ZrJCf-uA70XKSPKEQXXdfk6f73TX1bg",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTE_G06MO727KIehlEFedwLNSmrkl1oXDAQKeCO1RV5MFJHDcNoOUQd5l3AjF2RQy7d9NICOGEA45KGTE3K538sboyYu2KxilORK1KTkIVJRIqCxRrVYEbUhCE",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSC6ebKk0HMp84ATwjzKBVegufvnZWcAY64npfwc1Il_V0yIQwdAlpUkPhxmPd0Zvi2nQuhHcVHsXnJOI-v8Xi8BZSmiEvxEP56fwaSryNdJiTIL4drG8oha-L7",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT2uCUhkxE8KREep21ge0HaR0QBdivWLhm898Wbpx1Em5rl-aLELLr1n4gC0Uj3G51SgXtWu0OjOy-rfOfFL_x4aPInW-ilyCC5Vq0eQQClflBbgEi85FLIP99E",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQTluyeFrhlzV_qLiAS4VCx2no5sSK4ZjFpUqsC2b7uaxr1ENSGDmPxANDVCAMGDCyx3BY3OR1Na0ttxxbBNXW3Zcjjn3AlgUhMlU9S-axEBYtoQ69Yq1Ql2DKy",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS3CWwiQhom_VcjW4zN2xyAPt5skGlnYOpIc9PueA8jOaWwjjFeQceufc6_Bi5bDgIOEuAQmwlTOlPWrzLykxWNxrKuraSmdREtkWlat7MZVDHxXGhXoDZZDZY",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTVz6YOvP41CZK-Znr99ciLoWAcdEZF3dk8qTdi2y7uTDz-wDtK-twNXhrKJYQazdAM04PHPbYu3KsaLnlYb8WjhVNTr1d5vK5IBtARwbqKrgVvxOk42cRzB6c",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRdvP6iPUISONczIpt4DheydV0MKWL5z6P7E2-0p2kLtIdbgTJqNBcsZ8Rxb6ATWCNiI9FbXfzzzu5Y5v_gF_TQqn0yOKAoyDBfYItZlcckDFiPyk039lb3ZDZp",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRjP4GldIO_VM0ekhBHyMBpjRVvqg5rkeT8z2htil9ks5TV8L6a61uMQHtzfqYXo1WorrXDt-McOxEH0saLJySX8OPz6_ohkoH4-9tKHuMJJA",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTxqNFrMRZP0UGytTANQNyNWrFnADBnOwwgsiJicrFPHD56dQXAZQmpEuI0nkAc6n86EjlsmBt0v7UXi4V1dOaOwytbPW1pVZqu_IzGW2wD6qE",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS2WxLdCE0JgHtPzkogHXcowN7JSe-pmN8kAaEuI4Wk_9v1GdpDsuA2o1dsvbVRqTj2n1wPW7Vr1Whgr37Go4ZFEOkBDDbCzMlN7wqQTNyDeOrG87diDrF1Qz8",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRmvpvkf3Dup6y6C-VdhdkqjDxYX3xYunWcF3Ym9x81pdl5wSCbLH8AKBxhTPZCriTyNIFhoz8l_MrSxWag_UkkxDchIoC2xn0CKf6rpSWdNPwFSYPwHQe7vZMr",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTZCP3KtkYcjoRYsYJsFFLVP4Nxsv8bYEmp307_eheNNvjqIjEkoohufMiNDoD8RAz26a4wf9G399CNAyXMXsVFLQjQjbwxG7OzdOcrCtpijQ"
+        ],
+        rating: 5,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 2,
+        num_offers: 12,
+        typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "PUMA",
+            store_rating: "4.8/5",
+            price: "115.00",
+            shipping: "Free delivery Sep 4-10",
+            original_price: null,
+            condition: "NEW",
+            payment_methods: "PayPal, Google Pay accepted"
+        }
+    },
+    {
+        id: "12930539638599988308",
+        title: "Puma MB.03 Lo Team Men's",
+        brand: "puma",
+        description: "LaMelo Ball's third signature shoe Mb.03 takes a trip to the never before seen alternative universe that is the Melo world. Highlighted by slime inspired rubber wrap-ups and an engineered knit upper with scratch cutouts the MB3 is truly Not From Here. The slime sole and space-age Puma Hoops tech including Nitro foam make tournament ready look interplanetary.",
+        photos: [
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTE_G06MO727KIehlEFedwLNSmrkl1oXDAQKeCO1RV5MFJHDcNoOUQd5l3AjF2RQy7d9NICOGEA45KGTE3K538sboyYu2KxilORK1KTkIVJRIqCxRrVYEbUhCE",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSALg2C-UXJlwVQyJQsl8wvq_KM3Ir1bybAckB8RZDFhcGXmPQX-93OAdt7kbtrkYjD5VOteQcy3M4ZrJCf-uA70XKSPKEQXXdfk6f73TX1bg",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTVz6YOvP41CZK-Znr99ciLoWAcdEZF3dk8qTdi2y7uTDz-wDtK-twNXhrKJYQazdAM04PHPbYu3KsaLnlYb8WjhVNTr1d5vK5IBtARwbqKrgVvxOk42cRzB6c",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSC6ebKk0HMp84ATwjzKBVegufvnZWcAY64npfwc1Il_V0yIQwdAlpUkPhxmPd0Zvi2nQuhHcVHsXnJOI-v8Xi8BZSmiEvxEP56fwaSryNdJiTIL4drG8oha-L7",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT2uCUhkxE8KREep21ge0HaR0QBdivWLhm898Wbpx1Em5rl-aLELLr1n4gC0Uj3G51SgXtWu0OjOy-rfOfFL_x4aPInW-ilyCC5Vq0eQQClflBbgEi85FLIP99E",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQTluyeFrhlzV_qLiAS4VCx2no5sSK4ZjFpUqsC2b7uaxr1ENSGDmPxANDVCAMGDCyx3BY3OR1Na0ttxxbBNXW3Zcjjn3AlgUhMlU9S-axEBYtoQ69Yq1Ql2DKy",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRdvP6iPUISONczIpt4DheydV0MKWL5z6P7E2-0p2kLtIdbgTJqNBcsZ8Rxb6ATWCNiI9FbXfzzzu5Y5v_gF_TQqn0yOKAoyDBfYItZlcckDFiPyk039lb3ZDZp",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTuecnjI-4XDzRr06YIS5HK3xlbkUxHgUt835om0NIdrJfZncV7hClREng-7upAF-gC9ioDPNOPxtDJJ1wF9g3p8eBdRs4ZOwhnM05fOnICOg",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTxqNFrMRZP0UGytTANQNyNWrFnADBnOwwgsiJicrFPHD56dQXAZQmpEuI0nkAc6n86EjlsmBt0v7UXi4V1dOaOwytbPW1pVZqu_IzGW2wD6qE",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQYHjn_zbfIgswzDdbajtIuUXAMVpRJtv62ou4VzVXxLCcQ9kjkAQmR1uf-G71WDudXprq87DsXqFMDhpuTXCPIwmbhEQ5CCFvbK4giu-JaEiFYu1HMbzr32xnR",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRMALS1MeTnMzOiz_-LappYP95fDTavgrST_T3Tz73yRDcU03n5FiWf2YuEt0PEEI3X602RbjjlubAqJoQGYl5MGWgB_-_gLvVCxEUwkD6vgg",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRJuuVxmjHBUL0ISp6Sa8MRHsH5v-_hdX1yMgKeizjXX0EAJj488CVYHxeZEJYsF1PlEowxjuZGo8J6IW_LPb3SU3_PcO6chlB-hPRhOcEynGTmmeC9eqev6Fhl"
+        ],
+        rating: 5,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 2,
+        num_offers: 13,
+        typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "DICK'S Sporting Goods",
+            store_rating: "4.6/5",
+            price: "114.99",
+            shipping: "Free delivery",
+            original_price: null,
+            condition: "NEW",
+            payment_methods: "PayPal accepted"
+        }
+    },
+    {
+        id: "304671814842113343",
+        title: "Puma Men's Viz Runner Repeat Running Sneakers",
+        brand: "puma",
+        description: "The Viz Runner Repeat is just the latest addition of the Viz-Tech line of running and training shoes. The upper here takes direct cues from a street-style, running design language, making it perfect to wear around town. Additionally, the stable cushioning and sockliner will take care of your feet when you're working up a sweat in the gym or on a run.",
+        photos: [
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQuzrm0CnlWZAxiWNTcRHniPT9yrtCxzPkvuUSJSintevwoXDxHqGVnQjwD650A1_h_-cfSszoZKXjHDA5x0kc_eqfdXGYTikyRPiP-ewEDF84Cx5ohbfXRpoJA",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQAlB-ckgRvsJpv7NLkqNM4uXiHVVVvauNzn7opQMN-LxkUgGp1t9Gzd-lVk0xw9bczB9a-dgSbjcFN9g5Ho3x29TMh0PKIO1k",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSS-_1UdDdbE72XDfF2lflo8jHQK8Q0T6T__OWNrPc2cEUcNI3GrRyOa81u3wtOPiPUt9fMAVo8aB41dB3V7bBdYm96nUnYwg0",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTTeZH32dxG4n5Ptrr2np8LzijS02t8nzSGbj4Szerul3kup4Bx2T6InkVKXBNseDz8e8JQegrCRI--j4KoT0llrO5gLZTCLoK4",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQwKF15Jhk5hhrfn9kDCQREFdvuTC8Ktjhu2Mz66ZEOcRWgXksbsCPeqncwaqTXYJC3G5pxz7I4DxKIsr5H5katVvYZBthAtnMvlI5X1YC9KsQFGP8vWmTa2Tk",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRqeD6HhM32fX2hZ-XXmDtCsr8LF2ZH1V8TRNMWbSdFBE65MCMaU5McSJXPlc_qNtCN45u-JesAcJzOEF1_uN5u9nABeOAkV0_3rCvD-QGvdsMe8LBEEj-Jb5o",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQZBF3gzJlXZpbLGsbLDBL6NquIlRuepJXnKAS1S2tj8-VPPSw6eaI5l4hB6zE7Gl37xWVIH38zN9sImCZe9zXBk4cE1v1arEZYbVJfEWBJJHGI3sZ49pyNWYRf"
+        ],
+        rating: 4.2,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 618,
+        num_offers: 6,
+        typical_price_range: [
+            "$29",
+            "$50"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "PUMA",
+            store_rating: "4.8/5",
+            price: "32.50",
+            shipping: "$8 delivery Sep 4-10",
+            original_price: null,
+            condition: "NEW",
+            coupon_discount_percent: "50% off",
+            payment_methods: "PayPal, Google Pay accepted"
+        }
+    },
+    {
+        id: "7718930825786427109",
+        title: "Puma Easy Rider Vintage Sneakers",
+        brand: "puma",
+        description: "Easy Rider Vintage Stride effortlessly in style with Puma's Easy Rider shoes, blending retro charm with modern comfort. Experience the perfect fusion of sleek design, cushioned support, and timeless coolness in every step. Elevate your journey with Puma Easy Rider: where classic meets contemporary Specs Textile base upper with suede leather overlays looks sleek and provides comfort. Rubber outsole delivers grip and traction.",
+        photos: [
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQebsLFJYLJfCGQXwA-AlgA7TgPmaW7KfRdFIffSEleW7PcSy6hv-uLTZYB3WCrHnkuBn2_VYLpdUpzPes5K2Ieo-AFz1ha2ep56IkehwN5oq1mwPT_3B-u0uDP",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQlnuk2n5uhkqzHHlHryNW1teWvpj2PTzoJpr0ImUwGhp9jnTfNlHC9WQbZVaMoVfKWJl2ZiFwhQV1jcqOz3GoAUoVYTOAgNv77Hep9nO-8pmI",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT9PRjh5JAnTEw-_VKLiwAypuDqqKL0zcRzPLiwj8OLiX-pX1WWP9ylRqBsmz9YQcHKtFhufkqrl4dFQoTyuhzdLjyrR4xjBoMgRDRsOTw4Yz4",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR71vVqZluC-THsfFfrnzZdzenrZScS4fSCdlndhvOMCw3LRZa6MJdDB50DpEpFW781lR9kfWxjq01uNU5j6aAj_gBu-tdbWZIuuN4K-hNaD_9SetzeTzc4dcs",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSxpTfn_hU6SwAGQd_wicW1n_6D5bsgTl4ij_8EnMxyTcYahCs9ZyQkfTvoMjUCj6SL9xxSbDVO1LBA1gU0IwdRFm8RR70g7Z67Cmp9SW6U_GeZcx-iQp-RqUrN",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQop9A04dgaiBS_jWJZ0RmwIr52yPUZG6vPVxKXKCrYtyM1px949mFQhgbtAP6bmqcoqe_6P4go78WdhFMc_2NCinGG3NVUIb7X9WCb0X5vdONF86o3RaRXYRid",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR-iA_oeVvYezwhI57ogk4cL0rhrQa5r_cK1mUx7U0gIMNhsaCz3ehzCk9TthOGSZP8aDVFV2trNOF010D5mC0x5DAirIn8JdJrqsm6w5KyM2c",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQw41t20braYT3cKpDb9M9B8PdsBS7ikubCElXUQM0jrQIrvru82S9Mg-u_J7RC3rCwD80YsF5_EG4RJtE5anmzwqXaPSrSHoc4_PEbY-sDUaF7qAnbYN2t0CFi2g",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTSY2WNhAchbtfkGiepv-9l51ycMpfvYmP-ngAFrw3FMAmoYvnaTozgcagzhMZcbOWuOJYYta4CSAcaza3KB0gXsY-o3qkAmmtEEwfP0KKCOMCnKU92ImtfIKHR"
+        ],
+        rating: 4.3,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 92,
+        num_offers: 12,
+        typical_price_range: [
+            "$90",
+            "$110"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "PUMA",
+            store_rating: "4.8/5",
+            price: "90.00",
+            shipping: "Free delivery Sep 4-10",
+            original_price: null,
+            condition: "NEW",
+            payment_methods: "PayPal, Google Pay accepted"
+        }
+    },
+    {
+        id: "1588001988629498435",
+        title: "Puma Reflect Lite 'Black White Men's",
+        brand: "puma",
+        description: "Lightness equals quickness in this lightweight runner reinforced with PUMALite foam technology. The upper of this shoe is made with at least 30% recycled materials and the bottom is made with at least 10% recycled materials, as a step toward a better future. Textile and synthetic upper. Ultra lightweight PUMALite midsole. Full rubber for outsole traction and durability during training and everyday wear. Midfoot lockdown support with a soft tongue for comfort. PUMA Formstrip on the lateral sides. PUMA Cat Logo on the lateral toe.",
+        photos: [
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ2BeubUh8W1Aw9oXcHrz5bewCqYbi7idk8KXTSt5M0cJrXDQZAuW7elBnr5ZaWndkpdwMBrlWPtAKNeiwJ38NQ3hk8O2RjvxZ49b6brKikpAb0iDWHV0RKqc2nrQ",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQF_A_za9amR11eQS5RN0F7ie0eDvfZHuxdrh4NQDh7TsWWQu2NbTI27oyUDpzGhLzinQx5k0_e0te4IorA3FSgQXGC2mmTJr2I_NJUt3DVDg",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRcgLwcU_fqLdUNRMWUnn4qTnfnsW3D4vcNPP8QAxxsskF-FZrZfYZxWmedov4lYfcBNEqR2CqFx4U2503R_G5JPDCWGgWtCzQBjI9yfkzFOQ",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTB4Z-j0lcJfbr72pgJ8KE2ix1NsKHlFEE-2_5GoxqxPFsh61w7EiosCqHMDlT9a5TZ1Cb8ZpxHXBzWUO-TcOFzYWxE_HE3D9b8YwNm0FjcG8NUBTIBwGsxPG0",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBCMSAYP55bFExAlYcA8ZBapJE2zWp-hocJJjHMjlhbOjlG_B6w3hERa9MFuzg4xKyzg_KiyQy4u7jdu7wN5xL_2ywTyc-I6BQmHOASDBj6fP4yAKkHgBosPRJRA",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSjQlPBRyZ9of1gG0nycFRHIPOwwB65Qr13S9KUGaw_rAFimH1UBDtgvrHoVGWmL2aMyeVdhldyTQ_4WmJjU7NFy99--unQ6zBF9u9XPAaJMk9xRpQgWwhGQO5wTw",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTMUVqZa3MSJ3K0MgS1-T9-v2NuopjVxCoj6GUWclZ3JYDr1PTGEdFSK6MrclO-iJPq2k-y_73vvTGAGsyZUBr52J6MiRvO3DvtWbUwLYmi9a3Jik1niGN34uoW",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTOl4tBLnNw_WIZot66WaQ2dkD12jYkHpn-_fEQO59ZeC2E5Kf2TPR-uEAJqAk8URdEGKn89z4bx_4FYmWBfbGXnv0xm75K_Ohx2EVx3VLMXAeiyWgulerABYkz"
+        ],
+        rating: 4.5,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 114,
+        num_offers: 1,
+        typical_price_range: [
+            "$51",
+            "$51"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "PUMA",
+            store_rating: "4.8/5",
+            price: "35.00",
+            shipping: "$8 delivery Sep 4-10",
+            original_price: null,
+            condition: "NEW",
+            coupon_discount_percent: "50% off",
+            payment_methods: "PayPal, Google Pay accepted"
+        }
+    },
+    {
+        id: "17077425702554841458",
+        title: "Puma Mens MB.01 Thermal Basketball Shoes",
+        brand: "puma",
+        description: "LaMelo Ball's latest “Rare Reserve” drop is the heat-vision inspired MB.01 Thermal. This limited-edition colorway of Melo's debut signature PUMA Hoops sneaker takes the MB.01's silhouette to attention-grabbing extremes. Packed with high-performance PUMA tech like NITROFOAM for next-level support and comfort, the MB.01 Thermal is built for fast-paced play, no-look passes, and end-to-end action. NITRO : Advanced nitrogen-infused foam designed to provide superior responsiveness and cushioning in a lightweight package. PUMAGRIP: Durable performance rubber compound designed for all-surface traction. Regular fit. Engineered mesh upper. TPU heel counter. LaMelo branding details on tongue. PUMA branding details.",
+        photos: [
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTyl8ZThXZXC1HwxOO1xU1z3_gG5Ivc_0FwmkuZqajp6z_SZ61vtPBYUxsbm9iz_uEEdbxtYdEfSx529pqyzwtxIx0qiVtX3meiR_Mtw25KusIr52EP_spRAKBj",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTtrlwNTTgZM0msQQmQ952Z8YlbDnvl2ax7VrxEqtIVJi4bdPBIjfuCfLOuxmLEjX_w5unlOy38hwdr5WI2MArQlcZDA3a8g4H0lmISxoXXVZYblC5DemQhU1E",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRyVncNhi8fu_8t4uhNPGhpzGBGOplSdLh0PJw2ztUCm4bKqFbnZs8Gq-MIRdZKFqjCTVx2GbyBy8t3IjfdMrD7nhPVwjZsxkvw1ayBQbr4WbOmgzK1wq2KS0b2",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSSz2OM8vyFiZpHEIa5otC395r8is4uIExxDfEe2g8QfIhBUg-Aoxv_N07n-g_MktUV29LahMewsbyBakvYiS_cWfDZuD_3rQP6lRvs36_qPKoqWuhEOiDHt5kq",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRNs5yxyt2NuSGdTo97_XjvnEjuU_xzj5Y-NyItsiMr0Xuy6_QE1HJnVKB86CfOuuUH0Dg7uCB0dHxiz5sagok_71VyZqCgbh8aL2gkxEadcQ"
+        ],
+        rating: null,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: null,
+        num_offers: 9,
+        typical_price_range: [
+            "$105",
+            "$156"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "PUMA",
+            store_rating: "4.8/5",
+            price: "140.00",
+            shipping: "Free delivery Sep 4-10",
+            original_price: null,
+            condition: "NEW",
+            payment_methods: "PayPal, Google Pay accepted"
+        }
+    },
 
+
+    // Adidas Shoes
+
+{
+        id: "3084843158440904853",
+        title: "adidas Campus 00s Mens Shoes",
+        brand: "adidas",
+        description: "Take your sneaker game to new heights with the adidas Originals Campus 00s. Designed for the hardwood, the Campus shoes took no time to adapt and rule over the street-style scene. The iconic sneakers are back with modern materials, colors, and proportions to take you on a nostalgic journey elevated with contemporary charm. Featuring a premium leather upper lined with soft textile terry fabric, these sneakers turn everything you wear into a style statement. Boasting an off-white midsole, the adidas Originals Campus 00s lets you rep the ever-evolving Campus legacy with pride. adidas Originals Campus 00s features: Regular fit allows a relaxed and easy feel. Lace closure ensures a secure fit. Rubber outsole delivers superior traction and durability.",
+        photos: [
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ4-qZMz6chPy1DTlYkKwXuWF7iqAAiOVd9hNR2My8ZNUlUe5laXC3swgs_JvzrEzjvZmty6rQ6vQNK3o2_4wVCeQDic7wDGUjDr-LWftRmww",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS4oKwQ-_pwOoIhaoFJKYOrG9F9z4lAgDxB8XbawqJYWlTZ8tvDXBOBhnNdP0esiUyf9oETbcYf9UgWl8fdQliQNexlJWoWHWrwchEPlQwmskw",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTx8giQUZztEe4YpBI1VTYTGCrVdGDFeANFffAbOsyO8i0kCNGUzoJeXp0un7Y17M77RVgRLiWTE7ldcJ8x77-jXn3Z8EtiW24g5UJM4J3phFY",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQhl9rc-8EgwF_H2oNwymjA6E9YMZ7FpLNKnV4jfOMndrBuFmUr6dV2k3TY_LZ48vP1Tqy4kZ6bZ83YlKQKNOVfBCAj0xBH6a0sVJwCsEnA2dx63YB8FZ2mNBI9",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSRnw88Tjj905cxmDhtBUswejbQnTjDNl59d5ire9zgseMIHN66mPF9aBP2kX9sMclYPT5_T7roQlVujQV-ng9YJkGlO6sVrjkH7ByVp6kqfn4",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTFXXBs9BOw0H7SS_btt7rpfBapivGPHeDusMD4Lrmvxd-4Ewroh2MWQskYlDouYPDcf2Du94T3SU_1FdO-T7qq4zqmXKCMvRnuDnaXWlOPgZA",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTXQ1_sOZimeapw46lx5VA1Ul6DrSSJ7tOKa-ee0nyBipdb3jtmiPr0B0PazMCaT9puUsL7oeTkVRh0Yo5Sp6vi65aTHbT7ZFuUuvwSrhnGCdo",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqnNV2aTGlCTdHcp55HWiFCSq4edc7iqUcB_bDnTrp35qM4-L-j1faieDUBXuRGcpT9DA44lffBgjWsUeTfAm6uTkSlIIeLhPXsTa0rRtK3A",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQt8S7SVId1XcsedIlKXEj500vIIkkUgwh0mZzMkpxL9zf7bzMkA_N9G30uSou0eMi3YMsZXE_2GtjM2Gh1_tRd8a9wskumZP-XnqByWzVaoAY",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcREBdSeHYtlhMMVY9foKITNnrNNmIk_v33LBnRC4VixYyp00ZXT3V8HIL4YpiYWGPFoGFS5341CVvBnBnncVeP0gjDeudFz1K5jALkwEiG17A",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSkrokckmktpNRTyI0-shMLS3BNyOxJ7sNJa8aIuPeAEXrBHwP0TJ-lIOPW3ofO1cIF-Tm5wftysIlSsY6EQRg3M-1nWg3Pf6NBC1ma8L87rBY",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTclJu1msod4zLZQ_wSwYTXJRG6O_qFXrMUFQOvY9C0tfbV7VNZKUo2Hdhgi_PyJOVDR9CzXnBsUKd1Dwsvc2wNqNenPn7tbaVOOhiBe8eRFA",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSTbLWAfs5CNTB_eDPlnkpapB_UFSKDGLuKYfzT6iUqixn5XHU9EIar2WmJbBx57pCBDv_qbbF1Bqe5jSx2QLpiaEak-p3QxFwNvO7Kn7LCPw",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTUApmSdDB9mooOWFtptdN-GAxTtyqFi1mSVu9bhF4Ghs8xwHH1wdmbtht-4_jbUfj0XHtAOK8VXC3t6Xp9P6b6FoRvF4LG8LSzAy68DReb5Dc",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSe0_297rIzQO6bpqda5G825U8ghdakXsaSJXvzyE65Gw9HuacHnnCkTypVlcjVlKtyjH4mUAKz9VSgrcr4tJCx6VSkKdTRvR7Yw3i7PjKpyU8"
+        ],
+        rating: 4.7,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 12,
+        num_offers: 11,
+        typical_price_range: [
+            "$120",
+            "$120"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "adidas",
+            store_rating: "4.4/5",
+            price: "120.00",
+            shipping: "$4.99 delivery Sep 2-4",
+            original_price: null,
+            condition: "NEW",
+            payment_methods: "PayPal, Google Pay accepted"
+        }
+    },
+    {
+        id: "11091575210991111156",
+        title: "adidas Men's Campus 00s",
+        brand: "adidas",
+        description: "Take your sneaker game to new heights with the adidas Originals Campus 00s. Designed for the hardwood, the Campus shoes took no time to adapt and rule over the street-style scene. The iconic sneakers are back with modern materials, colors, and proportions to take you on a nostalgic journey elevated with contemporary charm. Featuring a premium leather upper lined with soft textile terry fabric, these sneakers turn everything you wear into a style statement. Boasting an off-white midsole, the adidas Originals Campus 00s lets you rep the ever-evolving Campus legacy with pride. adidas Originals Campus 00s features: Regular fit allows a relaxed and easy feel. Lace closure ensures a secure fit. Rubber outsole delivers superior traction and durability.",
+        photos: [
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ0Zy0GFU3IzVajhaSZ5iMiN5Zlqkst6WyKSTynQFZmi-oGpCChF4c-jdTCwCnoUYBjfB9M5_-wkpW-28CNghzTbFRBIiNpA2aA2vAYLsI6-MXK0wPIJyGta2E16A",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQlIGhPQbcNHCD_hGlJ9ODIzpOK93M4TUmnSq1Jk1_ujAOfaUDbwe0BX4GYgvmFuzlsqfPwOh5RPeoHGTGUUmmKpYcUJvgTml2IjSQXhWQ1v0HXytP__F9V-mH82A",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT7LKvZlZpry-81I4M1pUxLYRODpRonnUp1Y51fXLEnKUvAsIUZFDx7T0iXWxx2T-u-EDuKOOPMdey09njNOdBM_45_V1LqDaoFkce2Itky7ifelGNNh-ONMbeY",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR8bOqfKxlv_lqxF5fdwniuT_tkqUwp3BlOrIkD7xYkU_7ARhyns6rKDeeZnP_VXEYg1wQRVBkAN8QWpD9HX28L_Cr0xxvX7ntAUSYCopbgdZFbPQ_NHzqDsCOS",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSwoon6iSuGGLjZapVlSmjzkBmxArBuSYsfg_Um3fH0-LEcquCF4PE0q8CbCuy7fIOsel98eVOaPId-1vhlQEXsN24z7eqnNYMGP5MiQf2zZQ",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRjQSzvUIi65_2A81R-04qv17T5hpYnDDeiMsiEWjYQf7NKX6MR-flPNVGOL3EABU0ORjd00Qhup9kxdIYvtLIUlpOUxwb_5_1vcWybQS5IYebvQ4mg10uW4cTVlTE",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTZa82pPQHEU3VepS6PjwH_dv_rW5ZdlEbFQeMBnA1XahuZM4Fa6PEPM42GdnXuVBJY1tmsiFMf4iKg-Ifcxd8hyw4osU0e1sCoIai_g_0YIg",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT4IvllWvrxhX-dOzqeEMhSkhkkl0ex175eu5HU1JJ52C5P2iGznOPQCSK5SoSkciWaIWMigIrsKg1rHqlnfCKyd294T_IBSvyqrfncq8gUFd0-PXNIpMSBabO6",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRH1zLSfEp0Wyk7B7hAbqlmaQmnG0qVY2k51xT7MHmUqsaB1M7N6tYQpLSu1j3G4Vlp9YGRWc6VuxEZprZt7IwGMV0x97xmpZTRrpFoYuPVJqPG3VnY7UHUaEKgFQ",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQs9Q1y33oWxWfrKCZRyy90McRQiXoc28H5MnYYGTVbnrL3wkSm7KIk_avDQl-Xr89TBPwaxfocX-uBsJOpiMrmIG7uEfVWj3SKgTqUpl9BHetPox94r8aOXCgS",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRbvOCHgcXgAIr2c-ytNotZzoaXJoY6UF9_rKtmfeSTGnl3sQTrqnV6N7eZXYi2-W0ia5Dn8j-RlymL5-YLjnKO7dADeX7TnZQLxIaqC_ssxSpqLbMIpT3ko4q0"
+        ],
+        rating: 4.9,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 21,
+        num_offers: 22,
+        typical_price_range: [
+            "$110",
+            "$110"
+        ],
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "Foot Locker",
+            store_rating: "4.5/5",
+            price: "110.00",
+            shipping: "Free delivery",
+            original_price: null,
+            condition: "NEW",
+            payment_methods: "PayPal, Google Pay accepted"
+        }
+    },
+    {
+        id: "6440806968210531677",
+        title: "adidas Men's Ultraboost 1.0 Shoes",
+        brand: "adidas",
+        description: "The Men's adidas Ultraboost 1.0 Running Shoes are the perfect choice for athletes looking to get the most out of their workout. These lightweight shoes feature a full-length Boost midsole, providing maximum energy return with every step. The upper is made from a breathable mesh material, keeping your feet cool and comfortable even during the most intense runs. The heel counter and molded TPU provide an extra level of stability, helping you stay in control during your runs. With a sleek design, these shoes are sure to turn heads as you hit the pavement. Whether you're running for your fitness or competing in a race, the Men's adidas Ultraboost 1.0 Running Shoes will help you achieve your goals.",
+        photos: [
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSRGNKrYO2JH0-764GNyJ_3ijisHUK9rhCd5ZC7Se6bd6Sl5Y6TIv1Mqv0n5xI4q_Bkk6CkyY-r2Uyhd4XKSoUsRQrX_308MgOqmPYFy5C2pITCy70eXx8Ib8jX",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTQID9o8TW9hdOO93uEn5cpswaNEUTMRGwlCPh9hfwXBkOM3AMFnZ0jeOAtn_tYjc2t9MIbDFaKDlZw1y_cIRwGpehbB6xH3eGrpzGGEKd8MQ",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTG50dRM3BPmX2glupkks83HIUdaOBRNSgHa9pPLyIMA2FMD4CA7AAjwL_SLwGzK2lcv4KIWeW8Xkp7AHK5TE2j7aXzknBDONVes5bdRzA4XA",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQEhwUTkGM_QcRhl_LaBGqxS-wGi8LpDgc__0yui2TzQ_gL2-5WO_7JC2e_vg1Kkf6iQjnVdqj9Ae0GOkUzbmaF4tri_5xspBJL6tXKqZhuPA",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBAoR-Grwvprml-ENK1WC9r7BQG1e8JrBzNhDC19a-qir3GPQRjRXgnaCBBsFzA6IwO0WeLCLL1K6ulL-3uCX5xv7KkP9NuK2VtE6avKCTQJA",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQCfY8NHw_6mZgUAs8ZXFT9U6KdxNDM-n6Ztkf6xD7lhnFx6l522_G-qAfZKTnR3V9sZUiccKj7E_YeAYEc-Mcd0cOHxiN4ZQXBMRpF9cRz",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRI3n7A3vPdSj376S1lNCTg5PznWOQf-ozXMo7i56q6qgroxP_qxyvRelyKz7H7zJLBIHs1uOe07ysMKv-rja_Nykz40kFGskaXuLTRX31Vx5oQtWH78FZQfWo",
+            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSy-q68unMtVosYKBBO06FHA6WAA5d_3qaQ0dChHCypMZkvPGTqFzvq3NOhXvU5CoXiObNOKqaVMSIw1TYlWFzaxNXXEJJzUWpNg2RsWD89lzQSnrcaoXY4n25n",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS7Uh3b0vwYCVcFYFzjUbo0pTHGVYNLSm8QnDYfCkMhppzqZTo_gwix7vhrz0P4y8M7UHoh70MFDiT2T1Io7X2vA_rf_k4mmzdcKVsIfUw62wmuW8Md_tB4r8c",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQKIa0FEwTrvlYKQm_lLfnlshhdrhvBt3WudNDxgoshsF6ANHNa3Cn7_uPNgvU6C-WTfm5FQx7NaEgfiNaQQM0rm0c546TqZ8GxbApHXRCVI-eyPCNxMTPpZzX0",
+            "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS-qPB77LMgzB9B8o3JHVhRZrj7_N_bguXc6PhQy-kSCDu6UDyz7vPJPfjheP-bhiQrnR2oS7rI3OQoE0jMRgGPlDh4pkJOD4Ji0SO7koFrZXVltaQena_sRhA",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQpwbFF9dTeJqX6VLoYX-OiW63l7FbRvHMk0L39a3_15gBQQkcU_NMYccJEMUqQMY9Vhpaap_tP5a_y_AobxNUlB2pgN_O63WoCs4sKS7gVwBiqtq5ilQhdDr8",
+            "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR_jS05sFanFML6jMG3T-JjIOpJIckbzOpKI46_KyO4Wzo-jLT4oqS8w1vUnwO2BuxwPv3vE6Gg-vntGXbXMakdVQtlbBHjkXvTvBtq2v7FaW-DFH-iRYM7hpVi",
+            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSsJpKY_exRMQQQ2k_0jzl1BlcRv16ZskBVMlvGE-Jw9tmiUrY8vTEPmUTQRqk9-PLuG2PB6a-E51ckuk9tpdrI5xagK0pcsc-IuWMfq-iaMPDpifnBYrOUfnI"
+        ],
+        rating: 4.7,
+        sizes: [6, 7, 8, 9, 10, 11],
+        specification: {
+            color: "blue",
+            weight: "800 gm"
+        },
+        num_reviews: 181,
+        num_offers: 19,
+        typical_price_range: null,
+        similarProduct: [
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+            "8358019140023150986",
+            "7197776916411858838",
+            "369680348332067876",
+        ],
+        reviews: [
+            {
+                name: 'Kelvin Powl',
+                rating: 5,
+                review: 'I love this product',
+                review_for: 'Color grey, size 9',
+                likes: 234,
+                dislikes: 12,
+                date: '10 Aug 2024'
+            },
+            {
+                name: 'Sophia Clark',
+                rating: 4,
+                review: 'Great product, but the color was slightly off',
+                review_for: 'Color blue, size 8',
+                likes: 156,
+                dislikes: 8,
+                date: '12 Aug 2024'
+            },
+            {
+                name: 'Liam Jones',
+                rating: 3,
+                review: 'Decent quality, but not worth the price',
+                review_for: 'Color black, size 10',
+                likes: 98,
+                dislikes: 30,
+                date: '15 Aug 2024'
+            },
+            {
+                name: 'Emma Brown',
+                rating: 5,
+                review: 'Perfect fit and amazing comfort!',
+                review_for: 'Color white, size 7',
+                likes: 312,
+                dislikes: 5,
+                date: '18 Aug 2024'
+            },
+            {
+                name: 'Noah Wilson',
+                rating: 2,
+                review: 'Not what I expected, quality is poor',
+                review_for: 'Color red, size 9',
+                likes: 50,
+                dislikes: 45,
+                date: '20 Aug 2024'
+            }
+        ],
+        offer: {
+            store_name: "Amazon.com",
+            store_rating: "4.5/5",
+            price: "135.00",
+            shipping: "Free delivery",
+            original_price: null,
+            condition: "NEW",
+            coupon_discount_percent: "Was $180",
+            payment_methods: "PayPal, Amazon Pay accepted"
+        }
+    },
+    
 ]
 

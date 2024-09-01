@@ -12,6 +12,9 @@ const authSlice = createSlice({
             pin:'',
             city: '',
             state: '',
+            wishlist: [],
+            cart: [],
+            orderHistory: [],
         },
     },
     reducers:{
@@ -29,6 +32,9 @@ const authSlice = createSlice({
                 pin:'',
                 city: '',
                 state: '',
+                wishlist: [],
+                cart: [],
+                orderHistory: [],
             }
         },
         updateUserDetails: (state, action)=>{

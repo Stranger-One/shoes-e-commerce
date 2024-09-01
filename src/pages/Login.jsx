@@ -5,6 +5,7 @@ import { AiOutlineUnlock } from 'react-icons/ai'
 import { MdOutlineEmail } from "react-icons/md";
 import { useDispatch, useSelector } from 'react-redux';
 import { loginUser } from '../store/authSlice';
+import toast from 'react-hot-toast';
 
 const Login = () => {
   const [email, setEmail] = useState('')
@@ -18,15 +19,15 @@ const Login = () => {
   useEffect(() => {
     let userAccounts = JSON.parse(localStorage.getItem('UserAccounts')) || []
     setUserAccounts(userAccounts)
-    console.log("userAccounts", userAccounts);
-    console.log("userDetails", userDetails);
+    // console.log("userAccounts", userAccounts);
+    // console.log("userDetails", userDetails);
   }, [])
 
   const handleSubmit = (e) => {
     e.preventDefault()
 
     if( email === '' || password === '' ){
-      alert('Please fill all the fields')
+      toast.error('Invalid credentials')
       return
     }
 
@@ -35,18 +36,18 @@ const Login = () => {
     // console.log(password);
 
     if(userAccount[0].password !== password){
-      alert('Invalid email or password')
+      toast.error('Invalid credentials')
       return
     }
 
-    console.log(userAccount[0]);
+    // console.log(userAccount[0]);
 
     localStorage.setItem('currentUser', JSON.stringify(userAccount[0]))
     
     dispatch(loginUser({...userAccount[0], email}))
 
+    toast.success("Login successfully")
     navigate('/')
-
   };
 
 

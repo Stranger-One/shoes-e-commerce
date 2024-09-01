@@ -71,8 +71,8 @@ const Header = () => {
   //   },
   // ]
 
-  const handleSearch = () => {
-      
+  const handleSearch = (e) => {
+    e.preventDefault()
   };
 
 
@@ -83,7 +83,7 @@ const Header = () => {
         <img src="/zasira_logo.png" alt="" className='h-full w-full' />
       </div>
 
-      <div className="w-full flex justify-end gap-6 px-10 ">
+      <div className="w-full justify-end gap-6 px-10 hidden lg:flex ">
 
         <ul className=' flex gap-2'>
           {navLinks.map((item, index) => (
@@ -108,6 +108,8 @@ const Header = () => {
       {userStatus ? (
         <div className=" relative   flex items-center ">
 
+
+
           <Link to="/account/wishlist" className='px-2 py-2 rounded-full hover:bg-surface'>
             {/* <HiMenuAlt3 className='text-3xl' /> */}
             <IoMdHeartEmpty className='text-2xl' />
@@ -116,17 +118,24 @@ const Header = () => {
             {/* <HiMenuAlt3 className='text-3xl' /> */}
             <BsCart2 className='text-2xl' />
           </Link>
+          <div className="px-1 py-1 relative hover:bg-surface rounded-full lg:hidden">
+            <Link to=""><HiMenuAlt3 className='text-3xl' />
+            </Link>
+          </div>
         </div>
       ) : (
-        <Link to='/login' className='bg-primary px-6 py-1 text-background rounded-lg text-xl w-fit ' >
-          Login
-        </Link>
+        <div className=" relative   flex items-center ">
+          <Link to='/login' className='bg-primary px-6 py-1 text-background rounded-lg text-xl w-fit ' >
+            Login
+          </Link>
+          <div className="px-1 py-1 relative hover:bg-surface rounded-full lg:hidden">
+            <Link to=""><HiMenuAlt3 className='text-3xl' />
+            </Link>
+          </div>
+        </div>
       )}
 
-      {/* <div className="px-1 py-1 relative hover:bg-surface rounded-full">
-        <Link to=""><HiMenuAlt3 className='text-3xl' />
-        </Link>
-      </div> */}
+
 
     </header>
   )

@@ -12,7 +12,7 @@ const InfiniteScroller = () => {
       ]
     
     return (
-        <div className="brandsInfinite w-full mt-10 overflow-hidden whitespace-nowrap ">
+        <div className="brandsInfinite w-full mt-10 overflow-hidden whitespace-nowrap hidden lg:block">
             <div className=" inline-block whitespace-nowrap animation">
                 {brandLogos.map((image, index) => (
                     <img src={image} key={index} alt="" className='h-10 contrast-0 inline-block mx-4' />

@@ -56,20 +56,20 @@ const Home = () => {
   const randomIds = useMemo(() => generateRandomNumArr(15), [products.length]);
   // console.log(randomIds);
   return (
-    <section className='w-full px-10 py-6'>
-      <div className=" w-full hero grid grid-cols-[20%_80%] h-96">
-        <div className="h-full overflow-auto relative pr-1">
+    <section className='w-full px-4 lg:px-10 py-6'>
+      <div className=" w-full hero grid grid-cols-1 lg:grid-cols-[20%_80%] h-60 lg:h-96">
+        <div className="h-full overflow-auto relative pr-1 hidden lg:block">
           <h2 className='text-lg sticky top-0 bg-ground'>All Brands</h2>
           <ul className='flex flex-col gap-1'>
             {brands.map((brand, index) => (
-              <Link key={index} className='text-[16px] flex justify-between items-center capitalize px-2 py-1 bg-surface rounded-lg'>
+              <Link key={index} className='text-[16px] flex justify-between items-center capitalize px-2 py-1 bg-surface rounded-lg group'>
                 <span>{brand}</span>
-                <IoIosArrowForward />
+                <IoIosArrowForward className='group-hover:translate-x-[2px] ' />
               </Link>
             ))}
           </ul>
         </div>
-        <div className="w-full h-96 pl-10">
+        <div className="w-full h-60 lg:h-96 lg:pl-10">
           <Swiper
             slidesPerView={1}
             spaceBetween={30}
@@ -127,22 +127,22 @@ const Home = () => {
         <NewArrivals />
       </div>
 
-      <div className="w-full  grid grid-cols-3 content-center my-10 ">
-        <div className='flex flex-col items-center justify-center'>
+      <div className="w-full grid grid-cols-1 lg:grid-cols-3 content-center my-10 gap-4 ">
+        <div className='flex flex-col items-center border-surface border-[1px] py-10 rounded-lg justify-center'>
           <div className="h-12 w-12 rounded-full bg-secondary mb-4 flex items-center justify-center">
           <TbTruckDelivery  className='text-ground text-2xl'/>
           </div>
           <h2 className='uppercase text-lg'>free and fast delivery</h2>
           <p className='text-sm text-zinc-500'>free delivery for order over $78</p>
         </div>
-        <div className='flex flex-col items-center justify-center'>
+        <div className='flex flex-col items-center border-surface border-[1px] py-10 rounded-lg justify-center'>
           <div className="h-12 w-12 rounded-full bg-secondary mb-4 flex items-center justify-center">
           <BiSupport  className='text-ground text-2xl'/>
           </div>
           <h2 className='uppercase text-lg'>free and fast delivery</h2>
           <p className='text-sm text-zinc-500'>free delivery for order over $78</p>
         </div>
-        <div className='flex flex-col items-center justify-center'>
+        <div className='flex flex-col items-center border-surface border-[1px] py-10 rounded-lg justify-center'>
           <div className="h-12 w-12 rounded-full bg-secondary mb-4 flex items-center justify-center">
           <IoShieldCheckmarkOutline className='text-ground text-2xl ' />
           </div>

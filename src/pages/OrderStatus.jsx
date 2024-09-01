@@ -2,7 +2,7 @@ import React from 'react'
 
 const OrderStatus = () => {
   return (
-    <div>OrderStatus</div>
+    <div className='w-full h-full flex items-center justify-center'>OrderStatus is on working...</div>
   )
 }
 
