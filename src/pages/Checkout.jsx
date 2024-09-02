@@ -59,7 +59,7 @@ const Checkout = () => {
     };
 
     return (
-        <form onSubmit={handleSubmit} className='px-10 w-full'>
+        <form onSubmit={handleSubmit} className='lg:px-10 w-full'>
             <h2>Order Summary</h2>
             <div className="w-full p-4 flex flex-wrap justify-between items-center my-2 boxShadow">
                 <h2 className='text-2xl leading-tight col-span-full mb-2'>Delivered to:</h2>
@@ -89,21 +89,21 @@ const Checkout = () => {
                 <div className="w-full flex gap-4 justify-between items-center  px-10 py-2  hover:shadow-lg duration-200 hover:-translate-y-[1px] ">
                     <input type="radio" onChange={handlePaymentChange} name='Payment' id='credit' className='w-4 h-4' />
                     <label htmlFor="credit" className='w-full mr-10 flex justify-between gap-2 items-center'>
-                        <span className='flex items-center gap-2'><FaCreditCard />Credi Card</span> <span className='self-end rounded-full hover:bg-surface p-2'><IoIosArrowDown /></span>
+                        <span className='flex items-center gap-2 whitespace-nowrap'><FaCreditCard />Credi Card</span> <span className='self-end rounded-full hover:bg-surface p-2'><IoIosArrowDown /></span>
                     </label>
                 </div>
                 <hr className='my-1 border-t-2 border-surface' />
                 <div className="w-full flex gap-4 justify-between items-center  px-10 py-2  hover:shadow-lg duration-200 hover:-translate-y-[1px] ">
                     <input type="radio" onChange={handlePaymentChange} name='Payment' id='banking' className='w-4 h-4' />
                     <label htmlFor="banking" className='w-full mr-10 flex justify-between gap-2 items-center'>
-                        <span className='flex items-center gap-2'><RiBankFill />Net Banking</span> <span className='self-end rounded-full hover:bg-surface p-2'><IoIosArrowDown /></span>
+                        <span className='flex items-center gap-2 whitespace-nowrap'><RiBankFill />Net Banking</span> <span className='self-end rounded-full hover:bg-surface p-2'><IoIosArrowDown /></span>
                     </label>
                 </div>
                 <hr className='my-1 border-t-2 border-surface' />
                 <div className="w-full flex gap-4 justify-between items-center  px-10 py-2  hover:shadow-lg duration-200 hover:-translate-y-[1px] ">
                     <input type="radio" onChange={handlePaymentChange} name='Payment' id='cash' className='w-4 h-4' />
                     <label htmlFor="cash" className='w-full mr-10 flex justify-between gap-2 items-center'>
-                        <span className='flex items-center gap-2'><BsCashStack />Cash on Delivery</span> <span className='self-end rounded-full hover:bg-surface p-2'><IoIosArrowDown /></span>
+                        <span className='flex items-center gap-2 whitespace-nowrap'><BsCashStack />Cash on Delivery</span> <span className='self-end rounded-full hover:bg-surface p-2'><IoIosArrowDown /></span>
                     </label>
                 </div>
             </div>

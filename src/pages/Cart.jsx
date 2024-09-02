@@ -47,9 +47,17 @@ const Cart = () => {
   return (
     <div className='w-full flex flex-col px-4 lg:px-10 '>
       <div className="flex flex-col gap-4">
-        {userDetails.cart.map((product, index) => (
+        {userDetails.cart.length > 0 ? userDetails.cart.map((product, index) => (
           <CartProduct key={index} cartproduct={product} />
-        ))}
+        )) : (
+          <div className="w-full col-span-full flex flex-col justify-center items-center h-[60vh] ">
+          <p className="text-zinc-700 font-semibold capitalize leading-tight  ">
+            You cart is empty
+          </p>
+          <Link to="/product" className="text-blue-500 hover:text-blue-700 text-lg capitalize">
+            explore products</Link>
+        </div>
+        )}
       </div>
       <div className="w-full border-[1px] border-surface p-4 lg:p-10 mt-10 rounded-lg ">
         <h2 className='text-xl mb-2'>Billing</h2>

@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { Link, NavLink } from 'react-router-dom'
 import { BsCart2 } from "react-icons/bs";
 import { IoMdHeartEmpty } from "react-icons/io";
@@ -18,6 +18,7 @@ import { IoIosSearch } from "react-icons/io";
 const Header = () => {
   const dispatch = useDispatch();
   const userStatus = useSelector(state => state.auth.userStatus)
+  const [menuOpen, setMenuOpen] = useState(false)
 
 
   const navLinks = [
@@ -48,31 +49,13 @@ const Header = () => {
     },
   ]
 
-  // const otherLinks = [
-
-  //   {
-  //     label: 'Cart',
-  //     icon: <BsCart2 className='text-3xl' />,
-  //     url: '',
-  //     count: 0
-
-  //   },
-  //   {
-  //     label: 'Wishlist',
-  //     icon: <IoMdHeartEmpty className='text-3xl' />,
-  //     url: '',
-  //     count: 0
-  //   },
-  //   {
-  //     label: 'Orders',
-  //     icon: <HiTemplate className='text-3xl' />,
-  //     url: '',
-  //     count: 0
-  //   },
-  // ]
 
   const handleSearch = (e) => {
     e.preventDefault()
+  };
+
+  const menuToggle = () => {
+    setMenuOpen(toggle => !toggle)
   };
 
 
@@ -83,12 +66,12 @@ const Header = () => {
         <img src="/zasira_logo.png" alt="" className='h-full w-full' />
       </div>
 
-      <div className="w-full justify-end gap-6 px-10 hidden lg:flex ">
+      <div className={` border-surface rounded-lg border-2 lg:border-none py-8 lg:py-0 lg:w-full lg:justify-end gap-6 px-10 flex flex-col-reverse lg:flex-row  absolute top-16  bg-ground w-[350px] ${menuOpen ? "right-2" : "-right-[100%]"} lg:relative lg:top-0 lg:right-0`}>
 
-        <ul className=' flex gap-2'>
+        <ul className=' flex gap-2 flex-col lg:flex-row'>
           {navLinks.map((item, index) => (
-            <NavLink key={index} to={item.url} className={({ isActive }) =>
-              `flex items-center text-2xl gap-2 hover:bg-surface px-2 rounded-md ${isActive ? "bg-surface" : ""} `
+            <NavLink onClick={menuToggle} key={index} to={item.url} className={({ isActive }) =>
+              `flex items-center text-2xl gap-2 hover:bg-surface p-2 lg:py-0 lg:px-2 rounded-md ${isActive ? "bg-surface" : ""} `
             } >
               <div className="md:hidden">
                 <React.Fragment >
@@ -100,7 +83,7 @@ const Header = () => {
           ))}
         </ul>
 
-        <form onSubmit={handleSearch} className='grid lg:grid-cols-[auto_20px] gap-1 rounded-lg border-secondary border-[1px] px-2 py-[2px] '>
+        <form onSubmit={handleSearch} className=' lg:grid-cols-[auto_20px] gap-1 rounded-lg border-secondary border-[1px] px-2 py-[4px] flex items-center'>
           <input type="text" placeholder='Search Your Products..' className='bg-transparent outline-none text-[16px] md:hidden lg:block' />
           <button type='submit' className=' '><IoIosSearch className='text-2xl' /></button>
         </form>
@@ -119,8 +102,8 @@ const Header = () => {
             <BsCart2 className='text-2xl' />
           </Link>
           <div className="px-1 py-1 relative hover:bg-surface rounded-full lg:hidden">
-            <Link to=""><HiMenuAlt3 className='text-3xl' />
-            </Link>
+            <button onClick={menuToggle} to=""><HiMenuAlt3 className='text-3xl' />
+            </button>
           </div>
         </div>
       ) : (
@@ -129,8 +112,8 @@ const Header = () => {
             Login
           </Link>
           <div className="px-1 py-1 relative hover:bg-surface rounded-full lg:hidden">
-            <Link to=""><HiMenuAlt3 className='text-3xl' />
-            </Link>
+            <button onClick={menuToggle} to=""><HiMenuAlt3 className='text-3xl' />
+            </button>
           </div>
         </div>
       )}

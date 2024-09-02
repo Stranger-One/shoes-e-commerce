@@ -36,6 +36,10 @@ const Contact = () => {
       }
 
       // console.log(data);
+      setName('')
+      setEmail('')
+      setPhone('')
+      setMessage('')
       toast.success("Message send successfully")
     } else {
       toast.error("Please fill all the fields")
